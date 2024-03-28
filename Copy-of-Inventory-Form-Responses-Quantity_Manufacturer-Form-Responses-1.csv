@@ -1,0 +1,1716 @@
+Pallet,"Month, Year",Timestamp,Item (ex. Surgical Gloves),Manufacturer ,Quantity (ex. 200),Expiration date (ex. 12/31/2024),Category,Notes,Pallet Number (Blueprints member will give this),Box Number (Blueprints member will give this)
+,,1/19/2024 15:27:43,Plastic cup lids ,Dart,1000 lids,,Other,,11,1
+,,1/19/2024 15:27:45,Lids ,Dart,1000,,Other,,11,3
+,,1/19/2024 15:27:53,Cup lids ,Dart ,1000,,Other,Cup lids ,11,1
+,,1/19/2024 15:28:47,Cups ,Dart ,1000,,Other,,11,6
+,,1/19/2024 15:30:26,Cup lids ,Dart ,1000,,,,11,1
+,,1/19/2024 15:30:47,Cup lids ,Dart ,1000,,Other,,11,7
+,,1/19/2024 15:30:49,,Dart,1000,,Other,,11,5
+,,1/19/2024 15:31:25,Cup lids ,Dart ,1000,,Other,,11,12
+,,1/19/2024 15:32:24,Cup lids ,Dart ,1000,,Other,,11,14
+,,1/19/2024 15:32:37,Prismaflex HF1400,Baxter ,4,8/31/2023,Other,,11,4
+,,1/19/2024 15:32:42,Cups ,Dart ,1000,,Other,,11,15
+,,1/19/2024 15:32:44,catheter,Biosense Webster,1,11/12/2023,Catheters/tubing,,14,13
+,,1/19/2024 15:32:53,Styrofoam cups,Dart,1000,,Other,,11,8
+,,1/19/2024 15:33:10,Cups ,Dart ,1000,,Other,,11,16
+,,1/19/2024 15:35:20,Temperature Ablation Catheter,Boston Scientific,1,1/12/2024,Catheters/tubing,,11,18
+,,1/19/2024 15:35:21,Safety Glide Needles,BD,40,1/21/2023,Syringe/needles,,11,17
+,,1/19/2024 15:35:42,Cup lids with straw slot,Dart,1000,,Other,,11,17
+,,1/19/2024 15:36:39,Pediatrix Oxygen Masks,Carefusion,3,7/23/2027,Other,,11,17
+,,1/19/2024 15:36:46,,Biosense Webster,1,11/9/2023,Catheters/tubing,,11,12
+,,1/19/2024 15:37:07,ChloraPrep Applicator,BD,3,,Diagnostic,No expiration date,17,11
+,,1/19/2024 15:37:41,Dilatation Catheter ,Emerge,3,11/22/2023,Catheters/tubing,,14,17
+,,1/19/2024 15:37:46,Blazer prime catheter,Boston Scientific,1,1/21/2024,Catheters/tubing,,14,9
+,,1/19/2024 15:37:52,Needles,BD,88,3/31/2023,Syringe/needles,,11,13
+,,1/19/2024 15:38:24,5mL Syringes,BD,20,,Syringe/needles,,11,17
+,,1/19/2024 15:38:54,Large Adult Blood Pressure Cuff,Critikon,4,,,,11,17
+,,1/19/2024 15:39:16,Guidewire,Argon,2,11/14/2023,Syringe/needles,,11,17
+,,1/19/2024 15:39:38,Gravity Burette,BD,10,8/2/2026,Catheters/tubing,,11,19
+,,1/19/2024 15:39:54,Vascular Closure Device,Essential Medical (Manta),5,1/20/2024,Other,,11,13
+,,1/19/2024 15:39:55,Balloon Expandable Biliary Stent,Valeo,2,1/10/2024,Catheters/tubing,,11,13
+,,1/19/2024 15:40:22,Surgical gloves,Medline,2,6/1/2022,Surgical,,11,17
+,,1/19/2024 15:40:32,Forceps,Sklar,4,5/26/2024,Surgical,,11,17
+,,1/19/2024 15:40:53,Cleaning enema bag ,Medi choice,3,,Bandages/gauze,,11,17
+,,1/19/2024 15:41:23,Chloraprep 3mL applicator,BD,1,,Surgical,,11,17
+,,1/19/2024 15:41:26,Diapers ,No manufacturer listed,2 packs,,Hygiene,Each pack has 25 diapers ,11,13
+,,1/19/2024 15:41:56,Catheter valve,Medtronic,1,10/31/2023,Catheters/tubing,,11,10
+,,1/19/2024 15:42:05,Safety glide needle,BD,5,10/31/2022,Syringe/needles,,11,17
+,,1/19/2024 15:42:08,Infant REM Polyhesive,Covidien,3,12/7/2023,Other,,11,13
+,,1/19/2024 15:42:17,Anaerobic Transport Mediums,Anaerobe Systems,30,6/13/2023,Syringe/needles,,11,17
+,,1/19/2024 15:42:21,Tubes,No manufacturer listed,1,,Catheters/tubing,,11,13
+,,1/19/2024 15:43:20,2XL Exam Gloves,Medline,2 boxes (160 total),2/1/2023,PPE,,11,13
+,,1/19/2024 15:43:44,Tuning fork,No manufacturer listed,3,,Diagnostic,,11,17
+,,1/19/2024 15:44:27,CVC Dressing Kit,Medline,1,4/30/2023,PPE,,11,13
+,,1/19/2024 15:44:28,18G precisionglide needles,BD,90,4/30/2023,Syringe/needles,,11,13
+,,1/19/2024 15:44:32,Coil expander,Cook Med,1,2/28/2028,Other,,11,17
+,,1/19/2024 15:45:06,Adult diapers,Kingsystems,50,,Other,,11,21
+,,1/19/2024 15:45:06,Gravity Burette Set,BD,10,,Catheters/tubing,,11,13
+,,1/19/2024 15:45:25,Povidone-Iodine Swabstick,PDI,5,,Other,,11,17
+,,1/19/2024 15:45:28,Lead clippers,Cook Med,1,9/30/2023,Surgical,,11,17
+,,1/19/2024 15:45:36,27G precisionglide needles,BD,90,6/30/2023,Syringe/needles,,11,13
+,,1/19/2024 15:45:51,MAYO scissors ,Sklar Sterile,1,2/17/2023,Surgical,,11,17
+,,1/19/2024 15:46:19,Dura-cuf ,Critikon ,1,,Diagnostic,,11,13
+,,1/19/2024 15:46:29,ECG electrode,ConMed,10,12/11/2024,Diagnostic,,11,22
+,,1/19/2024 15:46:29,Baby diapers,Huggies,28,,Other,,11,21
+,,1/19/2024 15:46:33,1ml Syringe ,BD,10,9/30/2028,Syringe/needles,,11,21
+,,1/19/2024 15:47:14,BD safety glide needle,BD,26,9/30/2028,Syringe/needles,,11,21
+,,1/19/2024 15:47:17,PCA administration kits ,BD,35,10/13/2025,PPE,,11,20
+,,1/19/2024 15:47:17,Vacutainer,BD,2,10/31/2023,Syringe/needles,,11,13
+,,1/19/2024 15:47:21,Endotracheal Tube,Halyard,2,11/29/2023,Catheters/tubing,,11,13
+,,1/19/2024 15:47:25,Flexor Check-Flo Introducer,,1,1/4/2024,Catheters/tubing,,11,13
+,,1/19/2024 15:48:04,nebulizer,hudson RCI,20,10/1/2023,Catheters/tubing,,11,21
+,,1/19/2024 15:48:31,SafetyGlide Needle,BD,3,5/31/2023,Syringe/needles,,11,13
+,,1/19/2024 15:49:11,Filter Needle,BD,2,8/31/2023,Syringe/needles,,11,13
+,,1/19/2024 15:49:20,Surgical gloves,Medline,35,4/28/2026,PPE,,11,20
+,,1/19/2024 15:49:31,Pediatric Bougie Endotracheal Tube Introducer,SunMed,1,7/6/2023,Catheters/tubing,,11,13
+,,1/19/2024 15:49:40,Urological Catheter,Bard,2,3/31/2023,Catheters/tubing,,11,21
+,,1/19/2024 15:49:52,Intubating Stylet,Novaplus,2,6/27/2028,Catheters/tubing,,11,13
+,,1/19/2024 15:50:02,Hemodialysis fistula needle set,Finger shield ,250,2/28/2025,Syringe/needles,,11,18
+,,1/19/2024 15:50:28,IV Catheter,Smiths Medical International ,1,9/30/2023,Syringe/needles,,11,13
+,,1/19/2024 15:51:04,Gloves (XL),Med choice,650 (5 boxes),,Hygiene,,11,19
+,,1/19/2024 15:51:10,Reflex hammer,No manufacturer listed,1,,Diagnostic,,11,13
+,,1/19/2024 15:51:25,Syringe and Needle,Smiths Medical,1,3/20/2024,Syringe/needles,,11,13
+,,1/19/2024 15:51:29,Gloves (S),Med choice ,130,,Hygiene,,11,19
+,,1/19/2024 15:51:43,Color cuff,Stryker,1,8/28/2025,Diagnostic,,11,20
+,,1/19/2024 15:51:56,Needle,BD,1,6/30/2023,Syringe/needles,,11,13
+,,1/19/2024 15:52:30,Personal Use Pack,OC-Auto,7,11/25/2023,,,11,21
+,,1/19/2024 15:52:36,Gravity Burette,BD,3,,Syringe/needles,,11,21
+,,1/19/2024 15:52:45,foley catheter,Bardex,7,3/31/2023,Catheters/tubing,,11,21
+,,1/19/2024 15:52:54,Big syringe ,No manufacturer listed,10,,Syringe/needles,,11,20
+,,1/19/2024 15:53:30,Maxguard Bi-fuse extension set,BD,4,2/8/2027,Catheters/tubing,,11,22
+,,1/19/2024 15:53:40,Gravity Burette Set,BD,2,,Syringe/needles,,11,21
+,,1/19/2024 15:54:13,Gravity Burette Set,BD,1,,Syringe/needles,,11,21
+,,1/19/2024 15:54:15,5ml Syringe,BD,32,3/31/2023,Syringe/needles,,11,21
+,,1/19/2024 15:54:44,PCA Administration Kit,BD,50,10/13/2025,Catheters/tubing,,11,23
+,,1/19/2024 15:54:58,Allevyn classic,Smith&nephew,10,3/1/2023,Bandages/gauze,,11,22
+,,1/19/2024 15:54:59,Pressure Injectable Arrowg+ard Blue Plus Three-Lumrn CVC kit,Arrow,5,7/31/2023,Surgical,,11,26
+,,1/19/2024 15:55:55,Bear hugger,3M,10,11/14/2026,Other,,11,20
+,,1/19/2024 15:55:58,10ml syringe ,BD,14,12/31/2023,Syringe/needles,,11,21
+,,1/19/2024 15:56:22,ROCH-PEAN FORCEPS,sklar,2,1/28/2023,,,11,21
+,,1/19/2024 15:56:31,Luer Lock Plug,Smiths Medical,210,4/9/2026,Other,,11,22
+,,1/19/2024 15:56:33,Foley catheter tray,Bard,1,11/30/2023,Catheters/tubing,,11,21
+,,1/19/2024 15:56:50,oral/nasal tracheal tube cuffed,coviden,1,4/1/2027,Catheters/tubing,,11,21
+,,1/19/2024 15:57:34,Urethral Catheterization Tray,Bard,1,5/31/2023,Catheters/tubing,,11,21
+,,1/19/2024 15:58:20,IV catheter,BD,50,2/28/2026,Catheters/tubing,,11,20
+,,1/19/2024 15:58:20,patient slippers,halyard,2,,Other,,11,21
+,,1/19/2024 15:58:24,3ml syringe ,BD,46,9/30/2028,Syringe/needles,,11,21
+,,1/19/2024 15:58:34,U-Bag urine collectors,Mabis,5,7/1/2025,Catheters/tubing,,11,22
+,,1/19/2024 15:59:04,PCA Administration Kit,BD,44,10/5/2026,Catheters/tubing,,11,25
+,,1/19/2024 15:59:11,Patient gown,Gentherm,1,,Other,,11,21
+,,1/19/2024 15:59:21,Swab specimens collection kit ,aptima,3,10/31/2023,,,11,21
+,,1/19/2024 15:59:23,DLP Perfusion Adapter,Medtronic,18,8/23/2026,Syringe/needles,,11,27
+,,1/19/2024 15:59:30,Oral Syringe,Avanos ,18,2/9/2026,Catheters/tubing,,11,25
+,,1/19/2024 15:59:43,Side shields for prescription glasses,Deroyal,10,,Hygiene,,11,22
+,,1/19/2024 16:00:10,Patient slippers,Halyard,2,,Other,,11,21
+,,1/19/2024 16:00:33,5ml syringe ,BD,15,10/31/2028,Syringe/needles,,11,21
+,,1/19/2024 16:00:39,protected disposable scalpels,bard parker,4,6/20/2023,Surgical,,11,21
+,,1/19/2024 16:00:43,Silver nitrate applicators ,Grafco ,100,,Diagnostic,,11,27
+,,1/19/2024 16:01:00,Face Shields,No manufacturer listed,2,,PPE,,11,27
+,,1/19/2024 16:01:04,safety glide needle ,BD,2,6/30/2028,,,11,21
+,,1/19/2024 16:01:20,Foley Tray System ,Bard Medical,2,2/28/2026,Catheters/tubing,,11,25
+,,1/19/2024 16:01:27,Gloves (XL),Sending care Ice,230,,Hygiene,,11,27
+,,1/19/2024 16:01:34,Tracheostomy ,Smith & Nephew,9,3/1/2026,Bandages/gauze,,11,25
+,,1/19/2024 16:01:41,Tear away gown,,10,,Surgical,,11,27
+,,1/19/2024 16:01:49,Valve cap,Carefusion,6,5/5/2028,Catheters/tubing,,11,22
+,,1/19/2024 16:01:53,Luer lock-to-urethra tip adapter,Baxter,4,2/28/2026,Other,,11,25
+,,1/19/2024 16:02:03, 50 mL syringe,BD,1,7/31/2028,Syringe/needles,,11,21
+,,1/19/2024 16:02:17,IV catheter 3.25 in,BD,1,7/31/2028,Catheters/tubing,,11,21
+,,1/19/2024 16:02:39,Wireless Chair Sensor pad,Posey,1,,Other,,11,27
+,,1/19/2024 16:02:46,athletic supporter,actimove,1,,,,11,21
+,,1/19/2024 16:02:52,IV catheter 1.75 in,BD,1,11/1/2022,Catheters/tubing,,11,21
+,,1/19/2024 16:03:07,Solution Set,Clear link System,2,,Syringe/needles,,11,27
+,,1/19/2024 16:03:09,Child’s face mask ,Halyard ,75,,Hygiene,,11,27
+,,1/19/2024 16:03:14,Diapers ,Pampers,4 packs,,Hygiene,20 diapers per pack,11,25
+,,1/19/2024 16:03:15,Gravity Burette Set,BD,4,8/2/2026,Catheters/tubing,,11,25
+,,1/19/2024 16:03:20,Surgical gloves ,Molnlycke,2,3/28/2026,Surgical,,11,22
+,,1/19/2024 16:03:31,Stomach Tube,Covidien ,14,3/31/2028,Catheters/tubing,,11,25
+,,1/19/2024 16:03:38,IV catheter 1.77 in,BD,2,2/28/2026,Catheters/tubing,,11,21
+,,1/19/2024 16:03:42,Laser Oral Tracheal Tube,Covidien,1,1/15/2025,Other,,11,27
+,,1/19/2024 16:03:47,Diapers ,Pampers,4 packs,,Hygiene,20 diapers per pack,11,25
+,,1/19/2024 16:04:17,Suture needle,Ethicon,1,10/31/2026,Syringe/needles,,11,22
+,,1/19/2024 16:04:21,Shielded IV catheter,BD,2,4/30/2026,Catheters/tubing,,11,21
+,,1/19/2024 16:04:53,Muslin Gauze Towel,DeRoyal,1,8/28/2028,Bandages/gauze,,11,25
+,,1/19/2024 16:04:53,Spinal Needle,spinocan,1,6/30/2028,Syringe/needles,,11,21
+,,1/19/2024 16:04:53,Procedure Mask,MediChoice,50,9/9/2024,PPE,,11,27
+,,1/19/2024 16:05:08,EKG Electrode,,8,,Diagnostic,,11,17
+,,1/19/2024 16:05:15,Spring Wire Guide with Arrow Advancer,Arrow,2,8/31/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:05:18,Fog free surgical mask,Halyard,25,1/11/0024,Surgical,,11,27
+,,1/19/2024 16:05:32,shielded iv catheter 1.88 in,BD,1,2/28/2026,Catheters/tubing,,11,21
+,,1/19/2024 16:05:39,Kangaroo,Covidien,17,12/31/2025,Other,,11,25
+,,1/19/2024 16:05:41,Fluoride Toothpaste,DawnMist,10,5/6/2026,Hygiene,,11,21
+,,1/19/2024 16:06:05,Luer lock to Luer lock connector,Baxter,18,6/30/2026,Catheters/tubing,,11,22
+,,1/19/2024 16:06:09,Wee Soothie (pacifier),Philips,1,,Other,,11,25
+,,1/19/2024 16:06:18,Decannulation Plug,Covidien Shiley,1,2/24/2027,Other,,11,25
+,,1/19/2024 16:06:19,shielded iv catheter 1.16 in,BD,1,6/30/2026,Catheters/tubing,,11,21
+,,1/19/2024 16:06:52,Heart Pillow (literally),Shumsky ,1,,Other,,11,25
+,,1/19/2024 16:07:23,Suction Catheter with Chimney Valve,Cardinal Health,12,,Catheters/tubing,,11,22
+,,1/19/2024 16:07:25,Tracheostomy Tube Cuddles with Inner Cannula,Covidien,1,2/24/2027,,,11,25
+,,1/19/2024 16:07:31,PVC nasopharyngeal airway,PVC,1,6/28/2023,,,11,21
+,,1/19/2024 16:07:34,Intubation Stylet,Teleflex Medical,2,4/19/2027,Catheters/tubing,,11,27
+,,1/19/2024 16:07:34,Needle-Free Valves,BD,6,12/31/2024,Syringe/needles,,11,27
+,,1/19/2024 16:07:39,Catch guard ,Arrow,1,,Catheters/tubing,,11,27
+,,1/19/2024 16:07:48,Camera cover ,Advance,1,6/27/2027,Other,,11,25
+,,1/19/2024 16:07:48,Blunt Fill Needle,BD,1,9/30/2028,Syringe/needles,,11,25
+,,1/19/2024 16:07:50,All-purpose urethral catheter,Bard,1,,Catheters/tubing,,11,21
+,,1/19/2024 16:08:13,PrimaFit device ,Stryker,1,,Hygiene,No expiration date,11,21
+,,1/19/2024 16:08:24,Guiding catheter,Medtronic,1,12/22/2023,Catheters/tubing,,11,28
+,,1/19/2024 16:08:36,Intubating Stylet,Teleflex,1,2/21/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:08:48,Shielded IV catheter 1.16 in,BD,1,10/1/2022,Catheters/tubing,,11,21
+,,1/19/2024 16:08:55,Safety infusion set,Bard access ,5,4/10/2026,Catheters/tubing,,11,22
+,,1/19/2024 16:09:37,Esophageal Stethescope,De Royal Industries,1,10/7/2025,Diagnostic,,11,27
+,,1/19/2024 16:09:41,Argyle catheter,Argyle ,1,10/31/0027,Catheters/tubing,,11,27
+,,1/19/2024 16:09:44,Electrophysiology catheter,Biosense Webster,1,1/29/2024,Catheters/tubing,,11,30
+,,1/19/2024 16:10:44,1000ml canister for InfoVAC and VACULTA,KCl,1,7/31/2025,Catheters/tubing,,11,22
+,,1/19/2024 16:10:59,ESwab,BD,1,10/17/2024,Diagnostic,,11,21
+,,1/19/2024 16:11:04,spray bottle caps,No manufacturer listed,3,,,,11,21
+,,1/19/2024 16:11:08,1,Boston Scientific,1,1/4/2024,Catheters/tubing,,11,20
+,,1/19/2024 16:11:44,Spinal Needle,B Braun Medical ,2,6/30/2028,Syringe/needles,,11,22
+,,1/19/2024 16:11:47,Needle (0.5mm x 16mm),BD,1,6/30/2028,Syringe/needles,,11,21
+,,1/19/2024 16:11:49,Probe Covers,Sheathes Technologies Inc,75,1/1/2024,PPE,,11,27
+,,1/19/2024 16:11:50,Intubating Stylet,Hudson RCI,1,2/21/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:11:58,Lumbar Puncture,Presource,2,5/1/2024,Surgical,,11,27
+,,1/19/2024 16:12:32,removable IV connector ,BD,1,11/3/2026,Catheters/tubing,,11,21
+,,1/19/2024 16:12:55,IV caps,3M,1 roll,,Other,,11,21
+,,1/19/2024 16:13:27,Graduated Nurser,Mead Johnson,2,8/1/2028,Other,,11,22
+,,1/19/2024 16:13:41,3mL Syringes,BD,10,11/30/2023,Syringe/needles,,11,27
+,,1/19/2024 16:13:51,3ml syringe ,Lure lok,7,,Syringe/needles,,11,27
+,,1/19/2024 16:14:16,Plastic (boot shaped),,29,,Other,,11,22
+,,1/19/2024 16:14:23,Tracheostomy Tube Holders,Dale,10,6/30/2028,Catheters/tubing,Fits up to 46 cm neck,11,29
+,,1/19/2024 16:14:59,Laryngeal Mask,Ambu ,19,6/25/2024,Catheters/tubing,,11,29
+,,1/19/2024 16:15:16,Bronchoscope,GlideScope,1,1/13/2024,Catheters/tubing,,11,27
+,,1/19/2024 16:15:18,Providone-Iodine Swabsticks,Medline,10,10/1/2023,Hygiene,,11,27
+,,1/19/2024 16:15:26,Angiographic catheter,Merit Medical,1,1/12/2024,Catheters/tubing,,11,31
+,,1/19/2024 16:15:45,Silicone Foley catheter 2-way,Coloplast,1,12/6/2027,Catheters/tubing,,11,22
+,,1/19/2024 16:16:03,Sodium Flush Syringe,BD,3,3/31/2026,Syringe/needles,,11,27
+,,1/19/2024 16:16:26,Angiographic catheter,Merit Medical,1,1/12/2024,Catheters/tubing,,11,33
+,,1/19/2024 16:17:00,Elastic net,Medline,2,,Bandages/gauze,,11,22
+,,1/19/2024 16:17:04,Tracheostomy Tube Cuffless with Inner Cannula,Covidien,5,8/14/2024,Catheters/tubing,,11,29
+,,1/19/2024 16:17:12,Neonatal Needle,BD,30,5/31/2023,Syringe/needles,,11,27
+,,1/19/2024 16:17:22,Exam Gloves,MediChoice,150,11/23/2023,PPE,,11,29
+,,1/19/2024 16:17:55,Specula,Welch Allyn,15,,Diagnostic,,11,27
+,,1/19/2024 16:18:29,anesthesia face masking ,ambu,1,10/3/2026,,,11,27
+,,1/19/2024 16:18:35,2XL Exam Gloves,Medline,80,2/1/2023,PPE,,11,29
+,,1/19/2024 16:18:37,cvc dressing kit,Medline,1,11/30/2024,PPE,,11,27
+,,1/19/2024 16:18:44,Transseptal needle,St. Jude Medical,1,10/31/2023,Catheters/tubing,,11,32
+,,1/19/2024 16:18:50,Endotracheal Tube Bite Block,BB medical technologies ,2,9/1/2028,Catheters/tubing,,11,22
+,,1/19/2024 16:19:00,CVC Dressing Kit,Medline,1,11/30/2024,Surgical,,11,27
+,,1/19/2024 16:19:03,Swab Specimen,Aptima,15,8/1/2027,Diagnostic,,11,27
+,,1/19/2024 16:19:11,Laryngectomy Tube,Covidien shiley,3,6/7/2023,Catheters/tubing,,11,29
+,,1/19/2024 16:19:19,Bair Hugger,3M,2,11/14/2026,Hygiene,Needs a warming unit,11,29
+,,1/19/2024 16:19:37,Transseptal needle,Baylis,1,10/28/2023,Catheters/tubing,,11,34
+,,1/19/2024 16:19:48,Bladder catheter tiemann ,Teleflex,2,7/31/2026,Catheters/tubing,,11,22
+,,1/19/2024 16:19:59,Camera Cover,Advance,9,6/27/2027,Other,,11,29
+,,1/19/2024 16:20:01,Safety infusion set,Bard Access Systems,2,8/31/2026,Other,,11,27
+,,1/19/2024 16:20:33,3mL Applicator,BD,3,,Other,,11,27
+,,1/19/2024 16:20:43,All-silicone Foley catheter ,Bard,2,10/10/2027,Catheters/tubing,,11,22
+,,1/19/2024 16:20:50,Pinnacle,Terumo,1,1/1/2024,Catheters/tubing,,11,29
+,,1/19/2024 16:20:58,StatCO2 Detector,Mercury Medical,3,10/26/2023,PPE,,11,27
+,,1/19/2024 16:21:05,Foam Dressing,Medline,10,,PPE,,11,27
+,,1/19/2024 16:21:10,Tracheostomy Tube XLT Cuffed,Covidien shiley,3,4/1/2022,Catheters/tubing,,11,29
+,,1/19/2024 16:21:16,MiniLoc Saftey Infusion Set,Bard,3,1/14/2026,Other,,11,27
+,,1/19/2024 16:21:47,Stylet kit,Medtronic,1,11/13/2019,Catheters/tubing,,11,29
+,,1/19/2024 16:22:55,Smallbore tubing,BD,4,5/8/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:23:04,Dilator ,Cook Med,1,1/27/2024,Diagnostic,,11,29
+,,1/19/2024 16:23:50,Silk adhesive with holes,,5,,Other,,11,22
+,,1/19/2024 16:24:15,Tisseel Spray Set,Baxter,1,9/20/2025,Catheters/tubing,,11,29
+,,1/19/2024 16:24:35,Oral/Nasal Tracheal Tube Cuffles,COVIDIEN,4,10/17/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:24:37,Dual Lumen Stomach Tube,Covidien,1,3/31/2028,Catheters/tubing,,11,29
+,,1/19/2024 16:24:55,Foley Catheter,Bard,1,10/31/2026,Catheters/tubing,,11,22
+,,1/19/2024 16:25:09,General Purpose Probe Cover,No manufacturer listed,2,,Surgical,,11,27
+,,1/19/2024 16:25:13,Pads,No manufacturer listed,2 packs,,Hygiene,,11,29
+,,1/19/2024 16:25:26,Single use layngeal mask,Ambu,1,12/17/2022,Other,,11,27
+,,1/19/2024 16:25:28,Urological catheter,Bard,1,12/31/2027,Catheters/tubing,,11,22
+,,1/19/2024 16:25:46,3M curos caps,3M,2 strips of 5,10/21/2026,Other,,11,27
+,,1/19/2024 16:26:57,Microlaryngeal oral/nasal tracheal tube cuffed,Covidien,1,6/16/2027,Catheters/tubing,,11,22
+,,1/19/2024 16:27:02,MF-Milipore MCE Membrane,Merek Milipore,10,7/1/2024,Other,,11,27
+,,1/19/2024 16:27:07,COFLEX NL,3M,3,,Bandages/gauze,No expiration date listed,11,27
+,,1/19/2024 16:27:18,IV catheter,Braun,2,6/1/2024,Catheters/tubing,,11,27
+,,1/19/2024 16:27:29,Suction Sleeve,Stryker,18,5/5/2023,Surgical,,11,29
+,,1/19/2024 16:27:41,Flex Connector,Avanos,1,6/6/2027,Other,,11,27
+,,1/19/2024 16:27:46,SureStep Foley Tray System,Bard,1,2/28/2026,Catheters/tubing,,11,29
+,,1/19/2024 16:28:20,Short nose clamp for outlet port of plastic container,Baxter,1,3/28/2028,Other,,11,22
+,,1/19/2024 16:28:28,BD Neonatal Needle,BD,1,5/31/2023,Syringe/needles,,11,27
+,,1/19/2024 16:29:03,Foley Catheter,Smiths,14,11/18/2023,Catheters/tubing,One manufactured by Covidien,11,29
+,,1/19/2024 16:29:08,Suction tubing,Medichoice,1,3/1/2028,Catheters/tubing,,11,22
+,,1/19/2024 16:29:39,Guedel airway,Medi choice,3,7/28/2023,Other,,11,27
+,,1/19/2024 16:30:19,SureForm 60 reload,da Vinci Xi,3 boxes of 12,9/30/2023,Surgical,,11,29
+,,1/19/2024 16:30:45,Spray bottle cap,No manufacturer listed,1,,Other,,11,22
+,,1/19/2024 16:30:56,High Volume Tapered Cuffed Tracheal Tube ,Teleflex ,2,8/21/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:31:05,SorbaView SHIELD Medium,Centurion,5,8/31/2027,Surgical,,11,27
+,,1/19/2024 16:31:12,Guedel airway,Medi choice,2,5/5/2023,Other,,11,27
+,,1/19/2024 16:31:28,PPE apron,No manufacturer listed,1,,PPE,,11,22
+,,1/19/2024 16:32:01,All purpose urethral catheter,Bard,2,7/31/2026,Catheters/tubing,,11,29
+,,1/19/2024 16:32:26,Neon glasses case,Medichoice,1,,Other,,11,22
+,,1/19/2024 16:32:27,Adhesive Pad,Medtronic,15,9/23/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:32:36,Intubating stylet ,Novaplus,2,1/24/2028,Other,,11,27
+,,1/19/2024 16:32:36,3 mL applicator,BD,1,,Other,,11,27
+,,1/19/2024 16:32:37,Blood Sampling Tube Holder,Safeset ,1,3/1/2023,Syringe/needles,,11,27
+,,1/19/2024 16:32:46,Tongue Depressor,Medline,5,,Diagnostic,,11,27
+,,1/19/2024 16:33:32,Bedpan,No manufacturer listed,1,,Hygiene,,11,27
+,,1/19/2024 16:33:42,3 mL applicator,BD,1,,Other,,11,27
+,,1/19/2024 16:33:56,Dental Rolls,Fabco ORS,8,9/30/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:34:08,Steri-Strip (reinforced skin closures),3M,30,4/5/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:34:21,Film Dressing,3M Health Care,5,3/17/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:34:34,6 Inch Monitoring Extension Set ,icumedical,1,1/1/2024,Diagnostic,,11,27
+,,1/19/2024 16:34:52,Gastric tube,Vygon ,1,4/20/2022,Catheters/tubing,,11,29
+,,1/19/2024 16:34:54,Tissue oximeter,ViOptix,1,11/30/2023,Diagnostic,,11,29
+,,1/19/2024 16:34:54,Scalpel,Bard Parker ,1,8/31/2023,Surgical,,11,29
+,,1/19/2024 16:35:29,Sampling line,Kingsystems,1,11/15/2026,Other,,11,27
+,,1/19/2024 16:35:30,Surgical Skin Marker,Medline,1,,Surgical,,11,27
+,,1/19/2024 16:35:31,Flex Tube,Teleflex,5,4/28/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:36:00,Steri-strip (reinforced skin closures),3M,9,5/5/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:36:01,Adhesive Fabric,BSN,2 (rolls),8/30/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:36:21,Silicone round drain,Bard,5,5/30/2023,Catheters/tubing,,11,29
+,,1/19/2024 16:36:29,Adult EKG Electrode,Cleartrace,,3/26/2025,Diagnostic,,11,27
+,,1/19/2024 16:36:35,Surgical Gloves,Medline,1,2/28/2026,Surgical,,11,27
+,,1/19/2024 16:37:09,Straight Tubing Connector,Busse,2,5/30/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:37:37,Oil Emulsion Dressing,Curad,6,9/1/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:37:49,Disposable anesthesia face mask,Ambu,2,11/25/2026,PPE,,11,27
+,,1/19/2024 16:37:49,Tegaderm +Pad,3M,1,,Other,,11,27
+,,1/19/2024 16:38:00,Dry Tray,Medline,1,,Surgical,"Contains gloves, applicator, sponges, tray and forceps",11,29
+,,1/19/2024 16:38:08,Black braided suture ,No manufacturer listed,1,7/21/2027,Other,,11,27
+,,1/19/2024 16:38:16,Dual Lumen Stomach Tube ,COVIDIEN,1,,Catheters/tubing,,11,27
+,,1/19/2024 16:38:27,PVC Nasopharyngeal Airway,Teleflex,2,10/28/2023,Catheters/tubing,,11,29
+,,1/19/2024 16:39:25,SureForm 45 reload ,da Vinci Xi,6,4/30/2023,Surgical,,11,29
+,,1/19/2024 16:39:34,Needle free IV connector ,Baxter,2,,Other,No expiration date,11,27
+,,1/19/2024 16:39:36,Flexible Yankauer,Covidien ,1,,Catheters/tubing,,11,27
+,,1/19/2024 16:40:21,Bi-fusion extension set ,BD,,4/24/2026,Surgical,,11,27
+,,1/19/2024 16:40:31,Nylon,No manufacturer listed,6,6/10/2027,Surgical,,11,29
+,,1/19/2024 16:41:14,High Speed RAD 55 curved bur dental,No manufacturer listed,2,10/17/2023,Surgical,,11,29
+,,1/19/2024 16:41:16,Silicone Sheeting,Invotec,2,11/27/2023,Other,,11,29
+,,1/19/2024 16:41:19,Protective disk with CHG,Biopatch,2,5/31/2025,Other,,11,27
+,,1/19/2024 16:41:42,Extension Tube,Covidien,2,,Catheters/tubing,,11,29
+,,1/19/2024 16:41:50,Transpore Tape,3M,3,,Bandages/gauze,No expiration date,11,27
+,,1/19/2024 16:41:57,MaxGuard Bi-fuse extension set,BD,1,2/14/2027,Other,,11,27
+,,1/19/2024 16:42:10,Nasal Divided Cannula,Salter Labs,1,12/5/2027,Catheters/tubing,,11,27
+,,1/19/2024 16:42:20,Nonadherent strips,Covidien,5,6/1/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:42:29,Temperature sensing hydrogel coated foley catheter,Bard,1,10/31/2021,Catheters/tubing,,11,29
+,,1/19/2024 16:42:52,Anesthesia face mask pediatrics ,Ambu,2,6/14/2023,Other,,11,27
+,,1/19/2024 16:42:54,Spinal needle,BD,2,1/31/2028,Syringe/needles,,11,27
+,,1/19/2024 16:42:55,Tisseel Spray Set,Baxter,1,1/9/2024,Other,,11,29
+,,1/19/2024 16:43:03,Nerve Locator,Medtronic,1,10/1/2023,Surgical,,11,29
+,,1/19/2024 16:43:13,Foley catheter,Bard,,7/31/2021,Catheters/tubing,,11,29
+,,1/19/2024 16:43:18,Curved blade with torque wrench ,Harmonic Synergy,1,9/30/2023,Surgical,,11,29
+,,1/19/2024 16:43:22,CVC Dressing Kit,Medline,1,11/30/2024,PPE,,11,27
+,,1/19/2024 16:43:23,Oxygen Tube with 2 super soft connectors,INTERSURGICAL,2,3/31/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:43:56,Stomasoft laryngectomy tube,Inhealth technologies,1,4/1/2023,Catheters/tubing,,11,29
+,,1/19/2024 16:44:10,EKG Electrodes,No manufacturer listed,3,,Diagnostic,,11,27
+,,1/19/2024 16:44:11,Tip Cover Accessory,Intuitive Surgical,1,7/31/2023,Other,,11,29
+,,1/19/2024 16:44:23,Laryngectomy tube,In health technology ,1,5/26/2023,Catheters/tubing,,11,29
+,,1/19/2024 16:44:24,Ahmed Glaucoma Valve,New World Medical,1,12/31/2021,Other,,11,29
+,,1/19/2024 16:44:56,Smallbore ext. set clamp rotating luter,ICU medical ,1,8/1/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:44:56,Neonatal pulse oximeter,Masimoset,1,7/1/2023,Diagnostic,,11,27
+,,1/19/2024 16:45:17,Nasopore 8cm,Stryker,1,10/25/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:45:35,Insyte Autoguard,BD,1,1/31/2024,Other,,11,27
+,,1/19/2024 16:45:36,Blood Transfer Drive,,1,12/31/2024,Other,,11,27
+,,1/19/2024 16:45:38,Needles ,Ethicon,8,9/30/2028,Syringe/needles,,11,29
+,,1/19/2024 16:45:40,Catheter stabilization device,Statlock,2,12/28/2022,Catheters/tubing,,11,29
+,,1/19/2024 16:45:46,Nasopore 4cm,Stryker,2,8/29/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:46:22,Bandaid,CURAD,2,,Bandages/gauze,,11,27
+,,1/19/2024 16:46:37,Monofilament,Goretex,1,9/2/2028,Surgical,,11,29
+,,1/19/2024 16:46:41,Salem sump,Covidien ,1,2/29/2028,Catheters/tubing,,11,27
+,,1/19/2024 16:46:49,Medipore + pad,3M,1,2/1/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:47:00,Disposable single electrode,Technomed Europe,1,3/1/2023,Syringe/needles,,11,29
+,,1/19/2024 16:47:13,Guedel Airway,Medichoice ,1,11/15/2022,Catheters/tubing,,11,27
+,,1/19/2024 16:47:17,Polypectomy snare 15mm rounded-stiff,Boston Scientific,1,7/31/2021,,,11,29
+,,1/19/2024 16:47:38,Oral/Nasal Tracheal Tube,Covidien,1,7/25/2022,Catheters/tubing,,11,29
+,,1/19/2024 16:47:50,Hubless Silicone flat drain,Bard,1,3/31/2024,Catheters/tubing,,11,29
+,,1/19/2024 16:48:22,Otologic Lamina,Medtronic,1,12/11/2023,Bandages/gauze,,11,29
+,,1/19/2024 16:48:43,Introcan Saftey IV Catheter,Braun,1,6/1/2024,Catheters/tubing,,11,27
+,,1/19/2024 16:48:45,T-tube silicone,No manufacturer listed,1,8/11/2020,Catheters/tubing,,11,29
+,,1/19/2024 16:48:50,Nail,Saint Johns,1,,Other,,11,29
+,,1/19/2024 16:49:03,Bi-fuse extension set,BD,1,7/4/2025,Catheters/tubing,,11,27
+,,1/19/2024 16:49:50,Lubricating Jelly,HR Pharmaceuticals,1,5/31/2028,Surgical,,11,27
+,,1/19/2024 16:49:50,Protective disk with CHG,Biopatch,1,5/31/2025,Other,,11,27
+,,1/19/2024 16:49:58,Micropore,3M,1,,Bandages/gauze,No expiration ,11,27
+,,1/19/2024 16:50:00,Aspirator,Radiometer,1,10/6/2023,Syringe/needles,,11,27
+,,1/19/2024 16:50:55,Tegaderm,No manufacturer listed,1,,Bandages/gauze,,11,27
+,,1/19/2024 16:51:00,4-way stopcock,Medex,1,3/21/2023,Other,,11,27
+,,1/19/2024 16:51:16,Spring wire guide ,Arrow ,1,9/30/2023,Catheters/tubing,,11,27
+,,1/19/2024 16:51:15,Blood Sampling Tube ,Safeset,1,12/1/2023,Syringe/needles,,11,27
+,,1/19/2024 16:51:44,Anesthesia bags,No manufacturer listed,4,,Surgical,,11,27
+,,1/19/2024 16:52:13,EKG Electrodw,CONMED,1,,Diagnostic,,11,27
+,,1/19/2024 16:52:23,Mini Duckbill Ck Valve,Medex ,1,6/20/2022,Catheters/tubing,,11,27
+,,1/19/2024 16:52:23,Woven gauze sponges,Medline,1,,Bandages/gauze,,11,27
+,,1/19/2024 16:53:18,Dermabond topical skin adhesive ,Ethicon,1,7/31/2024,Other,,11,27
+,,1/19/2024 16:54:00,Woven gauze sponges,Medline,1,,Bandages/gauze,,11,27
+,,1/19/2024 16:54:14,10 ml syringe,BD,2,,Syringe/needles,Unpackaged,11,27
+,,1/19/2024 16:54:48,ECG Electrode,ConMed,1,10/24/2024,Diagnostic,,11,27
+,,1/19/2024 16:55:10,Port,Centurion,1,,Other,,11,27
+,,1/19/2024 16:56:19,Mouth airway ,Medichoice,1,12/15/2022,Other,,11,27
+,,2/9/2024 15:22:27,Surgical glove boxes L ,Medline,10,2/1/2022,PPE,,12,2
+,,2/9/2024 15:22:29,Gauze Sponges ,Medline,1,,Bandages/gauze,,12,1
+,,2/9/2024 15:23:16,Gauze ,Coviden ,13,,Bandages/gauze,,12,1
+,,2/9/2024 15:23:16,BD Whitacre Needle,BD,5,,Syringe/needles,,12,1
+,,2/9/2024 15:23:35,Clear Tape ,Transpore,9,,Bandages/gauze,,12,1
+,,2/9/2024 15:23:52,Blunt Fill Needle-Filter,BD,20,4/30/2024,Syringe/needles,,12,1
+,,2/9/2024 15:25:04,Equipment cover ,No manufacturer listed,13,7/26/2028,PPE,,12,3
+,,2/9/2024 15:25:10,Orange Tape ,HyTape,6,,Bandages/gauze,,12,1
+,,2/9/2024 15:25:13,Sterilization tool,No manufacturer listed,2,,Surgical,,12,1
+,,2/9/2024 15:25:31,1 mL syringes,BD,9,12/31/2023,Syringe/needles,,12,1
+,,2/9/2024 15:25:54,FASTRACE,Conmed,3,12/19/2023,Other,,12,3
+,,2/9/2024 15:26:05,Gauze ,Durapore,9,,Bandages/gauze,,12,1
+,,2/9/2024 15:26:24,Needleless Med Prep Cannula,Covidien,8,5/31/2024,Other,,12,1
+,,2/9/2024 15:26:42,Epidural Catheter,Portex,6,6/12/2023,Catheters/tubing,"Some past use date, some not ",12,1
+,,2/9/2024 15:26:49,5mL syringes,BD,8,,Syringe/needles,,12,1
+,,2/9/2024 15:26:51,AMT Mini Enteral Extension Set,Applied Medical Technology ,30,11/1/2026,Catheters/tubing,,12,3
+,,2/9/2024 15:26:53,Epidural Catheter,Portex,4,9/1/2022,Catheters/tubing,,12,1
+,,2/9/2024 15:26:55,Nose cushion,Respironics ,2,,Other,,12,3
+,,2/9/2024 15:26:55,Tegaderm 2x2,3M,30,1/13/2023,Bandages/gauze,,12,1
+,,2/9/2024 15:27:12,SafetyGlide 1ml Syringe,BD,25,9/30/2023,Syringe/needles,,12,1
+,,2/9/2024 15:27:29,Liquid Adhesive ,Ferndale Laboratories,4,,Other,,12,1
+,,2/9/2024 15:27:49,10mL syringes,BD,12,7/31/2022,Syringe/needles,,12,1
+,,2/9/2024 15:27:54,Catheter (fluid path),No manufacturer listed,25,3/1/2028,Catheters/tubing,,12,3
+,,2/9/2024 15:28:24,Needle Caps ,Monoject,23,,Syringe/needles,,12,1
+,,2/9/2024 15:28:26,Brace band ,Michigan ,2,,Bandages/gauze,,12,3
+,,2/9/2024 15:28:31,30 mal syringes,BD,2,,Syringe/needles,,12,1
+,,2/9/2024 15:28:55,Nitrile gloves ,Medline,18,,PPE,,12,4
+,,2/9/2024 15:29:00,Epidural Needle ,Arrow,9,10/31/2020,Syringe/needles,,12,1
+,,2/9/2024 15:29:09,IV Connector ,Baxter ,3,,Catheters/tubing,,12,1
+,,2/9/2024 15:29:09,Tegaderm 4x4,3M,13,11/16/2022,Bandages/gauze,,12,1
+,,2/9/2024 15:29:11,Luer lock plug ,Smiths medical ,39,11/18/2021,Other,,12,1
+,,2/9/2024 15:29:13,Catheter Connector,Portex,6,12/9/2017,Catheters/tubing,Some expired and some not,12,1
+,,2/9/2024 15:29:17,Compound Benzoin Tincture Swabstick,Aplicare,4,,Diagnostic,,12,1
+,,2/9/2024 15:29:24,3 mL syringes ,BD,20,,Syringe/needles,,12,1
+,,2/9/2024 15:29:32,Urological catheter ,Bard ,4,11/30/2027,Catheters/tubing,,12,3
+,,2/9/2024 15:29:53,Tonsil Sponge,Medline,18,,Bandages/gauze,,12,3
+,,2/9/2024 15:30:09,Skin Closure,Steri Strip,1,,Bandages/gauze,,12,1
+,,2/9/2024 15:30:21,Resistance syringe ,Portex ,2,9/30/2022,Syringe/needles,,12,1
+,,2/9/2024 15:30:22,Graduated Suction Catheter with Chimney Valve,Covidien,1,,Catheters/tubing,,12,4
+,,2/9/2024 15:30:27,Flat epidural filter,Teleflex medical,2,,Catheters/tubing,,12,1
+,,2/9/2024 15:30:27,1.5 needle,BD,1,,Syringe/needles,,12,1
+,,2/9/2024 15:30:34,Wall manometer adapter ,Critikon ,2,,Diagnostic,,12,3
+,,2/9/2024 15:31:12,Disposable inner cannula ,Covidien ,14,9/7/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:31:19,,Medex,22,,Catheters/tubing,,12,1
+,,2/9/2024 15:31:26,Cadd extension set,Smiths medical,1,6/3/2024,Catheters/tubing,,12,1
+,,2/9/2024 15:31:33,Epidural Needles 8.89cm,Arrow,6,10/31/2020,Syringe/needles,,12,1
+,,2/9/2024 15:32:08,Suction Catheter with Chimney Valve ,Cardinal Health,3,,Catheters/tubing,,12,4
+,,2/9/2024 15:32:27,Steri-Drape,3M,3,11/24/2025,Bandages/gauze,,12,4
+,,2/9/2024 15:32:32,Alcohol wipes,Medline,200,,Hygiene,,12,1
+,,2/9/2024 15:33:21,Urostomy bag,Hollister,2,,Other,,12,4
+,,2/9/2024 15:33:59,Oral/Nasal Tracheal Tube Cuffless,Covidien ,2,8/4/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:34:14,Luer Lock Connector ,BD,5,10/31/2026,Catheters/tubing,,12,4
+,,2/9/2024 15:34:37,CO2 detector pedi,Ambu ,1,10/31/2026,Diagnostic,,12,4
+,,2/9/2024 15:34:42,face mask,ambu,1,8/7/2026,PPE,,12,4
+,,2/9/2024 15:34:43,Ambu CO2 detector,Ambu,1,8/1/2026,Catheters/tubing,,12,4
+,,2/9/2024 15:34:44,Set rallonge ,Couvidien ,12,10/31/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:35:13,SafetyGlide Needle ,BD,5,4/30/2027,Syringe/needles,,12,4
+,,2/9/2024 15:35:30,SpeediCath Compact Set,SpeediCath,1,10/20/2023,Catheters/tubing,,12,4
+,,2/9/2024 15:35:49,Catheter/drip,Eurofins,13,,Catheters/tubing,,12,6
+,,2/9/2024 15:36:07,Introducer ,SunMed ,2,8/15/2024,Catheters/tubing,,12,4
+,,2/9/2024 15:36:42,Catheter Leg Band ,Dale ,1,12/31/2027,Bandages/gauze,,12,4
+,,2/9/2024 15:36:54,Foley Catheter,Bardex ,1,11/30/2026,Catheters/tubing,,12,4
+,,2/9/2024 15:36:55,External CSF drainage system replacement bags,Integra,1,9/30/2027,Catheters/tubing,,12,4
+,,2/9/2024 15:37:00,DGP Pathoseal 95 (plastic pipets) ,DGP Intelsius Ltd.,200,5/8/2021,Diagnostic,Unsure total #,12,6
+,,2/9/2024 15:37:20,2mL test tubes,Eurofins,39,,Other,,12,6
+,,2/9/2024 15:37:39,Compression stockings ,Albahealth,1,,Bandages/gauze,,12,4
+,,2/9/2024 15:38:00,Thumb forceps ,Busse,9,7/30/2028,Surgical,,12,5
+,,2/9/2024 15:38:02,Graduated Suction Catheter with Chimney Valve,Cardinal Health,1,,Catheters/tubing,,12,4
+,,2/9/2024 15:38:05,Protective powder,Stomahesive ,1,6/1/2026,Other,,12,4
+,,2/9/2024 15:38:33,Micropuncture Introducer set,Cook Med,1,10/3/2026,Syringe/needles,,12,4
+,,2/9/2024 15:38:35,Anesthesia Mask,Medline,1,,Other,,12,4
+,,2/9/2024 15:38:38,Sterile pipers ,No manufacturer listed,80-100,4/18/2025,Diagnostic,Unsure total #,12,6
+,,2/9/2024 15:38:51,Test tubes,Eurofins,25,,Other,,12,6
+,,2/9/2024 15:39:02,Sample boxes,Argos ,20,,Other,,12,5
+,,2/9/2024 15:39:15,Airway,Teleflex ,1,7/8/2021,Catheters/tubing,,12,4
+,,2/9/2024 15:39:17,Disposable Hyperinflation System,Ambu ,1,7/1/2025,Other,,12,4
+,,2/9/2024 15:39:27,Urine sample jars,No manufacturer listed,12,,Diagnostic,,12,5
+,,2/9/2024 15:39:34,medication transfer bag,,1,,Hygiene,,12,4
+,,2/9/2024 15:40:00,Blood draw kits,BD,12,,Other,,12,5
+,,2/9/2024 15:40:10,Specimen bag ,No manufacturer listed,50,,Other,,12,6
+,,2/9/2024 15:40:15,UPEP,No manufacturer listed,4,,Other,,12,5
+,,2/9/2024 15:40:39,Intubating Stylet/ADULT,Novaplus,1,6/27/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:40:48,Adult flexible tracheostomy tube,Covidien ,1,8/4/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:40:49,Funnel,No manufacturer listed,5,,Other,,12,5
+,,2/9/2024 15:41:26,Safety infusion set ,miniLoc,1,5/11/2026,Catheters/tubing,,12,4
+,,2/9/2024 15:41:31,Orange boxes?,No manufacturer listed,8,,Other,,12,5
+,,2/9/2024 15:42:05,Milk straw with enfit connection,Covidien ,1,1/31/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:42:43,Coloplast,Folysil ,1,10/3/2028,Catheters/tubing,,12,4
+,,2/9/2024 15:42:55,ECG tab style electrode,CONMED,1,12/18/2025,Diagnostic,,12,4
+,,2/9/2024 15:43:06,bandaids,No manufacturer listed,5,,Bandages/gauze,,12,5
+,,2/9/2024 15:43:26,Sticker tags,No manufacturer listed,1,,Other,,12,4
+,,2/9/2024 15:43:35,Pipette ,,150,,Other,,12,5
+,,2/9/2024 15:43:53,Y-Site extension with enfit connection ,Covidien ,1,10/31/2027,Catheters/tubing,,12,4
+,,2/9/2024 15:44:11,Blood test kit ,Labcorp ,2,12/31/2023,Diagnostic,,12,5
+,,2/9/2024 15:44:21,disposable endotracheal Stylet,teleflex,1,10/28/2025,Catheters/tubing,,12,4
+,,2/9/2024 15:44:29,Blood Collection Needle,Eclipse,71,1/1/0001,Syringe/needles,No exp. date,12,5
+,,2/9/2024 15:44:31,Needles,Greiner,12,9/7/2025,Syringe/needles,,12,5
+,,2/9/2024 15:45:04,Cap ,BD,90,,Other,,12,5
+,,2/9/2024 15:45:11,Containers ,No manufacturer listed,10,,Other,,12,5
+,,2/9/2024 15:45:21,Med Bags ,Cardinal Health,3,,Bandages/gauze,,12,5
+,,2/9/2024 15:45:32,IV ,BD,20,5/31/2026,Syringe/needles,,12,5
+,,2/9/2024 15:46:30,Test Tubes,No manufacturer listed,450-500,,Diagnostic,,12,8
+,,2/9/2024 15:46:33,Blue tourniquet bands,No manufacturer listed,2,,Other,,12,5
+,,2/9/2024 15:46:44,Med Bag,Cardinal Health,5,,Bandages/gauze,,12,5
+,,2/9/2024 15:46:49,Miscellaneous ,,70,,Diagnostic,,12,5
+,,2/9/2024 15:46:56,drainable irrigator sleeve,hollister,1,,Other,,12,4
+,,2/9/2024 15:47:17,Hollister 40mm,Hollister,1,,Other,,12,4
+,,2/9/2024 15:47:33,Jug,,7,,Other,,12,5
+,,2/9/2024 15:48:27,Female Luer/Oral-to-female D,Enfit ,1,3/1/2026,Other,,12,4
+,,2/9/2024 15:49:41,gel wrap,quintiles laboratories ,14,,Other,,12,4
+,,2/9/2024 15:51:09,10,No manufacturer listed,10,,Other,,12,11
+,,2/9/2024 15:54:52,Abdominal pad,Covidien,17,10/1/2023,Other,,12,12
+,,2/9/2024 15:54:58,Probe cover,Parker laboratories,9,6/16/2023,Surgical,,12,12
+,,2/9/2024 15:55:28,Polychloroprene Surgical Gloves,Molnlycke,1,12/23/2028,PPE,,12,12
+,,2/9/2024 15:56:13,Alcohol prep pads,Medline,1,,Hygiene,,12,12
+,,2/9/2024 15:56:37,Surgical Gloves,Triumph,1,12/1/2023,PPE,,12,12
+,,2/9/2024 15:56:43,unisex swab specimen collection kit for endocervical and Male Urethral swab specimens ,Aptima,80,3/1/2027,Diagnostic,,4,12
+,,2/9/2024 15:56:46,alcohol prep pads,McKesson,2,11/1/2023,Hygiene,,12,12
+,,2/9/2024 15:58:03,Eswab collection and transport system ,BD,1,6/1/2018,Diagnostic,,12,12
+,,2/9/2024 15:58:37,Tweezers,Busse,18,7/30/2028,Hygiene,,12,11
+,,2/9/2024 15:58:43,unisex swab specimen collection kit for endocervical and male urethral swab specimans ,Aptima,6,6/1/2027,Diagnostic,,4,12
+,,2/9/2024 15:59:28,Jugs,,10,,Other,,12,11
+,,2/9/2024 15:59:31,Immunoglobulin tube brown ,,35,,Diagnostic,,12,11
+,,2/9/2024 16:00:14,Tumor Tissue Box,No manufacturer listed,3,,,,12,11
+,,2/9/2024 16:00:16,Plastic test tube,No manufacturer listed,200,,Diagnostic,,12,14
+,,2/9/2024 16:00:19,White Small Test Tube,No manufacturer listed,150,,Catheters/tubing,,12,11
+,,2/9/2024 16:00:23,black small test tubes,No manufacturer listed,150,,Catheters/tubing,,12,11
+,,2/9/2024 16:00:23,Needle Kits,No manufacturer listed,50,,Syringe/needles,,12,14
+,,2/9/2024 16:00:31,"UPEP Tube, Red",Sarstedt ,100,,Catheters/tubing,,12,11
+,,2/9/2024 16:00:53,Serum marker,BD,2,,,,12,11
+,,2/9/2024 16:00:54,Urine 24hr protein,No manufacturer listed,37,,Diagnostic,,12,11
+,,2/9/2024 16:00:56,test tubes,No manufacturer listed,100,,Other,,4,14
+,,2/9/2024 16:01:05,Pipettes,No manufacturer listed,250,,Hygiene,,12,11
+,,2/9/2024 16:01:08,Blood Collection needles,Eclipse,60,1/1/0001,Syringe/needles,No exp.,12,11
+,,2/9/2024 16:01:14,Blue Small Test Tube,No manufacturer listed,4,,Catheters/tubing,,12,11
+,,2/9/2024 16:02:03,Big cylinder syringe cap,No manufacturer listed,50,,,,12,11
+,,2/9/2024 16:02:22,"Test Tube, White",SARSTEDT,100,,Catheters/tubing,,12,11
+,,2/9/2024 16:02:24,Green Test Tube,No manufacturer listed,1,,Catheters/tubing,,12,11
+,,2/9/2024 16:02:41,BD connecta ,BD,2,2/28/2025,Catheters/tubing,,12,14
+,,2/9/2024 16:02:46,hematology,No manufacturer listed,15,,Other,,4,14
+,,2/9/2024 16:02:49,Aliquot Plasma samples ,Bioagiltix ,2,7/13/2004,Diagnostic,,12,12
+,,2/9/2024 16:03:10,Orange Test Tube,No manufacturer listed,4,,Catheters/tubing,,12,11
+,,2/9/2024 16:03:31,Brown Test Tube,No manufacturer listed,4,,Catheters/tubing,,12,11
+,,2/9/2024 16:03:47,DNA saliva kit ,BioAgilytix ,3,,Other,,12,12
+,,2/9/2024 16:04:03,Subassembly G,No manufacturer listed,4,,Other,,12,11
+,,2/9/2024 16:05:58,Wires ,No manufacturer listed,2,,Other,,12,14
+,,2/9/2024 16:07:12,Specimen containers,Nalge nunc International corporation ,3,3/31/0024,Diagnostic,,12,14
+,,2/9/2024 16:08:17,50mL test tubes,,8,,Diagnostic,,12,7
+,,2/9/2024 16:09:03,bandaids,,12,,Bandages/gauze,,12,14
+,,2/9/2024 16:09:04,Slide box ,Fisherbrand ,1,,Other,,12,12
+,,2/9/2024 16:09:19,Small test tubes,,482,,Diagnostic,,12,7
+,,2/9/2024 16:09:40,Little plastic bottle with lid ,No manufacturer listed,10,12/12/2028,Other,,12,7
+,,2/9/2024 16:10:19,Diagnostic tubes (in bags with random things),No manufacturer listed,11,,Diagnostic,,12,12
+,,2/9/2024 16:10:28,Plastic pipets ,No manufacturer listed,140,12/12/2028,Diagnostic,,12,7
+,,2/9/2024 16:10:45,Stickers,No manufacturer listed,3,,Other,,12,11
+,,2/9/2024 16:11:15,Specimen transport bags,No manufacturer listed,39,,Diagnostic,,12,15
+,,2/9/2024 16:11:16,Gel wrap,Quintiles Lab,4,,Other,,12,7
+,,2/9/2024 16:11:43,IV administrator ,BD,2,5/31/2025,Syringe/needles,,12,7
+,,2/9/2024 16:11:55,Testing kit ,Gen mab ,5,12/31/2023,Diagnostic,,12,12
+,,2/9/2024 16:12:01,Unscheduled PK,Oncobay,15,7/31/2024,Diagnostic,,12,15
+,,2/9/2024 16:12:25,Blood collection needle ,BD,15,,Surgical,,12,15
+,,2/9/2024 16:13:16, Blood collection needle,Eclipse,,7/31/2025,Syringe/needles,,12,7
+,,2/9/2024 16:13:21,SubassemblyG ,No manufacturer listed,23,,Diagnostic,,12,15
+,,2/9/2024 16:13:24,Subassembly Bag G ,,45,,Hygiene,,12,15
+,,2/9/2024 16:13:24,Clear pouches,No manufacturer listed,6,,Hygiene,,12,15
+,,2/9/2024 16:13:48,Detergent,henkel corporation,3 boxes,10/1/2024,Hygiene,,12,16
+,,2/9/2024 16:14:46,Serum D Pl(ctDNA) kit ,,30,,Diagnostic,,12,15
+,,2/9/2024 16:15:06,Blood Collection Kit,No manufacturer listed,16,,Diagnostic,,12,15
+,,2/9/2024 16:15:35,Clear pouches,No manufacturer listed,2,,Hygiene,,12,15
+,,2/9/2024 16:18:33,Gel Packs,Quintiles Laboratories ,20,,Other,,12,20
+,,2/9/2024 16:20:42,"Random fallen items, needles samples, tubes ",No manufacturer listed,300,,Other,,12,12
+,,2/9/2024 16:20:56,Pacemaker sheet ,Cardinal Health,5,,Hygiene,,12,21
+,,2/9/2024 16:21:38,Snap Kap,Advance,6,,Other,,12,21
+,,2/9/2024 16:21:54,Ventilator circuit,King system,9,10/26/2026,Surgical,,12,21
+,,2/9/2024 16:22:22,reusable monoject plunger rod ,BD,1,12/1/2026,Catheters/tubing,,4,18
+,,2/9/2024 16:22:56,Aliquot V plasma sample bags ,Bioagilytix,10,,Other,,12,12
+,,2/9/2024 16:23:26,Accessory Drain Bag,No manufacturer listed,1,1/31/2026,Other,,12,18
+,,2/9/2024 16:24:01,Mucus specimen trap,Medichoice,3,5/16/2025,Diagnostic,,12,18
+,,2/9/2024 16:24:05,mayo scissor straight ,Stryker,4,2/27/2026,Surgical,,4,18
+,,2/9/2024 16:25:20,luer lock connector,No manufacturer listed,11,7/31/2027,Other,,12,18
+,,2/9/2024 16:25:27,Ulta comfort covers,Allen,5,,,,12,22
+,,2/9/2024 16:25:37,Berman Airway,Medichoice,4,,Catheters/tubing,,12,18
+,,2/9/2024 16:25:59,Assorted test tube+ supplies,No manufacturer listed,500,,Syringe/needles,,12,22
+,,2/9/2024 16:26:13,Urethral Catheter,Medline,1,4/28/2028,Catheters/tubing,,12,18
+,,2/9/2024 16:26:17,Plating Kits,No manufacturer listed,50,,Other,,12,22
+,,2/9/2024 16:26:42,Stapler cannula seal,No manufacturer listed,7,,Catheters/tubing,,12,22
+,,2/9/2024 16:27:05,Random bags ,No manufacturer listed,15,,Other,,12,12
+,,2/9/2024 16:27:20,Catheter,Bard,2,2/29/2028,Catheters/tubing,,12,18
+,,2/9/2024 16:27:24,radiotranslucent electrode,padpro,1,1/29/2024,Other,,4,18
+,,2/9/2024 16:27:33,Hi-Lo Oral/nasal tracheal tube cuffed,Covidien ,1,6/8/2028,Catheters/tubing,,12,18
+,,2/9/2024 16:27:44,Microsuture,GEM,8,,Syringe/needles,,12,22
+,,2/9/2024 16:27:57,BD eclipse needle,BD,6,5/31/2027,Syringe/needles,,12,18
+,,2/9/2024 16:28:27,Catheter,Bardex,1,12/31/2026,Catheters/tubing,,12,18
+,,2/9/2024 16:29:45,monitoring extension set ,icumedical,1,8/1/2026,Diagnostic,,4,18
+,,2/9/2024 16:30:05,Specimen collection kit A ,Medpace reference laboratories ,9,,Diagnostic,,12,12
+,,2/9/2024 16:30:38,Pre-Connected Urethral catherization tray and bag,Medline,1,1/31/2025,Other,,12,18
+,,2/9/2024 16:31:19,Catheter,Lubri-sil,1,4/30/2028,Catheters/tubing,,12,18
+,,2/9/2024 16:31:27,50mL syringe ,BD,1,9/30/2028,Syringe/needles,,4,18
+,,2/9/2024 16:31:51,Random bags (tubes needles …),No manufacturer listed,15,,Other,,12,12
+,,2/9/2024 16:32:04,Smartsite Needle Free Valve,BD,5,5/2/2026,Other,,12,18
+,,2/9/2024 16:32:11,Sticky name tags,No manufacturer listed,3 rolls,,Other,,12,18
+,,2/9/2024 16:32:26,Drug Screen Cup,Clia,27,5/21/2025,Diagnostic,,12,23
+,,2/9/2024 16:32:35,Suction device,Air life,50,9/20/2024,Surgical,,12,23
+,,2/9/2024 16:33:02,Pipettes,No manufacturer listed,50,,Syringe/needles,,12,12
+,,2/9/2024 16:33:25,Adult briefs ,Cardinal Health,20,,Other,,12,23
+,,2/9/2024 16:33:28,N95,No manufacturer listed,20,,PPE,,12,23
+,,2/9/2024 16:33:37,6 inch monitoring extension ,Icumedical,1,1/10/2026,Other,,12,18
+,,2/9/2024 16:34:13,Abdominal Pad,Medline,1,,Other,,12,18
+,,2/9/2024 16:34:27,hold-n-place leg band ,dale,1,4/30/2028,Bandages/gauze,,4,18
+,,2/9/2024 16:34:58,Anesthia face mask,No manufacturer listed,3,,Surgical,,12,23
+,,2/9/2024 16:35:17,GVL 2 Stat,Glidescope,10,,Catheters/tubing,,12,23
+,,2/9/2024 16:35:32,Balloon Bags  ,No manufacturer listed,4,,Other,,12,23
+,,2/9/2024 16:35:35,Madgic ,Teleflex,1,7/18/2026,Catheters/tubing,,12,18
+,,2/9/2024 16:35:49,Vacutainer,BD,27,,Other,,12,18
+,,2/9/2024 16:35:51,Adherent Wrap,3M,1,10/7/2026,Other,,12,18
+,,2/9/2024 16:36:03,Tegaderm,No manufacturer listed,1,,Bandages/gauze,,12,23
+,,2/9/2024 16:36:03,smallbore tubing ,BD,1,8/2/2026,Catheters/tubing,,4,18
+,,2/9/2024 16:36:16,Transporte tape,,7,,,,12,19
+,,2/9/2024 16:36:35,Laceration Tray w/ Lidded TR,Medline,14,8/31/2028,Syringe/needles,,12,19
+,,2/9/2024 16:36:55,Allevyn non adhesive,Smith&nephew,4,3/6/2023,Bandages/gauze,,12,19
+,,2/9/2024 16:37:04,Berman Airway,MediChoice,1,,Other,,12,18
+,,2/9/2024 16:37:07,Gauze,No manufacturer listed,2,,Bandages/gauze,,12,23
+,,2/9/2024 16:37:13,Nasal Tracheal Tube,COVIDIEN,3,,Catheters/tubing,,12,23
+,,2/9/2024 16:37:27,protective seal ,Brava,1,1/10/2025,Bandages/gauze,,4,18
+,,2/9/2024 16:37:37,Chloraprep Hi-Lite Orange,BD,1,,Catheters/tubing,,12,18
+,,2/9/2024 16:37:45,Dual lumen stomach tube,Covidien ,1,,Catheters/tubing,,12,23
+,,2/9/2024 16:37:56,Cups,,150,,,,12,19
+,,2/9/2024 16:38:00,Big giant sponge ,No manufacturer listed,,12/12/2900,Hygiene,,12,19
+,,2/9/2024 16:38:10,Anesthesia Mask,Medline,1,,Other,,12,18
+,,2/9/2024 16:38:11,Urine test instructions ,No manufacturer listed,3,,Diagnostic,,12,23
+,,2/9/2024 16:38:18,1mL Syringe ,BD,1,8/31/2028,Syringe/needles,,4,18
+,,2/9/2024 16:38:19,MiniCap with Povidone Iodine Solution,baxter,1,4/30/2025,Other,,12,18
+,,2/9/2024 16:38:22,Long thbe,,1,,Catheters/tubing,,12,23
+,,2/9/2024 16:38:43,Border Heel,Mepilex,10,5/28/0024,Bandages/gauze,,12,19
+,,2/9/2024 16:38:45,Gravity set,BD,1,,Catheters/tubing,,12,23
+,,2/9/2024 16:38:59,Safety glide needle,BD,1,4/30/2027,Syringe/needles,,12,18
+,,2/9/2024 16:39:15,Anti-Siphon Valve,Medstream,2,,Catheters/tubing,,12,23
+,,2/9/2024 16:39:16,Blood Collection Tubes,BD,200,1/31/2024,Diagnostic,,12,19
+,,2/9/2024 16:39:40,Forceps ,Sklar,25,1/28/2023,Surgical,,12,25
+,,2/9/2024 16:39:58,All purpose urethral catheter,BD,1,8/31/2026,Catheters/tubing,,12,18
+,,2/9/2024 16:39:59,Deep Convex urostomy pouch,Convex,1,12/9/2024,,,12,19
+,,2/9/2024 16:40:04,Blood transfer device,BD,1,10/31/2026,Other,,12,18
+,,2/9/2024 16:41:06,Border Post-up,Mepilex,2,7/26/2026,Surgical,,12,19
+,,2/9/2024 16:41:11,Plastic Pad Large,No manufacturer listed,3,12/12/2900,Hygiene,,12,19
+,,2/9/2024 16:41:23,protected disposable Scalpel stainless steel blade,bard-parker,1,1/29/2029,Surgical,,4,18
+,,2/9/2024 16:41:27,Replacement lamp,WelchAllyn,1,,Other,,12,18
+,,2/9/2024 16:41:47,Gauze,No manufacturer listed,50,,Bandages/gauze,,12,26
+,,2/9/2024 16:41:58,Non-conductive connecting tube 20’ length,Medline,2,2/29/2028,Catheters/tubing,,12,19
+,,2/9/2024 16:42:02,Pediatric underbody ,Gentherm ,6,,Other,,12,26
+,,2/9/2024 16:42:13,Cleanser ,Medline Remedy ,5,,Hygiene,,12,26
+,,2/9/2024 16:42:55,Blood collection set,BD,12,,,,12,26
+,,2/9/2024 16:43:11,Cytology brush,No manufacturer listed,1,,Diagnostic,,12,26
+,,2/9/2024 16:43:27,Administration kit,BD,1,,Catheters/tubing,,12,26
+,,2/9/2024 16:43:28,Urethral Catheter,Bard,8,8/31/2026,Catheters/tubing,,12,19
+,,2/9/2024 16:43:30,Elastic Net,Medline,2,,Bandages/gauze,,12,19
+,,2/9/2024 16:44:03,Medipore ,3M,1,12/17/2026,Hygiene,,12,18
+,,2/9/2024 16:44:05,Bottle Atomizer,MADomizer,1,9/11/2026,Other,,12,19
+,,2/9/2024 16:45:11,Holter/telemetry pouch,Covidien ,5,,Other,,12,19
+,,2/9/2024 16:45:44,Gown,,1,,PPE,,12,19
+,,2/9/2024 16:46:06,Radial access catheter ,Medtronic,2,,Catheters/tubing,,12,27
+,,2/9/2024 16:46:30,Breast pump kit,Medela ,1,12/26/2026,Other,,12,19
+,,2/9/2024 16:46:37,Flexor check flo,Cook Med,1,,Surgical,,12,27
+,,2/9/2024 16:46:52,Disposable Pad Cover,Vyaire,3,8/15/2022,Other,,12,19
+,,2/9/2024 16:46:53,Gauze Sponges,Medline,9,,Bandages/gauze,,12,19
+,,2/9/2024 16:46:53,straight connector,pleur evac,1,7/19/2026,Other,,4,18
+,,2/9/2024 16:46:58,luer lock adapter 4 inch,Fresenius medical care,1,9/30/2026,Other,,12,18
+,,2/9/2024 16:47:02,Side-Arm Introducer,Cook Med,1,1/12/2024,Catheters/tubing,,12,27
+,,2/9/2024 16:47:23,Optifoam basic,Medline,9,,Bandages/gauze,,12,19
+,,2/9/2024 16:47:30,Venous walkstent,Boston Scientific,1,1/12/2024,Surgical,,12,27
+,,2/9/2024 16:48:16,Oral/Nasal Tracheal Tube,Covidien ,2,7/27/2027,Catheters/tubing,,12,19
+,,2/9/2024 16:48:32,Syringe,BD,1,11/30/2028,Syringe/needles,,12,18
+,,2/9/2024 16:48:40,Push button,BD,10,7/31/2025,Syringe/needles,,12,19
+,,2/9/2024 16:49:29,Enteral Funnel ENFit Transition connector with cap,cedic srl,1,7/26/2025,Syringe/needles,,4,18
+,,2/9/2024 16:49:39,Microscope Slide,GLOBE,9,,Diagnostic,,12,9
+,,2/9/2024 16:49:44,Female Luer,AMT,8,5/1/2024,Other,,12,19
+,,2/9/2024 16:49:45,ROCH-PEAN FORCEPS,Sklar Sterile,16,12/12/2900,Surgical,,12,19
+,,2/9/2024 16:49:58,Hydrophilic foam dressing,Kendall,4,,Other,,12,19
+,,2/9/2024 16:50:00,FloQSwabs,Copan,22,11/30/2025,Diagnostic,,12,19
+,,2/9/2024 16:50:24,DNA Collection Kit,Genotek ,5,,Diagnostic,,12,9
+,,2/9/2024 16:50:47,Surgical scissors ,Sklar Sterile,3,12/12/2900,Surgical,,12,19
+,,2/9/2024 16:51:16,Tubes ,,150,,Catheters/tubing,,12,9
+,,2/9/2024 16:51:40,Ballon catheter,Chocolate,1,1/25/2024,Catheters/tubing,,12,28
+,,2/9/2024 16:51:44,Peripheral orbital system,Pas technology ,1,,Other,,12,28
+,,2/9/2024 16:51:46,Surgical gloves,Biogel,2,2/26/2028,PPE,,12,19
+,,2/9/2024 16:51:52,alcohol prep pads,Cardinal Health,2,,Hygiene,,12,18
+,,2/9/2024 16:51:57,Medical Bandages,Unnamed ,7,1/1/0001,Bandages/gauze,,12,19
+,,2/9/2024 16:51:58,Catheter ,Temuro ,4,,Catheters/tubing,,12,28
+,,2/9/2024 16:52:03,Filter needle,BD,50,3/31/2027,Syringe/needles,,12,19
+,,2/9/2024 16:52:06,Non-pyrogenic Fluid path,ICU Medical,13,1/10/2028,Catheters/tubing,,12,19
+,,2/9/2024 16:52:09,Specimen Transport Bags,,7,,PPE,,12,9
+,,2/9/2024 16:52:26,Guiding sheath,Terumo I ,1,,Catheters/tubing,,12,28
+,,2/9/2024 16:52:41,Spider FX,No manufacturer listed,1,1/31/2024,Catheters/tubing,,12,28
+,,2/9/2024 16:53:00,Red Cap Tubes,,25,,Catheters/tubing,,12,9
+,,2/9/2024 16:53:05,Facioplasty elastic support,Jobst,2,,Other,,12,19
+,,2/9/2024 16:53:11,Coronary stent system,Biotronik,1,,Other,,12,28
+,,2/9/2024 16:53:33,Needles ,BD,7,,Syringe/needles,,12,9
+,,2/9/2024 16:53:35,GLIDESCOPE,GlideScope ,4,2/2/2026,Surgical,,12,19
+,,2/9/2024 16:54:00,Tubing ,Merit Medical,4,2/2/2024,Catheters/tubing,,12,28
+,,2/9/2024 16:54:04,Depth Locator,Manta,5,1/6/2024,Diagnostic,,12,28
+,,2/9/2024 16:54:05,Catheter Exchange Long Taper,Glidwider,5,1/31/2024,Catheters/tubing,,12,28
+,,2/9/2024 16:54:13,Single use laryngeal mask ,Ambu,1,3/25/2025,Catheters/tubing,,12,19
+,,2/9/2024 16:54:33,Blood Collection Needles,BD,14,,Syringe/needles,,12,9
+,,2/9/2024 16:54:38,Calcium Alginate Dressing,Restore ,10,4/4/2028,Bandages/gauze,,12,19
+,,2/9/2024 16:54:44,Start up kit ,Zoll,1,,Other,,12,28
+,,2/9/2024 16:54:46,72” arterial pressure tubing,Icumedical,3,9/1/2025,Catheters/tubing,,12,19
+,,2/9/2024 16:54:46,Precision glide needle,Cardinal Health,1,11/30/2028,Syringe/needles,,12,18
+,,2/9/2024 16:54:58,Urine collection bag,Conveen,2,5/29/2026,Other,,12,19
+,,2/9/2024 16:55:05,Catheter tube,Coloplast ,20,10/8/2028,Catheters/tubing,,12,19
+,,2/9/2024 16:55:15,Centerfuge Tubes ,,7,,Catheters/tubing,,12,9
+,,2/9/2024 16:55:20,Introductor sheath ,Terumo ,1,,,,12,28
+,,2/9/2024 16:55:51,3mL Syringe,BD,13,10/31/2027,Syringe/needles,,12,19
+,,2/9/2024 16:56:03,Non-DEHP micro volume extension set ,Baxter,1,,Catheters/tubing,,12,19
+,,2/9/2024 16:56:04,gloves,Medline,1,,PPE,,12,18
+,,2/9/2024 16:56:04,Intravenous Injection Kit ,BD,3,,Syringe/needles,,12,9
+,,2/9/2024 16:56:07,Amplatzer ,No manufacturer listed,5,2/5/2021,Catheters/tubing,,12,28
+,,2/9/2024 16:56:20,Glidewire,Radiofocus,2,1/31/2024,Catheters/tubing,,12,28
+,,2/9/2024 16:56:55,safety glide needle,BD,1,12/31/2027,Syringe/needles,,12,18
+,,2/9/2024 16:56:57,Abdominal Binder,Dale,1,12/12/2900,Hygiene,,12,19
+,,2/9/2024 16:57:21,scale,MH,1,,Other,,4,18
+,,2/9/2024 16:57:30,O.R. Towel,Medical Action industries,1,8/15/2028,Hygiene,,12,19
+,,2/9/2024 16:57:44,REM Polyhesive,Covidien,3,9/30/2025,Other,,12,19
+,,2/9/2024 16:58:02,curos 70% IPA,3m,1,3/17/2023,Other,,12,18
+,,2/9/2024 16:58:24,Graduated nurser with cap,Mead Johnson ,2,11/1/2027,Other,,12,19
+,,2/9/2024 16:58:28,blue clips,,2,,Other,,12,18
+,,2/9/2024 16:58:35,Blood Draw Kit,BD,23,,Syringe/needles,,13,9
+,,2/9/2024 16:58:37,Hydrocolloid dressing,Comfeel plus transparent,2,12/7/2025,Other,,12,19
+,,2/9/2024 16:59:08,Standard Surgical O.R. Towels ,Nova plus,1,6/2/2028,Hygiene,,12,19
+,,2/9/2024 17:00:07,Surgical gloves,Molnlycke biogel sensor,1,9/28/2025,PPE,,12,19
+,,2/9/2024 17:00:38,"Blood Draw Kits, Orange Cap",,15,,Syringe/needles,,12,9
+,,2/9/2024 17:00:40,Catheter Adapter,Addto inc ,9-10,12/12/2900,Catheters/tubing,,12,19
+,,2/9/2024 17:00:45,One link needle free IV connector,Baxter,15,,Catheters/tubing,,12,19
+,,2/9/2024 17:01:00,PeriVac Kit,Boston Scientific,1,1/18/2023,Surgical,,12,30
+,,2/9/2024 17:01:53,Cardboard holders,No manufacturer listed,6,,Other,,12,30
+,,2/9/2024 17:02:18,Adhesive wound dressing,3M,18,9/22/2026,Bandages/gauze,,12,19
+,,2/9/2024 17:02:21,Bio sample Bags,,4,,Other,,12,30
+,,2/9/2024 17:02:24,"Specimen Kit, Orange Cap",BD,21,,Catheters/tubing,,12,9
+,,2/9/2024 17:02:28,Security bag,Health Care Logistics inc,11,12/12/2900,Hygiene,,12,19
+,,2/9/2024 17:03:04,Needle,Precision Glide,36,10/31/2027,Syringe/needles,,12,19
+,,2/9/2024 17:03:17,Spinal needle ,BD,6,3/31/2024,Syringe/needles,,12,19
+,,2/9/2024 17:03:51,Filter Funnel,No manufacturer listed,1,12/12/2900,Other,,12,19
+,,2/9/2024 17:04:05,MISC Test Tubes ,,70,,Catheters/tubing,,12,9
+,,2/9/2024 17:04:24,210mL bottle,Enfamil,1,,Other,,12,19
+,,2/9/2024 17:04:28,Urine Collector,No manufacturer listed,18,,Diagnostic,,12,31
+,,2/9/2024 17:04:33,3mL applicator,BD,3,,Other,,12,19
+,,2/9/2024 17:05:08,Line draw arterial blood sampling kit,Smiths medical,2,2/28/2026,Syringe/needles,,12,19
+,,2/9/2024 17:05:09,Blue and white tube,No manufacturer listed,1,,Catheters/tubing,,12,29
+,,2/9/2024 17:05:13,Sealable Foil Bags,No manufacturer listed,41,,Other,,12,30
+,,2/9/2024 17:05:24,Injection Kit,BD,14,,Syringe/needles,,12,9
+,,2/9/2024 17:05:59,Nasal Tube,Amt,1,,Catheters/tubing,,12,19
+,,2/9/2024 17:06:14,Balloons,No manufacturer listed,9,,Surgical,,12,29
+,,2/9/2024 17:06:33,Powder free exam gloves,Halyard ,15,10/8/2024,PPE,,12,19
+,,2/9/2024 17:06:34,Oxygen Mask ,,10,,Surgical,,12,29
+,,2/9/2024 17:06:53,4 white tubes with blue mask attached ,No manufacturer listed,4,,Catheters/tubing,,12,29
+,,2/9/2024 17:06:55,Fluid path,Rx only,1,10/1/2028,Catheters/tubing,,12,19
+,,2/9/2024 17:07:14,Dual lumen stomach lube,Covidien,2,1/1/0001,Other,,12,19
+,,2/9/2024 17:07:15,Epump set with flush bag,Covidien ,1,3/31/2024,Other,,12,19
+,,2/9/2024 17:07:21,Pippets,,17,,Syringe/needles,,12,9
+,,2/9/2024 17:07:40,Lube packet,OneShot,5,7/31/2025,Other,,12,19
+,,2/9/2024 17:07:54,Urine Transfer Straw Kit ,,6,,Syringe/needles,,12,9
+,,2/9/2024 17:08:18,Blood Draw Kit,BD,12,,Syringe/needles,,12,9
+,,2/9/2024 17:08:20,Glidescope,No manufacturer listed,1,10/20/2026,Diagnostic,,12,29
+,,2/9/2024 17:08:25,Giant syringes ,BD,4,,Syringe/needles,,12,29
+,,2/9/2024 17:08:26,Pediatric Breathing Citcuit,King Systems,9,12/10/2026,Catheters/tubing,,12,29
+,,2/9/2024 17:08:26,Censitrac ,No manufacturer listed,1,,Other,,12,19
+,,2/9/2024 17:08:34,Probe Well Kit,WelchAllyn,1,12/3/2015,Other,,12,19
+,,2/9/2024 17:08:43,Extension set,BD,2,12/1/2026,Catheters/tubing,,12,19
+,,2/9/2024 17:08:56,Plain white tubes,No manufacturer listed,6,,Catheters/tubing,,12,29
+,,2/9/2024 17:09:06,Steri Drape,3M,2,1/26/2028,Bandages/gauze,,12,19
+,,2/9/2024 17:09:12,Test Tubes ,,23,,Catheters/tubing,,12,9
+,,2/9/2024 17:09:15,Sample Collection Kit,BD,100,,Catheters/tubing,,12,31
+,,2/9/2024 17:09:18,Electrodes,,10,,Diagnostic,,12,29
+,,2/9/2024 17:09:42,Percussor,No manufacturer listed,1,5/11/2027,Other,,12,19
+,,2/9/2024 17:09:44,Adult General Purpose Foam,Totaltrace,2,8/21/2024,Other,,12,19
+,,2/9/2024 17:09:48,Blood Draw Kit ,BD,18,,Syringe/needles,,12,9
+,,2/9/2024 17:09:48,Catheter extension set,Baxter,2,,Catheters/tubing,,12,19
+,,2/9/2024 17:10:04,Extension set,BD,3,10/4/2024,Catheters/tubing,,12,19
+,,2/9/2024 17:10:50,Skinny small tubes,No manufacturer listed,8,,Catheters/tubing,,12,29
+,,2/9/2024 17:10:58,PCA administration kit,BD,1,5/6/2025,Catheters/tubing,,12,19
+,,2/9/2024 17:10:58,Tubing,,40,,Catheters/tubing,,12,9
+,,2/9/2024 17:11:03,Mouthpiece,No manufacturer listed,2,,Surgical,,12,29
+,,2/9/2024 17:11:13,Control syringe,Medline,1,,Syringe/needles,,12,19
+,,2/9/2024 17:11:33,Petrolatum dressing,Gurad,3,,Other,,12,19
+,,2/9/2024 17:11:43,hemostatic dressing ,quickclot,1,8/31/2026,Bandages/gauze,,4,19
+,,2/9/2024 17:11:44,3M tape,,3,,Bandages/gauze,,12,29
+,,2/9/2024 17:11:45,Tracheal Tube with TaperGuard Cuff,Covidien,4,6/26/2028,Catheters/tubing,,12,29
+,,2/9/2024 17:11:47,Test tubes ,No manufacturer listed,3,,Catheters/tubing,,12,29
+,,2/9/2024 17:11:54,Urine Collectors ,,3,,Catheters/tubing,,12,9
+,,2/9/2024 17:12:10,ISO Drape Isolation Bag,Microtek Medical,1,1/1/2028,Other,,12,19
+,,2/9/2024 17:12:26,Breathing circuit components,Care fusion,1,,Catheters/tubing,,12,29
+,,2/9/2024 17:12:46,Secure view port,No manufacturer listed,1,,Hygiene,,12,29
+,,2/9/2024 17:13:04,Suction safe ,Sonek,1,,Catheters/tubing,,12,29
+,,2/9/2024 17:13:05,Pump infusion set,BD,1,7/3/2024,Catheters/tubing,,12,19
+,,2/9/2024 17:13:15,Oral/Nasal Tracheal Tube,COVIDIEN,5,8/4/2028,Catheters/tubing,,12,29
+,,2/9/2024 17:13:24,GlideScope,ScopeGliders,2,8/9/2024,Other,,12,19
+,,2/9/2024 17:13:41,Tubing connector ,Medtronic ,1,6/20/0025,Catheters/tubing,,12,29
+,,2/9/2024 17:13:44,petrolatum dressing,curad,2,8/9/2026,Bandages/gauze,,4,19
+,,2/9/2024 17:13:49,Balloon,Olympus,3,3/31/2028,Other,,12,19
+,,2/9/2024 17:14:31,"PCA administration kit, reusable monoject plunger rod",BD,1,12/6/2024,Other,,12,19
+,,2/9/2024 17:14:34,Flexible Yankauer,Coviden ,1,,Catheters/tubing,,12,19
+,,2/9/2024 17:14:56,Spinal needle,,4,3/31/2024,Syringe/needles,,12,19
+,,2/9/2024 17:15:04,Contact layer silver,Urgo medical ,8,3/30/2026,Bandages/gauze,,12,19
+,,2/9/2024 17:15:10,Aerosol Filter Mask,Respan,3,,Other,,12,19
+,,2/9/2024 17:15:36,Pump Infusion Set,BD,1,,Surgical,,12,19
+,,2/9/2024 17:15:42,Medical bandages,Medline,4,1/1/0001,Bandages/gauze,,12,19
+,,2/9/2024 17:16:14,cohesive bandages,med choice ,1,7/14/2026,Bandages/gauze,,4,19
+,,2/9/2024 17:16:22,Inner Cannula,Coviden ,1,2/10/2026,Catheters/tubing,,12,19
+,,2/9/2024 17:16:32,Suction swab,Stryker,1,3/18/2025,Other,,12,19
+,,2/9/2024 17:16:33,soft race small RTL,CONMED,1,7/2/2025,Other,,12,19
+,,2/9/2024 17:16:49,Disposable transducer with rotating adaptor,ICP transpac ,1,2/1/2026,Catheters/tubing,,12,19
+,,2/9/2024 17:17:24,Ballard Manual Percussor for neonates,Avanos,1,5/11/2027,Other,,12,19
+,,2/9/2024 17:17:54,Nasal Cannula,Hudson,1,7/11/2028,Catheters/tubing,,12,19
+,,2/9/2024 17:17:59,soft cloth surgical tape,3M,1,1/2/2027,Bandages/gauze,,4,19
+,,2/9/2024 17:18:04,Tegaderm,3M,4,1/4/2027,Bandages/gauze,,12,19
+,,2/9/2024 17:18:11,Smallbore ext set,ICU Medical,1,10/1/2028,Catheters/tubing,,12,19
+,,2/9/2024 17:18:53,Surgicel fibrillar,Ethicon,1,4/30/2026,Bandages/gauze,,12,19
+,,2/9/2024 17:18:55,Test tubes ,,600,,Catheters/tubing,,12,32
+,,2/9/2024 17:19:11,Swab collection kit ,BD,1,12/31/2023,Diagnostic,,12,19
+,,2/9/2024 17:19:37,Hair cover,No manufacturer listed,16,,Hygiene,,12,32
+,,2/9/2024 17:20:12,Temperature log tag ,No manufacturer listed,1,,Diagnostic,,12,31
+,,2/9/2024 17:20:24,Lawei 200 pack,Lawei,200,,Other,,12,29
+,,2/9/2024 17:20:27,Providone iodine swabstick ,PDI,5,,Diagnostic,,12,19
+,,2/9/2024 17:20:55,Waist bands ,No manufacturer listed,3,,Bandages/gauze,,12,32
+,,2/9/2024 17:20:57,Quilted adult diapers,Cardinal Health,18,,Hygiene,,12,32
+,,2/9/2024 17:21:05,Diapers ,No manufacturer listed,6,,Hygiene,,12,32
+,,2/9/2024 17:21:11,Waterproof bed cover,No manufacturer listed,,,Hygiene,,12,23
+,,2/9/2024 17:21:33,Plain Slides,No manufacturer listed,10,,Diagnostic,,12,31
+,,2/9/2024 17:21:40,Blood collection ,No manufacturer listed,1,,Other,,12,32
+,,2/9/2024 17:21:52,Syringe,BD,1,4/30/2028,Syringe/needles,,12,19
+,,2/9/2024 17:22:04,Medium RTLs,ConMed,20,,Other,,12,32
+,,2/9/2024 17:22:09,Retail clothing lane ,No manufacturer listed,1,,Other,,12,32
+,,2/9/2024 17:22:17,Blue box,No manufacturer listed,1,,Other,,12,32
+,,2/9/2024 17:22:18,Medipore +pad,3M,1,9/22/2026,Other,,12,19
+,,2/9/2024 17:22:23,Electrodes,Vermed,Bag ,,Other,,12,32
+,,2/9/2024 17:22:46,Mepilex lite,Mölnlycke,2,4/28/2026,Bandages/gauze,,12,19
+,,2/9/2024 17:23:01,syringes,BD,2,9/30/2026,Syringe/needles,,12,19
+,,2/9/2024 17:24:47,needle,BD,1,10/31/2028,Syringe/needles,,12,19
+,,2/9/2024 17:24:54,Feeding Tube,No manufacturer listed,2,3/26/2028,Catheters/tubing,,12,19
+,,2/9/2024 17:24:56,Hydrophilic foam dressing,Covidien ,1,6/30/2028,Bandages/gauze,,12,19
+,,2/9/2024 17:25:27,Swab specimen collection kit,Aptima,1,5/31/2024,Other,,12,19
+,,2/9/2024 17:26:04,Pippetes ,No manufacturer listed,50,,Syringe/needles,,12,34
+,,2/9/2024 17:26:06,thermometer probe covers,Hillrom,1,,Other,,12,19
+,,2/9/2024 17:26:12,100 other test tubes ,,100,,Catheters/tubing,,12,36
+,,2/9/2024 17:26:20,Test Tubes Purple,BD,300,,Catheters/tubing,,12,36
+,,2/9/2024 17:26:31,gastronomy feeding tube,avanos,1,4/26/2024,Diagnostic,,12,34
+,,2/9/2024 17:26:32,Catheter,No manufacturer listed,1,,Catheters/tubing,,12,36
+,,2/9/2024 17:26:46,Bandages,No manufacturer listed,30,,Bandages/gauze,,12,36
+,,2/9/2024 17:27:03,Elastic Net,Medline,1,,Bandages/gauze,,12,19
+,,2/9/2024 17:27:06,Steri-Strip,No manufacturer listed,2,,Hygiene,,12,19
+,,2/9/2024 17:27:16,surgical lubricant,surgilube ,1,9/30/2021,Other,,12,19
+,,2/9/2024 17:27:16,needles,koru,35,3/18/2025,Syringe/needles,,12,34
+,,2/9/2024 17:27:21,Stax finger splint,No manufacturer listed,2,,Other,,12,19
+,,2/9/2024 17:27:27,Assorted Lab Supply,ACM,30,,Catheters/tubing,,12,36
+,,2/9/2024 17:27:28,Gauze bandage,Medline,1,,Bandages/gauze,,12,19
+,,2/9/2024 17:27:42,Pad ,No manufacturer listed,1,,Hygiene,,12,19
+,,2/9/2024 17:27:53,Conforming stretch gaze bandage,Medline,1,,Bandages/gauze,,12,19
+,,2/9/2024 17:28:15,disposable syringe,nipro,8,1/31/2028,Syringe/needles,,12,34
+,,2/9/2024 17:28:29,Catheter adapter,Addto ,1,,Catheters/tubing,,12,19
+,,2/9/2024 17:28:36,pulse oximeter adhesive sensor,Masimo set,1,9/1/2026,Other,,12,19
+,,2/9/2024 17:29:04,Orange tape,No manufacturer listed,1,,Bandages/gauze,,12,19
+,,2/9/2024 17:29:15,Low pressure stopcock with rotating male collar,Namic,1,,Catheters/tubing,,12,19
+,,2/9/2024 17:29:21,Shielded IV Catheter,BD,1,2/28/2026,Catheters/tubing,,12,19
+,,2/9/2024 17:29:31,Huggables ECG electrode,conmed,1,6/12/2020,Other,,12,19
+,,2/9/2024 17:29:34,surgical masks,3M,20,,PPE,,12,34
+,,2/9/2024 17:29:50,Spinal needle ,B Braun,1,8/31/2028,Syringe/needles,,12,19
+,,2/9/2024 17:29:50,Packing Gauze ,Fabco,1,9/30/2026,Bandages/gauze,,12,19
+,,2/9/2024 17:30:32,Universal articulating loading unit ,Coviden,1,,Surgical,38,12,12
+,,2/9/2024 17:30:42,Metal pieces,,8,,Other,,12,19
+,,2/9/2024 17:30:46,filter needles,braun,100,8/31/2028,Syringe/needles,,12,34
+,,2/9/2024 17:30:49,Clamp ,Covidien,4,,Surgical,,12,38
+,,2/9/2024 17:31:10,angiocath,BD,1,6/30/2028,Catheters/tubing,,12,19
+,,2/9/2024 17:31:14,4-0 sutures ,No manufacturer listed,10,,Surgical,,12,38
+,,2/9/2024 17:31:42,nebulizer,,1,,Other,,12,34
+,,2/9/2024 17:31:50,Random wash cloth,No manufacturer listed,,,Bandages/gauze,,12,19
+,,2/9/2024 17:32:10,Assorted sutures,,10,,Surgical,,12,38
+,,2/9/2024 17:32:15,Adult Dipers,Cardinal Health,36,,Hygiene,,12,37
+,,2/9/2024 17:32:29,Coated Vicryl,Ethicon,48,5/1/2023,Surgical,,12,38
+,,2/9/2024 17:33:02,Introducer Sheath,Terumo ,12,,Catheters/tubing,,12,37
+,,2/9/2024 17:33:08,single port feed extension set,avanos,1,12/6/2025,Catheters/tubing,,12,34
+,,2/9/2024 17:33:17,Articulating loading unit,No manufacturer listed,4,,Surgical,,12,38
+,,2/9/2024 17:33:30,Silver dressing ,VAC,2,,Other,,12,38
+,,2/9/2024 17:34:21,Hydrocolloid Dressing,HollisterWoundcare,5,7/1/2023,Other,,12,38
+,,2/9/2024 17:34:27,safety infusion set,miniloc ,2,12/18/2025,Syringe/needles,,12,34
+,,2/9/2024 17:34:44,"Tubes, green and purple cap",,400,,Catheters/tubing,,12,37
+,,2/9/2024 17:35:01,Pressure guide wire,,3,1/31/2021,Diagnostic,,12,33
+,,2/9/2024 17:35:02,staple line reinforcement ,gore,2,9/25/2023,Other,,4,33
+,,2/9/2024 17:35:08,Face cover,No manufacturer listed,1,,Hygiene,,12,38
+,,2/9/2024 17:35:11,"Thunderbeat 5mm, 35cm front-actuated grip type S",Olympus,1,2/10/2026,Other,,12,33
+,,2/9/2024 17:35:26,Epidural catheterization kit,Arrow,1,5/31/2021,Catheters/tubing,,12,33
+,,2/9/2024 17:35:26,all purpose sponge ,curity,1,1/31/2026,Bandages/gauze,,12,34
+,,2/9/2024 17:35:35,X-RAY detectable gauze sponges,Medline,100,,Surgical,,12,35
+,,2/9/2024 17:35:56,Oral Swabette ,Medichoice,12,,Diagnostic,,12,37
+,,2/9/2024 17:36:01,IV Sticker,Tegaderm ,1,8/26/2026,Catheters/tubing,,12,34
+,,2/9/2024 17:36:11,Spinal needle ,Havels,1,1/16/2024,Syringe/needles,,12,33
+,,2/9/2024 17:36:15,vascular retrieval forceps,Cook Med,1,1/22/2024,,,4,33
+,,2/9/2024 17:36:28,Chiba biopsy needle,Cook,3,11/27/2023,Syringe/needles,,12,33
+,,2/9/2024 17:36:31,Microcatheter ,Stryker,1,,Catheters/tubing,,12,33
+,,2/9/2024 17:36:36,dressing change kit,medical action,1,8/31/2024,Hygiene,,12,34
+,,2/9/2024 17:36:36,Non sterile barrier,Symmetry surgical,1,12/23/2028,Other,,12,33
+,,2/9/2024 17:36:57,catheter exchange,radifocus glideware,1,11/30/2033,Catheters/tubing,,12,33
+,,2/9/2024 17:36:59,Ureternal stent set ,Cook Med,1,1/13/2024,Other,,12,33
+,,2/9/2024 17:37:14,Dialysis Tube    ,,4,,Catheters/tubing,,12,37
+,,2/9/2024 17:37:21,filter extension sets,braun,2,8/2/2026,Syringe/needles,,12,34
+,,2/9/2024 17:37:30,Air seal,Conmed,1,6/29/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:37:33,Blood Draw Kit,BD,14,,Catheters/tubing,,12,37
+,,2/9/2024 17:37:41,Balloon Dilation catheter ,Boston Scientific ,1,1/15/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:37:47,Contrast delivery set,Merit Medical,1,1/1/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:38:05,Balloon system,Ev3,1,1/15/2024,Other,,12,33
+,,2/9/2024 17:38:12,guidewire with ICE Hydrophilic Coating ,Boston Scientific,1,1/27/2024,Catheters/tubing,,4,33
+,,2/9/2024 17:38:38,Neuro Guidewire with Hydrophilic coating ,Stryker,2,,Catheters/tubing,,12,33
+,,2/9/2024 17:38:38,iv lock,medex,20,2/15/2026,Catheters/tubing,,12,36
+,,2/9/2024 17:38:42,Cannula cap,ConMed,1,4/1/2022,Surgical,,12,33
+,,2/9/2024 17:38:56,Feeding tube kit ,Avanos,9,1/5/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:38:58,,Mentor,3,,Other,,12,33
+,,2/9/2024 17:39:13,AngioJet Ultra Power Pulse Kit,Boston Scientific ,2,1/7/2024,Syringe/needles,,12,37
+,,2/9/2024 17:39:24,Comfort covers,Allen,1,,Other,,12,33
+,,2/9/2024 17:39:38,iv administration sets,braun,1,8/31/2028,Syringe/needles,,12,34
+,,2/9/2024 17:39:40,Quick core biopsy needle set,Izi medical,1,9/30/2023,Syringe/needles,,12,33
+,,2/9/2024 17:39:57,Biopsy Instrument ,Bard ,2,9/30/2022,Surgical,,12,37
+,,2/9/2024 17:40:00,Biliary Balloon Probe,Fogarty,2,1/21/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:40:12,MRI implantable port,band access systems,1,12/31/2023,Catheters/tubing,,12,33
+,,2/9/2024 17:40:15,Jejunal feeding tube ,Avanos,1,10/27/2023,Catheters/tubing,,12,33
+,,2/9/2024 17:40:15,adapters,clave,30,9/1/2028,Diagnostic,,12,34
+,,2/9/2024 17:40:21,fixed pressure valve,codman,1,7/31/2023,Catheters/tubing,,4,33
+,,2/9/2024 17:40:21,Pinnacle ,Terumo,1,5/1/2023,Catheters/tubing,,12,33
+,,2/9/2024 17:40:25,Biopsy Needle Set,Cook Med,1,,Surgical,,12,37
+,,2/9/2024 17:40:42,nasal gastric feeding tube,avanos,1,1/13/2026,Catheters/tubing,,12,34
+,,2/9/2024 17:41:08,Ebelization Coil,Cook Med,2,12/11/2023,Surgical,,12,37
+,,2/9/2024 17:41:49,connector,vy con,30,3/17/2028,Diagnostic,,12,34
+,,2/9/2024 17:41:54,Biopsy Needle Set,Cook Med,1,12/27/2024,Surgical,,12,37
+,,2/9/2024 17:42:42,blood collection tubes,BD,200,11/30/2024,Diagnostic,,12,34
+,,2/9/2024 17:42:56,Trays,,50,,Catheters/tubing,,12,37
+,,2/9/2024 17:43:03,Ansel modification ,Flexor,1,1/20/2024,Catheters/tubing,,12,33
+,,2/9/2024 17:43:50,extension set,mini one,1,6/1/2025,Catheters/tubing,,12,34
+,,2/9/2024 17:44:00,Catheter,BD,2,,Catheters/tubing,,12,37
+,,2/9/2024 17:44:40,Pipe Cleaner ,,60,,Hygiene,,12,37
+,,2/9/2024 17:45:18,Endovascular Snare System,,1,,Surgical,,12,37
+,,2/9/2024 17:46:13,Pressure Tubing ,,1,,Surgical,,12,37
+,,2/13/2024 16:12:15,Compressor Nebulizer,Henry Schein,1,,Diagnostic,,13,1
+,,2/13/2024 16:13:36,Blood Collection Set,BD,1,3/31/2025,Other,,13,1
+,,2/13/2024 16:13:42,Criterion Examination Gloves,Henry Schein,800,9/1/2024,Surgical,,13,1
+,,2/13/2024 16:13:49,Safety Blood Collection Set + Luer Adapter,Grinder Bio One,150,5/27/2025,Catheters/tubing,,13,1
+,,2/13/2024 16:14:48,Sterile Disposable Safety Scalpel,Medline,100,4/30/2024,Surgical,,13,1
+,,2/13/2024 16:15:30,FOB Enhanced Readability Test Kit,Henry Schein,1,5/31/2025,Diagnostic,,13,1
+,,2/13/2024 16:15:31,Safety Blood Collection Set + Luer Adapter 23G,Greiner Bio One,150,11/2/2024,Catheters/tubing,,13,1
+,,2/13/2024 16:15:52,Dyna Lube Sterile,Dynarex,720,7/31/2024,Other,,13,1
+,,2/13/2024 16:17:10,Alcohol Prep Pads,Mckesson,800,9/1/2023,Hygiene,,13,1
+,,2/13/2024 16:17:16,Cotton Balls,Amazon,200 in 1 bag,,Bandages/gauze,,13,1
+,,2/13/2024 16:17:18,Mailing Envelope Kit,Immunostics,1,,Diagnostic,,13,1
+,,2/13/2024 16:18:15,Sheer Strip Bandaids,Henry Schein ,200,5/4/2024,Bandages/gauze,,13,1
+,,2/13/2024 16:18:56,Flexible Fabric Strips,Henry Schein,200,3/14/2024,Bandages/gauze,,13,1
+,,2/13/2024 16:19:10,Plastic containers,No manufacturer listed,1 bag ,,Other,,13,1
+,,2/13/2024 16:19:50,Plastic Bags,No manufacturer listed,2,,Other,,13,1
+,,2/13/2024 16:20:54,Procedure Masks,Henry Schein ,50,,Hygiene,,13,1
+,,2/13/2024 16:21:32,Wrap,No manufacturer listed,1 bag ,,Bandages/gauze,,13,1
+,,2/13/2024 16:22:01,Eye Test Chart,Good lite,2,,Other,,13,1
+,,2/13/2024 16:22:27,Urine Sample Collectors,No manufacturer listed,15,,Diagnostic,,13,1
+,,2/13/2024 16:23:14,Sterile Polyester Tipped Applicators,Puritan,1 bag,1/1/2025,Surgical,,13,1
+,,2/13/2024 16:23:57,Swabs,FloqSwabs,1 bag ,6/30/2024,Bandages/gauze,,13,1
+,,2/13/2024 16:30:30,Cloth Surgical Tape,Henry Schein,120,,Bandages/gauze,,13,2
+,,2/13/2024 16:30:53,24 Hour Urine Containers,No manufacturer listed,5,,Diagnostic,,13,2
+,,2/13/2024 16:31:30,Gauze Pads,Henry Schein ,200,,Bandages/gauze,,13,2
+,,2/13/2024 16:32:27,Earloop Procedure Masks,Henry Schein,150,,Hygiene,,13,2
+,,2/13/2024 16:32:32,Safety Needle,Duopress,200,5/19/2024,Syringe/needles,,13,2
+,,2/13/2024 16:33:12,Staple removal kit ,Cardinal Health,46,10/1/2024,Surgical,,13,2
+,,2/13/2024 16:33:20,Paper Surgical Tape,Henry Schein,60,,Surgical,,13,2
+,,2/13/2024 16:33:21,Syringe Needle,VanishPoint,50,12/28/2025,Syringe/needles,,13,2
+,,2/13/2024 16:34:18,All Gauze Sponges,Henry Schein,600,,Bandages/gauze,,13,2
+,,2/13/2024 16:34:27,Hypodermic Needle Pro Safety Device ,Smiths Medical,25,8/23/2026,Surgical,,13,2
+,,2/13/2024 16:35:21,Disposable syringes without needle,Tkmd,2 bags,7/6/2026,Syringe/needles,,13,2
+,,2/13/2024 16:35:31,Suture Removal Kit with PVP,Henry Schein,1,6/8/2023,Other,,13,2
+,,2/13/2024 16:36:17,Bare Hypodermic syringe 1 mL,DPS,300,11/29/2025,Syringe/needles,,13,2
+,,2/13/2024 16:36:42,Bare hypodermic syringe ,DPS,1 bag,11/29/2025,Syringe/needles,,13,2
+,,2/13/2024 16:36:50,Hypodermic Safety Needle,DropSafe,75,8/1/2026,Syringe/needles,,13,2
+,,2/13/2024 16:37:10,Disposable Syringe Without Needle,TKMD,200,4/3/2026,Syringe/needles,,13,12
+,,2/13/2024 16:37:56,Laceration Tray,Henry Schein,4,9/30/2024,Surgical,,13,2
+,,2/13/2024 16:38:04,Small Nitrile Examination Gloves,Henry Schein,100,2/1/2024,Hygiene,,13,2
+,,2/13/2024 16:38:10,Safety Needle,Caina,18,3/31/2026,Syringe/needles,,13,2
+,,2/13/2024 16:38:55,Face Shield,No manufacturer listed,2,,Diagnostic,,13,2
+,,2/13/2024 16:38:58,Medium Nitrile Examination Gloves,Henry Schein ,700,5/1/2024,Hygiene,,13,2
+,,2/13/2024 16:39:22,Skin staple remover,Busse,5,6/30/2025,Surgical,,13,2
+,,2/13/2024 16:39:38,Face Shield,No manufacturer listed,1,,Hygiene,,13,2
+,,2/13/2024 16:40:04,Infant Heel Warmer,MediChoice,25,7/17/2023,Diagnostic,,13,2
+,,2/13/2024 16:40:33,Safety Needle,Henry Schein,100,8/15/2026,Syringe/needles,,13,2
+,,2/13/2024 16:40:36,Alcohol Prep Pad,Medline,4,,Hygiene,,13,2
+,,2/13/2024 16:40:55,Disposable Nitrile Gloves xs,Test Equity,100,6/1/2023,Hygiene,,13,2
+,,2/13/2024 16:41:48,Particulate Respirator,3M,50,12/31/2022,Surgical,,13,2
+,,2/13/2024 16:41:54,Medium Nitrile Examination Gloves,Gen X,100,10/1/2025,Hygiene,,13,2
+,,2/13/2024 16:42:25,Disposable swabs,Jiangsu Changfeng ,1 bag,9/29/2024,Hygiene,,13,2
+,,2/13/2024 16:42:42,Paper Measuring Tape,Henry Schein ,4000,,Other,,13,2
+,,2/13/2024 16:43:02,Surgical Drapes,No manufacturer listed,150,,Diagnostic,,13,2
+,,2/13/2024 16:43:50,Cotton Tipped Applicators ,Henry Schein,5,,Other,,13,2
+,,2/13/2024 16:49:05,All-Gauze Sponges,Henry Schein,150,,Bandages/gauze,,13,3
+,,2/13/2024 16:49:37,Cloth surgical tape ,Henry schein,5,,Surgical,,13,3
+,,2/13/2024 16:49:39,Pediatric Single Use Specula,Welch Allyn,850,,Diagnostic,,13,3
+,,2/13/2024 16:49:49,Cotton Tipper Applicators,Henry Schein,2000,,Surgical,,13,3
+,,2/13/2024 16:50:11,Single Use Adult Specula,Welch Allyn,850,,Diagnostic,,13,3
+,,2/13/2024 16:50:47,Disposable ear curette ,Henry Schein ,2,,Syringe/needles,,13,3
+,,2/13/2024 16:51:12,Cotton Tipped Applicators,Henry Schein,200,,Other,,13,3
+,,2/18/2024 10:39:39,Wipes,Diversey,160 wipes,10/2/2026,Hygiene,,14,1
+,,2/18/2024 10:40:51,Catheter,icumedical,1,4/1/2024,Catheters/tubing,,P14,B3
+,,2/18/2024 10:41:07,Insolation Gown,Dukal Corporation,10,,PPE,,14,4
+,,2/18/2024 10:41:12,Blood Collection Tubes ,BD,300,1/31/2024,Catheters/tubing,,14,2
+,,2/18/2024 10:42:20,Aerosol Face Tent,teleflex ,47,2/16/2027,PPE,,P14,B3
+,,2/18/2024 10:43:21,Reflex Skin Stapler ,Conmed,114,1/10/2028,Surgical,,14,5
+,,2/18/2024 10:43:25,2% Chlorhexidine Gluconate Cloth,Stryker,24,1/19/2025,Hygiene,,14,6
+,,2/18/2024 10:43:30,Skin and Nasal Antiseptic Swab,3M,12,,Bandages/gauze,,14,4
+,,2/18/2024 10:44:22,Small Volume Nebulizer,VixOne,1,,Catheters/tubing,,14,4
+,,2/18/2024 10:45:19,9NC Blood Collection Tubes,BD,200,1/31/2024,Catheters/tubing,Blue ones,14,6
+,,2/18/2024 10:45:20,Blood collection tubes (PST Gel and Lithium Heparin ),BD,200,1/31/2024,Catheters/tubing,,14,6
+,,2/18/2024 10:45:34,Pediatric Medium Concentration Oxygen Mask,Hudson RCI,18,3/15/2028,Catheters/tubing,,14,4
+,,2/18/2024 10:46:34,SafetyGlide Needle,BD,1,1/31/2028,Syringe/needles,,14,4
+,,2/18/2024 10:47:37,Magill Forceps,Centurion,20,6/30/2027,Surgical,,14,6
+,,2/18/2024 10:50:23,Respiration Kit,Hudson RCI,1,12/7/2027,Other,,14,6
+,,2/18/2024 10:50:27,Pediatric Oxygen Mask,Hudson RCI,23,3/15/2028,Catheters/tubing,,14,9
+,,2/18/2024 10:50:58,Colostomy Bag,Hollister,20,,Other,,14,6
+,,2/18/2024 10:51:20,Surgical Floor Mat,Aspen Surgical,1,,Surgical,,14,9
+,,2/18/2024 10:51:53,IV Kit,BD,1,11/30/2028,Syringe/needles,,14,6
+,,2/18/2024 10:51:54,Lavender Inhaler,Michigan Medicine,1,,Other,,14,6
+,,2/18/2024 10:52:06,Dressing Forcep Serrated,Sklar,1,2/20/2026,Surgical,,14,6
+,,2/18/2024 10:52:13,Loose scissors ,Pakistan U,1,2/18/2024,Other,"Scissors are loose, slightly sharp, and have no packaging",P14,B6
+,,2/18/2024 10:52:18,Foley Tray System,SureStep,1,1/31/2026,Surgical,,14,9
+,,2/18/2024 10:52:33,"Blade, Rusch Standard Miller #0 (kigreca)",Teleflex,1,3/29/0022,Surgical,,14,8
+,,2/18/2024 10:52:42,Antimicrobial Incise Drape,3M,8,11/18/2023,Hygiene,,14,8
+,,2/18/2024 10:53:24,Soap Dish,Medline,1,,Hygiene,,14,6
+,,2/18/2024 10:53:24,,AuraStraight,9,3/25/2025,Catheters/tubing,,14,9
+,,2/18/2024 10:53:36,Xero form Occlusive Gauze Strip,Covidien,1,6/30/2021,Bandages/gauze,,14,6
+,,2/18/2024 10:53:44,VaPro Plus Pocket,Hollister,1,1/20/2023,Other,,14,6
+,,2/18/2024 10:53:52,"Blade, Rusch Standard Miller #1 (cozmo)",Teleflex,1,3/27/0022,Surgical,,14,8
+,,2/18/2024 10:54:20,Blunt Fill Needle Filter,BD,1,9/30/2028,Syringe/needles,,14,6
+,,2/18/2024 10:54:29,"Blade, Rusch Standard Miller #3",Teleflex,1,2/13/0022,Surgical,,14,8
+,,2/18/2024 10:54:52,Minor Dry Skin Prep Tray,Medline,1,2/28/2027,Bandages/gauze,,14,9
+,,2/18/2024 10:55:10,"Blade, Rusch Standard Miller #2 (cozmo)",Teleflex,1,10/3/0021,Surgical,,14,8
+,,2/18/2024 10:55:47,Wound pouches ,Eakin,1,,Hygiene,,14,6
+,,2/18/2024 10:56:09,Suction catheter,MediChoice,1,10/1/2027,Catheters/tubing,,14,6
+,,2/18/2024 10:56:14,Inner Cannula,Covidien ,4,2/10/2026,Catheters/tubing,,14,9
+,,2/18/2024 10:56:28,247 Pediatric Underbody ,Gentherm ,9,,Other,,14,8
+,,2/18/2024 10:57:08,Teal Surgical Pad,,2,,Hygiene,,14,10
+,,2/18/2024 10:57:29,"Blade, Rusch Standard Macintosh #3 (cozmo)",Teleflex,1,8/24/0021,Surgical,,14,8
+,,2/18/2024 10:57:59,,icumedical ,5,6/1/2023,Catheters/tubing,,14,9
+,,2/18/2024 10:58:04,Surgical Gloves (large),Nimo PPE,100,1/31/2024,PPE,,14,10
+,,2/18/2024 10:58:12,Gauze ,No manufacturer listed,10,,Bandages/gauze,,14,8
+,,2/18/2024 10:58:15,"Blade, Rusch Standard Macintosh #4 (gladysa)",Teleflex,1,8/23/0021,Surgical,,14,8
+,,2/18/2024 10:58:46,Diapers,P&G (Pampers),5,,Hygiene,,14,10
+,,2/18/2024 10:59:02,"Blade, Rusch Standard Macintosh #2 (dburmei)",Teleflex,8,8/23/0021,Surgical,,14,8
+,,2/18/2024 10:59:30,60mL Glass Bottle and Dropper,Centor,12,,Other,,14,10
+,,2/18/2024 10:59:30,Surgical Gloves (L),MedChoice,150,,PPE,Expired,14,10
+,,2/18/2024 10:59:31,"Smallbore Ext Set, Clamp, Rotating Luer",icumedical,3,5/21/2027,Catheters/tubing,,14,9
+,,2/18/2024 10:59:50,Specimen Bag ,No manufacturer listed,200,,Other,,14,8
+,,2/18/2024 11:00:07,Protective Underwear,Medichoice,16,,Hygiene,,14,10
+,,2/18/2024 11:00:18,Cytology Brush,Cytosoft,200,,Hygiene,,14,9
+,,2/18/2024 11:00:22,Protective Underwear/Diapers,MediChoice,1 pack - 20 diapers,,Hygiene,Small/Medium 34” - 46”,14,10
+,,2/18/2024 11:00:55,Quilted Adult Briefs,Cardinal Health,18,,Other,,14,10
+,,2/18/2024 11:01:01,Guaze Sponges,Medline,10,,Bandages/gauze,,14,9
+,,2/18/2024 11:01:03,30 mL Glass Bottle,,3,,Other,2 extra droppers without bottles not included ,14,10
+,,2/18/2024 11:01:53,Loose cups,Unknown ,15,,Other,,14,10
+,,2/18/2024 11:02:00,Arm sling,DJO,1,,Other,,14,10
+,,2/18/2024 11:02:01,IV monitoring kit neonatal,icumedical,1,9/1/2025,Catheters/tubing,,14,9
+,,2/18/2024 11:02:13,Tube Caps,,~50,,Catheters/tubing,,14,10
+,,2/18/2024 11:02:41,Quilted Adult Briefs,Cardinal Health,12,,Other,,14,10
+,,2/18/2024 11:03:01,Pulse Oximeter Probe Wraps,Posey,12,,Diagnostic,,14,9
+,,2/18/2024 11:03:03,Phone ,Med Pat ,1,,Other,,14,8
+,,2/18/2024 11:03:07,Roll of Gauze,,1,,Bandages/gauze,,14,10
+,,2/18/2024 11:03:55,Pediatric Medium Concentration Oxygen Mask,Teleflex,9,3/15/0028,Catheters/tubing,,14,8
+,,2/18/2024 11:04:02,Ambu Bag,Ambu,1,,Other,,14,10
+,,2/18/2024 11:04:08,Syringes ,No manufacturer listed,4 60 mL syringes,,Syringe/needles,,14,8
+,,2/18/2024 11:04:36,Minor Dry Skin Prep Tray,Medline,1,2/28/2027,Surgical,,14,9
+,,2/18/2024 11:04:37,Pump infusion Set (opened!),BD Alaris,1,11/28/2026,Surgical,,14,10
+,,2/18/2024 11:05:03,Alcohol prep,Cardinal Health,11,,Hygiene,,14,10
+,,2/18/2024 11:05:25,Stethoscope ,No manufacturer listed,1,,Diagnostic,,14,8
+,,2/18/2024 11:05:26,Spinal Needle ,BD,3,1/31/2024,Syringe/needles,,14,8
+,,2/18/2024 11:05:43,Surgical Tape,3M,1,,Surgical,,14,10
+,,2/18/2024 11:05:51,White cloth gauze,No manufacturer listed,2 rolls,,Bandages/gauze,,14,10
+,,2/18/2024 11:05:59,Urine Collection Bag,Conveen,1,5/29/2026,Catheters/tubing,Not sterile,14,10
+,,2/18/2024 11:06:44,emesis bags,Medline,50,,Other,,P14,B7
+,,2/18/2024 11:06:45,White cloth (surgical dressing?),No manufacturer listed,1 roll (4in wide - 6 feet),,Bandages/gauze,Cloth is loose and unlabeled ,14,10
+,,2/18/2024 11:06:54,"Uncuffed Tracheal Tube, Murphy Eye, Oral/Nasal",Sheridan ,i ,11/7/2023,Catheters/tubing,,14,8
+,,2/18/2024 11:06:54,Underpads,Cardinal Health,1,,Hygiene,Opened ,14,10
+,,2/18/2024 11:06:55,Arm Sling,No manufacturer listed,2,,Other,,14,10
+,,2/18/2024 11:07:47,Pressure Cuff (small adult),Dura-Cuf,1,,Diagnostic,,14,10
+,,2/18/2024 11:08:06,Washclothes,Stryker,4,,Hygiene,,P14,B7
+,,2/18/2024 11:08:28,Temperature Sensing,Medline,1,6/30/2025,Surgical,,14,11
+,,2/18/2024 11:09:09,Syringe needles,No manufacturer listed,20,,Syringe/needles,Monoject syringe needles,14,10
+,,2/18/2024 11:09:47,Reflex Skin Stapler ,ConMed,120,1/10/2028,Surgical,,14,13
+,,2/18/2024 11:09:56,Foley Catheter,Bard Medical,1,2/28/2027,Catheters/tubing,,14,11
+,,2/18/2024 11:10:30,Surgical Gloves,Molnycke Healthcare,7,3/28/2026,PPE,,P14,B7
+,,2/18/2024 11:10:33,Reflex Skin Stapler ,ConMed,120,1/10/2028,Surgical,,14,14
+,,2/18/2024 11:11:14,Reservoir set ,Amcor,1,7/15/2024,Other,,14,10
+,,2/18/2024 11:11:18,Ulnar Nerve Protector,Cardinal Health,1,,Other,,P14,B7
+,,2/18/2024 11:11:43,Safety Infusion Set,MiniLoc,1,9/11/2025,Catheters/tubing,,14,11
+,,2/18/2024 11:12:31,Catheter tubing,No manufacturer listed,1,8/15/2025,Catheters/tubing,,14,10
+,,2/18/2024 11:12:40,Urological Catheter,Bard Medical,1,5/31/2028,Catheters/tubing,,14,11
+,,2/18/2024 11:13:13,Reflex Skin Stapler,ConMed ,120,1/10/0028,Surgical,,14,15
+,,2/18/2024 11:14:03,Suction Catheters,Cardinal Health,5,,Catheters/tubing,,P14,B7
+,,2/18/2024 11:14:37,Reflex Skin Stapler,ConMed,120,1/10/0028,Surgical,,14,16
+,,2/18/2024 11:14:50,Yankaur Suction,ConMed,3,7/31/2028,Catheters/tubing,,P14,B7
+,,2/18/2024 11:14:59,Grandfoam Silver Dressing,KCI,1,4/30/2025,Catheters/tubing,,14,11
+,,2/18/2024 11:15:38,Foley Catheter,Bard,2,10/6/2026,Catheters/tubing,,P14,B7
+,,2/18/2024 11:16:13,Alcohol Pads,McKesson,129,1/1/2024,Hygiene,,14,12
+,,2/18/2024 11:16:23,Tracheal Tube,Teleflex Medical,2,9/18/2028,Catheters/tubing,,P14,B7
+,,2/18/2024 11:16:45,USG piv kit,Medline,17,9/30/2025,Surgical,,14,11
+,,2/18/2024 11:16:58,Nebulizer (w/ Pediatric Elongated Nebulizer Mask),Hudson RCI,21,11/14/2023,Other,"Non sterile, expired",14,12
+,,2/18/2024 11:17:22,Oral/Nasal tracheal tube,Covidian ,1,7/27/2028,Catheters/tubing,,P14,B7
+,,2/18/2024 11:17:29,Up-draft II Opti-never Nebulizer,Hudson RCI,92,12/3/2023,Catheters/tubing,,14,12
+,,2/18/2024 11:17:43,SafetyGlide 1 ml Syringe,BD,17,1/31/2024,Syringe/needles,,14,12
+,,2/18/2024 11:18:04,Radial Artery Catheter,Arrow international,1,8/31/2027,Catheters/tubing,,P14,B7
+,,2/18/2024 11:18:42,Larygngeal Tracheal,Teleflex,1,9/18/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:18:44,Whitefoam Dressing,KCI,1,5/28/2025,PPE,,14,11
+,,2/18/2024 11:19:20,Urine Specimen Collector,Hollister,2,,Diagnostic,Sterile ,14,12
+,,2/18/2024 11:19:41,suction cap and glove kit,vyaire ,2,10/18/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:20:15,Insulin Syringe,BD,73,5/31/2028,Syringe/needles,,14,11
+,,2/18/2024 11:20:25,TURY Set,ICU medical,1,5/1/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:20:50,Cotton Tipped Applicators,MediChoice,1000,12/30/2023,Other,,14,12
+,,2/18/2024 11:21:11,Thoracic Catheter,Atrium Medical,1,1/10/2025,Catheters/tubing,,14,7
+,,2/18/2024 11:21:49,Sterile Rayon Tipped Applicator,Puritan,24,9/1/2027,Hygiene,,14,12
+,,2/18/2024 11:22:11,Closed Urethral Tray w/ Vinyl Catheter,Dover,1,7/1/2023,Catheters/tubing,"Sterile, unopened ",14,12
+,,2/18/2024 11:22:34,P1 Surgical Gloves,Cardinal Health,7,12/31/0025,PPE,,14,17
+,,2/18/2024 11:22:35,Swabs,FLOQSwabs,27,7/31/2023,Other,,14,14
+,,2/18/2024 11:22:43,,Coloplast,1,10/1/2028,Catheters/tubing,,14,7
+,,2/18/2024 11:22:55,Sterile Rayon Tipped Applicator,Puritan,25,1/1/2028,Other,,14,12
+,,2/18/2024 11:22:58,Microbore Administration Set,Eitan Medical ,19,4/1/2025,Catheters/tubing,,14,11
+,,2/18/2024 11:23:13,Swabs,FLOQSwabs,4,1/31/2025,Other,,14,14
+,,2/18/2024 11:23:22,Aerosol Face Tent,Hudson RCI,1,,Other,Opened,14,12
+,,2/18/2024 11:23:25,P1 Surgical Gloves,Cardinal Health,6,4/30/2025,PPE,,14,17
+,,2/18/2024 11:23:44,Sterile Rayon Tipped Applicator,Puritan,23,9/1/2027,Other,,14,12
+,,2/18/2024 11:23:51,BD Secondary Set,BD,2,11/8/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:23:51,Surgical Gloves,Molnlycke,34,1/28/2021,PPE,,14,12
+,,2/18/2024 11:24:01,IV Catheter,BD,1,1/31/2024,Catheters/tubing,,14,14
+,,2/18/2024 11:24:50,Safety Glide Needle,BD,39,5/31/2028,Syringe/needles,,14,17
+,,2/18/2024 11:24:51,Single use scalpel,Lance,1,3/1/2024,Surgical,,14,14
+,,2/18/2024 11:25:05,Forceps,Sklar,3,4/11/2026,Surgical,,14,7
+,,2/18/2024 11:25:08,Swabs,FLOQSwabs,2,1/31/2024,Bandages/gauze,Loose,14,12
+,,2/18/2024 11:25:17,Povidone Iodine Antiseptic Swabsticks,Dukal,13,1/29/0026,Hygiene,,14,17
+,,2/18/2024 11:25:49,Fastrace ,ConMed,7,1/31/2024,Bandages/gauze,Quantity of sheets,14,12
+,,2/18/2024 11:25:50,Surgical Gloves,Molnlycke,48,4/28/2026,Surgical,,14,11
+,,2/18/2024 11:25:57,Suture removal kit,Medical Action Industries,1,11/29/2028,Surgical,,14,7
+,,2/18/2024 11:26:07,Blood Collection Set,BD,2,,Diagnostic,Loose,14,12
+,,2/18/2024 11:26:16,Catheter- straight tip pediatric,Coloplast,1,1/2/2024,Catheters/tubing,,14,14
+,,2/18/2024 11:26:32,Scalpel,Bard Parker,1,2/29/2028,Surgical,,14,7
+,,2/18/2024 11:27:01,WORD Bartholin Gland Catheter,Cooper Surgical,2,1/31/2024,Catheters/tubing,,14,12
+,,2/18/2024 11:27:05,Steri strip,3M,1,2/1/2024,Bandages/gauze,,14,14
+,,2/18/2024 11:27:31,Suture Kits,Ethicon,7,10/31/2027,Surgical,,14,7
+,,2/18/2024 11:27:38,Gauze Sponges,Covidien,1,1/6/2025,Bandages/gauze,,14,12
+,,2/18/2024 11:27:40,Cotton tipped applicators - non sterile,MediChoice,3 packs (100 per pack),12/30/2023,Other,One of the 3 packages is already opened,14,12
+,,2/18/2024 11:27:48,Steristrip,3M,1,9/1/2023,Bandages/gauze,,14,12
+,,2/18/2024 11:27:56,IV Catheter,BD,1,1/31/2024,Catheters/tubing,,14,14
+,,2/18/2024 11:27:57,Safety Glide Needle (1 1/2 “),BD,35,2/29/0028,Syringe/needles,,14,17
+,,2/18/2024 11:28:56,Syringes,BD,7,11/30/2027,Syringe/needles,,14,7
+,,2/18/2024 11:29:40,Syringe,Covidian ,1,7/31/2028,Syringe/needles,,14,7
+,,2/18/2024 11:29:46,Insyte-N Autoguard,BD,15,2/28/0025,Syringe/needles,,14,17
+,,2/18/2024 11:29:46,Vacutainer ,BD,2,10/31/2024,,,14,17
+,,2/18/2024 11:30:00,Surgical Caps,Halyard,~100,,PPE,,14,20
+,,2/18/2024 11:30:10,Surgical cap,Halyard,100,,PPE,,14,19
+,,2/18/2024 11:30:19,Shyringe,Avanos,1,9/27/2026,Syringe/needles,,14,7
+,,2/18/2024 11:30:59,Syringe Caps,Covidian,1,8/31/2028,Syringe/needles,,14,7
+,,2/18/2024 11:31:17,Staple Removal Kit,MediChoice,11,11/20/0023,Surgical,,14,17
+,,2/18/2024 11:31:29,Syringes,BD,12,10/31/2028,Syringe/needles,,14,7
+,,2/18/2024 11:31:52,Abdominal Binder,Dale,1,,Other,,14,18
+,,2/18/2024 11:32:04,Cohesive bandages ,Medichoice,24 rolls,7/14/2026,Bandages/gauze,,14,21
+,,2/18/2024 11:32:28,Guaze,No manufacturer listed,100,,Bandages/gauze,,14,18
+,,2/18/2024 11:32:32,Safety Infusion Set,MiniLoc,32,2/11/2026,Syringe/needles,,14,21
+,,2/18/2024 11:32:39,Safety Glide,BD,9,3/31/2027,Syringe/needles,,14,17
+,,2/18/2024 11:32:40,Disposable Syringes (10ml),Nipro,500,,Syringe/needles,,14,21
+,,2/18/2024 11:32:41,secondary set,BD,2,10/3/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:33:03,Band Aid,Covidien,1,,Other,,14,17
+,,2/18/2024 11:33:25,Blood Viles,BD,15,1/31/2024,Diagnostic,,14,18
+,,2/18/2024 11:33:33,Luer Lock to Urethra Tip Adapter,Baxter,39,3/31/2026,Other,,14,21
+,,2/18/2024 11:34:05,Tubing Arterial Pressure,ICU Medical,1,11/1/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:34:09,Safety Infusion set,Bard,1,7/10/2026,Catheters/tubing,,14,18
+,,2/18/2024 11:34:20,Female Foley Adaptor,Cook Med,8,9/14/2026,Catheters/tubing,,14,21
+,,2/18/2024 11:34:43,Safetyglide needle,BD,1,1/31/2028,Syringe/needles,,14,18
+,,2/18/2024 11:34:51,10 ml Syringe,BD,4,9/30/2028,Syringe/needles,,14,21
+,,2/18/2024 11:35:44,Mic Peg Replacement Feeding Adaptor,Avanos,2,10/9/2025,Other,,14,21
+,,2/18/2024 11:35:53,Microbore infusion set with vented/non vented spike,Elton medical sapphire,1,7/1/2026,Surgical,,14,21
+,,2/18/2024 11:35:58,Sinus-pak drawstring ,Merocel,2,10/6/2025,Catheters/tubing,,14,18
+,,2/18/2024 11:37:25,Skin and Nasal Antiseptic swabs,3M,4,,Hygiene,,14,18
+,,2/18/2024 11:37:56,Specimen Bags,No manufacturer listed,400,,Diagnostic,,14,18
+,,2/18/2024 11:38:32,Safety Infusion Set,Bard,2,12/6/2025,Catheters/tubing,,14,7
+,,2/18/2024 11:38:36,Cervical collar,Aspen,1,,Other,,14,23
+,,2/18/2024 11:39:05,Residual leg limb sock for prosthetic ,No manufacturer listed,1,,Other,Size 5 - labeled “RK”,14,23
+,,2/18/2024 11:39:11,Microbore Administration Set,Eitan Medical,9,4/1/2025,Catheters/tubing,,14,18
+,,2/18/2024 11:39:15,Inner Cannula,Covidian ,5,5/4/2028,Catheters/tubing,,14,7
+,,2/18/2024 11:39:36,Central venous tray- triple lumen polyurethane catheter,Cook Med,1,1/12/2024,Catheters/tubing,,14,23
+,,2/18/2024 11:39:56,Dressing ,Dukal Corp,8,,PPE,,14,18
+,,2/18/2024 11:40:02,Gravity Feeding Bag,Covidian,1,2/28/2027,Other,,14,7
+,,2/18/2024 11:41:16,Child CPR-2 Bag,Mercury Medical,1,1/18/2027,Catheters/tubing,,14,18
+,,2/18/2024 11:41:20,Foam Swabs + Tray (3 foam swabs per tray),No manufacturer listed,7 trays,,Other,,14,22
+,,2/18/2024 11:41:40,Bra (36B US) - front opening - breast feeding,Mara SB FC,1,,Other,,14,23
+,,2/18/2024 11:41:48,Arterial Pressure tubing,ICU medical,2,11/1/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:42:03,Catheter Access Port Kit,Medtronic,3,2/1/2024,Catheters/tubing,,14,22
+,,2/18/2024 11:42:29,Glidesheath access kit ,Terumo,1,2/1/2024,Catheters/tubing,,14,23
+,,2/18/2024 11:42:36,Temp probes,Derroyal,1,8/20/2024,Diagnostic,,14,7
+,,2/18/2024 11:43:14,Cloth Arm sling (medium/large),No manufacturer listed,1,,Other,,14,23
+,,2/18/2024 11:43:25,Snare kit ,Ev3,1,2/3/2024,Catheters/tubing,,14,23
+,,2/18/2024 11:43:29,Bougie Endotrachael Tube Introducer,SunMed,1,12/16/2023,Catheters/tubing,,14,22
+,,2/18/2024 11:43:45,Laryngeal Tracheal Tubing,Teleflex,1,5/14/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:44:25,Non woven drain sponges,Medline,64,,Bandages/gauze,,14,22
+,,2/18/2024 11:44:30,Intermittent Catheter tray,Bard,1,9/30/2022,Catheters/tubing,,14,23
+,,2/18/2024 11:44:53,Latex Bands,No manufacturer listed,2,,Other,,14,7
+,,2/18/2024 11:45:05,Tracheal Tube,Shiley,2,3/26/2024,Catheters/tubing,,14,22
+,,2/18/2024 11:45:32,Patient slippers,Halyard,9,,Other,,14,23
+,,2/18/2024 11:45:47,Conveen,Coloplast,1,6/7/2027,Other,,14,7
+,,2/18/2024 11:45:59,Insyte Autoguard,BD,3,9/30/0023,Syringe/needles,,14,22
+,,2/18/2024 11:46:07,E-Z Scrub 205,BD,23,,Hygiene,,14,23
+,,2/18/2024 11:46:23,Safety Infusion Set,Bard,1,8/30/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:46:30,Hypodermic Safety Needle,Magellan,7,2/29/2028,Syringe/needles,,14,22
+,,2/18/2024 11:46:32,CoaguChek XS PT Test,Coagucheck,1,12/31/2023,Diagnostic,,14,23
+,,2/18/2024 11:46:58,Hoversling repositioning sheet,CEpartner4U,3,,Other,,14,24
+,,2/18/2024 11:47:03,3ml Syringe,BD,2,9/30/0023,Syringe/needles,,14,22
+,,2/18/2024 11:47:08,Irrigation Splash guard,Busse,1,7/30/2026,PPE,,14,7
+,,2/18/2024 11:48:03,Stopper,Merit Medical,1,11/2/2024,Other,,14,7
+,,2/18/2024 11:48:05,Biogel PI Micro,Molnlycke,1,8/28/2025,PPE,,14,23
+,,2/18/2024 11:48:26,Training underwear,P&G (Pampers),18,,Other,,14,23
+,,2/18/2024 11:48:27,Microbore Infusion Set,Eitan Medical,30,12/1/2024,Catheters/tubing,,14,24
+,,2/18/2024 11:48:30,30 ml Syringe,BD,2,12/31/2023,Syringe/needles,,14,22
+,,2/18/2024 11:48:36,Eclipse Needle ,BD,13,1/31/2024,Syringe/needles,,14,22
+,,2/18/2024 11:49:06,Skin Protectsnt,Medline,1,,Hygiene,,14,7
+,,2/18/2024 11:49:45,Biogel Sensor,Molnlycke,1,9/28/2025,PPE,,14,23
+,,2/18/2024 11:49:46,Tape Measure,DeRoyal ,2,5/1/0023,Diagnostic,,14,22
+,,2/18/2024 11:49:54,Foam Dressing,Molnlycke,8,11/28/2026,Bandages/gauze,,14,28
+,,2/18/2024 11:50:13,Surgical Indicator Underglove (size 7),Molnlycke,23,9/28/2025,PPE,Sterile,14,23
+,,2/18/2024 11:50:16,Surgical Gloves (Biogel Pl),Molnlycke,155,8/28/2025,PPE,,14,23
+,,2/18/2024 11:50:25,Tape Measure,DeRoyal ,1,8/3/0025,Diagnostic,,14,22
+,,2/18/2024 11:50:26,Drain Sponges,Medline,8,,Bandages/gauze,,14,7
+,,2/18/2024 11:50:52,Surgical gloves,Mölnlycke,20,9/30/2023,PPE,,14,23
+,,2/18/2024 11:50:54,Biogel Sensor,Molnlycke,2,9/28/2024,PPE,,14,23
+,,2/18/2024 11:51:17,Dressing,KCI,4,4/21/2025,Bandages/gauze,,14,7
+,,2/18/2024 11:51:29,Cassette,ASP,2,4/15/2024,Other,,14,24
+,,2/18/2024 11:51:31,Biogel Sensor,Molnlycke,3,10/28/2022,PPE,,14,23
+,,2/18/2024 11:51:38,ECG Electrode,ConMed,4,11/29/0023,Diagnostic,,14,22
+,,2/18/2024 11:52:00,Blood Collection Set ,BD,8,4/30/2024,Catheters/tubing,,14,22
+,,2/18/2024 11:52:03,Glove,Molynlyckle,1,9/28/2026,PPE,,14,7
+,,2/18/2024 11:52:19,Closed Line Adaptor,Halo,10,12/12/2023,Catheters/tubing,,14,24
+,,2/18/2024 11:52:20,Latex surgical  gloves (size 7),Molnlycke,9,10/28/2025,PPE,Sterile,14,23
+,,2/18/2024 11:52:20,Surgical gloves ,Mölnlycke,2,1/28/2026,PPE,,14,23
+,,2/18/2024 11:52:40,Dressing,Covidian ,1,9/30/2027,Bandages/gauze,,14,7
+,,2/18/2024 11:52:56,Surgical gloves ,Mölnlycke ,1,10/28/2025,PPE,,14,23
+,,2/18/2024 11:53:12,B-Lock Closed Line Adaptor,Halo,28,1/23/2024,Catheters/tubing,,14,24
+,,2/18/2024 11:53:15,Dressing,Curad,1,4/24/2025,Bandages/gauze,,14,7
+,,2/18/2024 11:53:25,Vistaseal Laparoscopic Dual Applicator,Ethicon (J&J),2 packages (3 units in each),,Surgical,35 cm rigid,14,23
+,,2/18/2024 11:53:40,Sponges,Medline,150,,Bandages/gauze,,14,7
+,,2/18/2024 11:54:03,Polyisoprene surgical gloves ,Molnlycke,6,5/28/2026,PPE,Sterile,14,23
+,,2/18/2024 11:54:05,Bandaging,,1,,Bandages/gauze,,14,7
+,,2/18/2024 11:54:27,TR band,Terumo,5,6/1/2026,Other,,14,24
+,,2/18/2024 11:54:27,medical tape,transpore,1,,Other,,14,7
+,,2/18/2024 11:54:47,30 ml syringe lure lok tip ,BD,12,5/31/2023,Syringe/needles,Includes a lot of different expiration dates in 2023,14,23
+,,2/18/2024 11:55:04,Gauze,Medline,10,,Bandages/gauze,,14,24
+,,2/18/2024 11:55:10,cathnglove kit,vyaire,1,10/18/2026,Catheters/tubing,,14,7
+,,2/18/2024 11:55:22,30 ml syringe,BD,2,11/30/2026,Syringe/needles,,14,23
+,,2/18/2024 11:55:28,DuraPrep Surgical Solution,3M,1,1/30/0024,Hygiene,,14,22
+,,2/18/2024 11:55:39,Memory foam pads / splints,No manufacturer listed,7,,Other,,14,7
+,,2/18/2024 11:56:04,Safety IV Catheter ,Braun,4,12/1/2020,Catheters/tubing,,14,22
+,,2/18/2024 11:56:08,Kendall cloth tape,Covidien,5 rolls - 3” x 10 yd,3/1/2024,Bandages/gauze,,14,23
+,,2/18/2024 11:56:09,3mL syringe,BD,20,9/30/2028,Syringe/needles,,14,23
+,,2/18/2024 11:56:12,washcloth,,5,,Hygiene,,14,7
+,,2/18/2024 11:56:25,Control Syringe,BD,1,2/29/0024,Syringe/needles,,14,22
+,,2/18/2024 11:56:27,Polyisoprene surgical gloves (size 6),Molnlycke,1,11/28/2024,PPE,Sterile,14,23
+,,2/18/2024 11:56:37,20ml syringe,BD,2,9/30/2027,Syringe/needles,,14,23
+,,2/18/2024 11:57:13,Ring Cushion,Medline,1,,Other,,14,7
+,,2/18/2024 11:57:46,Polyisoprene surgical gloves ,Molnlycke,1,7/28/2024,PPE,"Sterile, tested for use with chemotherapy agents",14,23
+,,2/18/2024 11:57:50,3mL syringe,BD,8,11/30/2027,Syringe/needles,,14,23
+,,2/18/2024 11:58:06,10ml vacutainer,BD,10,10/31/2024,Catheters/tubing,,14,23
+,,2/18/2024 11:58:54,Blood collection vial,BD,13,1/31/2025,Diagnostic,Loose,14,23
+,,2/18/2024 11:59:22,Personal Belonging Bags,No manufacturer listed,3,,Other,,14,7
+,,2/18/2024 11:59:27,Gauze bandage,Medline,1,,Bandages/gauze,,14,23
+,,2/18/2024 11:59:36,Dissector sponges,Medline,5,,Other,,14,23
+,,2/18/2024 11:59:39,Transparent Film w/ Pad,Medline,2,,PPE,,14,7
+,,2/18/2024 11:59:56,10 mL syringe ,BD,2,6/30/2028,Syringe/needles,"Slip tip, embout luer slip",14,23
+,,2/18/2024 12:00:17,Respiratory Bags,Medchoice,30,,Other,,14,7
+,,2/18/2024 12:00:34,Cotton Tipped Applicators,Medline,22,,Bandages/gauze,,14,7
+,,2/18/2024 12:00:37,Toothbrush,No manufacturer listed,1,,Hygiene,,14,23
+,,2/18/2024 12:00:46,Brace,No manufacturer listed,1,,Other,Area unknown ,14,23
+,,2/18/2024 12:00:59,Time of Death Tag Packs,,17,,Other,,14,7
+,,2/18/2024 12:01:32,Syringe ,BD,1,12/31/2027,Syringe/needles,,14,7
+,,2/18/2024 12:01:53,Guide Wire M,Terumo,1,1/31/2024,Other,,14,23
+,,2/18/2024 12:01:57,Needle Blade,BVI Beaver,1,2/8/2028,Surgical,,14,23
+,,2/18/2024 12:02:05,6 in monitoring extension set,Icumedical,1,11/1/2026,Surgical,,14,23
+,,2/18/2024 12:02:06,Stretch Vinyl Exam Gloves,Medline,900,,PPE,,15,4
+,,2/18/2024 12:02:23,Foley Stabilization,Statlock,1,,Catheters/tubing,,14,7
+,,2/18/2024 12:02:30,Steri strip,3M,5,11/27/2028,Bandages/gauze,,14,7
+,,2/18/2024 12:02:57,Prep Resistant Skin Marker,WriteSite Plus,1,,Other,,14,23
+,,2/18/2024 12:03:17,Single Stage Benous Cannula,Medtronic,2,1/13/2024,Catheters/tubing,,14,23
+,,2/18/2024 12:03:27,3 mL Applicator,BD,5,,Catheters/tubing,,14,7
+,,2/18/2024 12:03:41,Anti-skid instrument mat,Medline,67,,PPE,,15,1
+,,2/18/2024 12:03:43,Skyla levonorgestrel-releasing intrauterine system,Bayer,2,3/1/2024,Other,,14,23
+,,2/18/2024 12:04:12,Precision Needle,BD,30,6/30/2027,Syringe/needles,,14,7
+,,2/18/2024 12:04:16,Catheter adapter,Addto,,,Catheters/tubing,,14,23
+,,2/18/2024 12:04:32,Skyla levonorgestrel-releasing intrauterine system,Bayer,1,5/1/2024,Other,,14,23
+,,2/18/2024 12:05:58,Needles,Braun,2,6/30/2028,Syringe/needles,,14,7
+,,2/18/2024 12:06:05,Urine Meter tray,Medline,10,,Catheters/tubing,,15,2
+,,2/18/2024 12:07:13,Precision needles,BD,3,10/21/2028,Syringe/needles,,14,7
+,,2/18/2024 12:07:24,Exam gloves  ,Medline,150,,PPE,,15,3
+,,2/18/2024 12:07:50,Glide Needles,BD,40,10/31/2028,Syringe/needles,,14,7
+,,2/18/2024 12:08:18,GLV 1 Stat,Glide scope,8,7/19/2026,Other,,15,3
+,,2/18/2024 12:08:24,X-ray detectable gauze sponges ,Medline,80,,Other,,15,3
+,,2/18/2024 12:08:31,35mL breast milk collection and storage containers,Medela,1,1/2/2027,Other,,15,3
+,,2/18/2024 12:08:46,Spinal Needle,Hakko ,1,12/3/2027,Syringe/needles,,14,7
+,,2/18/2024 12:08:55,GVL 2 Stat,GLIDESCOPE,3,7/26/2026,Other,,15,3
+,,2/18/2024 12:08:57,Adult Briefs,Cardinal Health,12,,Hygiene,,15,2
+,,2/18/2024 12:09:27,cannula,Covidian,12,6/30/2028,Syringe/needles,,14,7
+,,2/18/2024 12:09:55,Alaris Pump infusion set (0.2 Micron filter),BD,8,11/18/2026,Surgical,"Back check valve, low sorbing tubing (PE lined), 2 smartsite Y sites",15,3
+,,2/18/2024 12:10:33,Gloves,Medline,50,,PPE,,15,2
+,,2/18/2024 12:10:39,autoguaed needles,BD,1,9/30/2026,Syringe/needles,,14,7
+,,2/18/2024 12:11:13,IV catheter,Braun,1,4/1/2027,Catheters/tubing,,14,7
+,,2/18/2024 12:11:40,needle,BD,1,,Syringe/needles,,14,7
+,,2/18/2024 12:12:14,safety needle,Covidian,1,7/31/2028,Syringe/needles,,14,7
+,,2/18/2024 12:12:27,Driveline Management System 2,Centurion,2,4/30/2024,PPE,,15,2
+,,2/18/2024 12:13:12,SafetyGlide Needle,BD,36,2/29/0028,Syringe/needles,,15,2
+,,2/18/2024 12:13:24,Safety Guide Needles,BD,50,5/31/2028,Syringe/needles,,15,2
+,,2/18/2024 12:13:38,Field Towel/drape,Medichoice,50,,PPE,,15,2
+,,2/18/2024 12:14:20,Wipes,Pampers,56,,Hygiene,,15,2
+,,2/18/2024 12:14:27,Female Luer Adaptor,Applied Med Tech,1,3/1/2026,Catheters/tubing,,14,7
+,,2/18/2024 12:15:18,CO2 Detector,Ambu ,1,9/26/2026,Diagnostic,,14,7
+,,2/18/2024 12:15:26,Cytology Brush,Cytosoft,800,,Diagnostic,,15,2
+,,2/18/2024 12:15:31,Povidone Iodine Antiseptic Swabsticks,Dukal ,64,1/29/0026,Hygiene,,15,2
+,,2/18/2024 12:15:57,Surgical Gloves,Medline,7,2/28/2026,Surgical,,15,3
+,,2/18/2024 12:16:19,CO2 detector,Ambu,1,8/17/2025,Diagnostic,,14,7
+,,2/18/2024 12:16:26,PCA administration kit,BD,9,10/13/2025,Catheters/tubing,,15,2
+,,2/18/2024 12:17:09,Finger Splints,Richardson Products,2,,Other,,14,7
+,,2/18/2024 12:17:11,Surgical Gloves,Cardinal Health,1,5/31/2025,Surgical,,15,2
+,,2/18/2024 12:17:36,Safety Lancets,Medicore ,200,9/22/2027,Syringe/needles,,15,2
+,,2/18/2024 12:17:51,Beta Cap Clamp,Covidian ,5,2/2/2028,Catheters/tubing,,14,7
+,,2/18/2024 12:17:55,Surgical Gloves,Cardinal Health,42,5/31/2025,Surgical,,15,2
+,,2/18/2024 12:18:00,"Medscand Sample Collection Kit (25 Pap Perfect, 25 Cytobrush Plus)",Cooper Surgical,6,,Other,,15,2
+,,2/18/2024 12:18:40,Blood Transfer Device,BD,1,9/30/2026,Catheters/tubing,,14,7
+,,2/18/2024 12:19:25,Silicone Tracheostomy Tube,Portex ,1,11/21/0023,Catheters/tubing,,15,2
+,,2/18/2024 12:19:28,Funnel Connector w cap,Cedic Srl,1,8/23/2026,Catheters/tubing,,14,7
+,,2/18/2024 12:20:00,shielded blood cannula,ICU medical,1,11/1/2028,Syringe/needles,,14,7
+,,2/18/2024 12:20:10,Small Volumr nebulizer,West Med,1,8/24/0026,Catheters/tubing,,15,2
+,,3/15/2024 15:22:02,Rice Baby Food,Gerber,1,8/31/2024,Infant Care,,1,9
+,,3/15/2024 15:22:12,gel pack, med pace ,8,,Other,,1,7
+,,3/15/2024 15:22:20,face mask,dymex,200,,PPE (Gloves/Masks),,1,10
+,,3/15/2024 15:22:31,Shielded Iv Catheter,BD,6,6/30/2023,Needles and Syringes,,1,6
+,,3/15/2024 15:23:00,adult pulse oximeter adhesive sensor,masimo set,2,,Other,,1,9
+,,3/15/2024 15:23:20,Needle,BD,1,12/31/2024,Needles and Syringes,,1,6
+,,3/15/2024 15:23:21,1000 mL Canister for InfoV.A.C therapy systems,KCI,1,3/31/2024,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,9
+,,3/15/2024 15:23:25,needles ,BD,25,1/31/2024,Needles and Syringes,,1,7
+,,3/15/2024 15:24:04,,No manufacturer listed,2,,"Respiratory care (masks, nebulizer, cannula)",,1,9
+,,3/15/2024 15:24:11,Cement Delivery System and Cartridged,Kyphon,1,,Tubing/Catheters,,1,9
+,,3/15/2024 15:24:16,Mixer ,Kyphon ,1,1/4/2024,"Respiratory care (masks, nebulizer, cannula)",6 different pieces,1,9
+,,3/15/2024 15:24:18,Insulin Syringe,BD,2,3/31/2023,Needles and Syringes,,1,6
+,,3/15/2024 15:24:53,diapers ,huggies,60,,Infant Care,,1,7
+,,3/15/2024 15:25:17,Biogel Indicator Underglove,Mölnlycke,47,7/28/2026,PPE (Gloves/Masks),,P1,B7
+,,3/15/2024 15:25:32,diapers ,pampers ,64,,Infant Care,,1,7
+,,3/15/2024 15:26:02,Nasal Cannulas,Salter Labs,3,3/7/2026,Tubing/Catheters,,1,6
+,,3/15/2024 15:26:06,autoguard,BD,3,9/30/2023,Tubing/Catheters,,1,9
+,,3/15/2024 15:26:46,Oxygen Tubing,Intersurgical ,1,1/1/2022,Tubing/Catheters,,1,6
+,,3/15/2024 15:27:24,vacutainer,BD,11,,Tubing/Catheters,,1,9
+,,3/15/2024 15:28:02,vacutainer,BD,3,,Tubing/Catheters,,1,9
+,,3/15/2024 15:28:24,sharps disposal with some alcohol wipes inside ,henry schein ,1,,Other,,1,7
+,,3/15/2024 15:28:37,vacutainer,BD,4,,Tubing/Catheters,,1,9
+,,3/15/2024 15:30:14,BD PrecisionGlide Needle Aiguille BD PrecisionGlide,BD,100,4/30/2027,Needles and Syringes,,P1,B7
+,,3/15/2024 15:30:18,Injection Needle with Syringe,BD,50,8/31/2027,Needles and Syringes,,1,13
+,,3/15/2024 15:31:50,ultrasounds transmission gel ,Parker Laboratories ,288,6/20/2027,Surgical Tools,,1,15
+,,3/15/2024 15:31:56,silicone nipple w bottle collar ,dr browns ,11,,Infant Care,,1,7
+,,3/15/2024 15:32:24,GVL 1 Stat,GlideScope,12,7/19/2026,"Respiratory care (masks, nebulizer, cannula)",,1,12
+,,3/15/2024 15:32:40, Diapers,No manufacturer listed,9,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,12
+,,3/15/2024 15:33:16,Adult blood pressure cuff ,Critikon,17,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",No expiration date ,1,11
+,,3/15/2024 15:33:22,syringe,norm-ject,14,6/1/2025,Needles and Syringes,,1,17
+,,3/15/2024 15:33:29,X-Ray Detectable Guaze sponges,Medline,17,,"Wound Care (dressings, sponges, gauze)",10 sponges per box ,1,17
+,,3/15/2024 15:33:32,Abdominal Pad,Medline,1,,"Wound Care (dressings, sponges, gauze)",,1,12
+,,3/15/2024 15:33:47,single use syringes 2 piece ,norm next ,100,6/1/2025,Needles and Syringes,,1,16
+,,3/15/2024 15:34:13,Child Bp cuff,Critikon ,16,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",No expiration date ,1,11
+,,3/15/2024 15:34:43,Mesh Gauze,DeRoyal,8,,"Wound Care (dressings, sponges, gauze)",,1,12
+,,3/15/2024 15:34:51,Plastic circle attachments,Steelcase,50,,Other,No expiration date ,1,11
+,,3/15/2024 15:34:57,Blood Sampling Tube Holder with Blunt Cannula,ICUmedical,58,7/1/2026,Needles and Syringes,,1,12
+,,3/15/2024 15:35:19,BD Vacutainer,BD,1,9/30/2024,Other,,1,17
+,,3/15/2024 15:35:34,Cysto Pack,Presource,7,5/21/2027,PPE (Gloves/Masks),,1,6
+,,3/15/2024 15:35:49,BD Eclipse Needle,BD,104,10/31/2027,Needles and Syringes,,P1,B7
+,,3/15/2024 15:35:53,Skin stapler + gauze sponge,Medichoice,7,11/23/2023,"Wound Care (dressings, sponges, gauze)",,1,11
+,,3/15/2024 15:36:07,zipper bag,damaisely ,40,,Other,,1,7
+,,3/15/2024 15:36:09,Specimen Cups ,Cardinal Health,5,,Other,,1,12
+,,3/15/2024 15:36:19,Foot Boots,Aircast ,2,,Mobility aids,,1,14
+,,3/15/2024 15:36:34,Gastrostomy Feeding Tube,Avanos ,1,12/1/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:36:35,Silicone Nipples,Dr. Brown’s Medical,16,,Infant Care,,1,17
+,,3/15/2024 15:37:06,Tegaderm film,3M,7,4/18/2023,Surgical Tools,,1,11
+,,3/15/2024 15:37:07,poly-lined fenestrated drape,Medline,6,,PPE (Gloves/Masks),,1,20
+,,3/15/2024 15:37:22,Compression Sleeve,,9,,Mobility aids,,1,8
+,,3/15/2024 15:37:56,disposable syringe without needle ,tkmd,93,11/3/2025,Needles and Syringes,,1,18
+,,3/15/2024 15:38:04,Catheter tray,Bard,1,7/31/2023,Tubing/Catheters,,1,11
+,,3/15/2024 15:38:04,Compression Stocking,Mediven ,1,,Mobility aids,,1,8
+,,3/15/2024 15:38:33,Chest Tube Insertion Pack,Cardinal Health,1,3/1/2023,Surgical Tools,,1,12
+,,3/15/2024 15:38:36,Foam,,1,,Mobility aids,,1,8
+,,3/15/2024 15:39:07,Chest Tube Insertion Pack,Cardinal Health,2,5/1/2024,Surgical Tools,,1,12
+,,3/15/2024 15:39:07,Neck Bracr,Aspen,1,,Mobility aids,,1,8
+,,3/15/2024 15:39:15,Exam gloves - medium,Medichoice ,150,11/27/2023,PPE (Gloves/Masks),,1,11
+,,3/15/2024 15:39:23,Neonatal electrodes ,Cardinal Health,27,11/1/2024,Infant Care,,1,12
+,,3/15/2024 15:39:42,Chest Tube Insertion Pack,Cardinal Health,1,5/1/2025,Surgical Tools,,1,12
+,,3/15/2024 15:39:50,Bras,,5,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,8
+,,3/15/2024 15:39:52,Injection needle,BD,50,9/1/0023,Needles and Syringes,,1,11
+,,3/15/2024 15:40:09,Gauze wrap,No manufacturer listed,7,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:40:24,Knee Brace,,3,,Mobility aids,,1,8
+,,3/15/2024 15:40:35,Suction Valve,Storz,3,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,12
+,,3/15/2024 15:40:48,Tape,No manufacturer listed,5,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:40:51,Arm Brace,,1,,Mobility aids,,1,8
+,,3/15/2024 15:41:12,Nylon suture,Ethilon,12,11/1/2023,"Wound Care (dressings, sponges, gauze)",,1,11
+,,3/15/2024 15:41:27,SafetyGlide Needle,BD,16,3/31/2027,Needles and Syringes,,1,18
+,,3/15/2024 15:41:45,Safety Needle ,tkmd,203,6/27/2026,Needles and Syringes,,1,18
+,,3/15/2024 15:42:15,Precision glide needle ,BD,3,4/30/2028,Needles and Syringes,,1,18
+,,3/15/2024 15:42:23,supply kit with pipette and specimen tube ,labconnect ,35,,Other,,1,7
+,,3/15/2024 15:42:25,Gauze bandages ,Medline,4,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:42:29,Cord,GE medical systems ,1,,Other,No name of product,1,11
+,,3/15/2024 15:42:52,blood collection set,BD,16,9/30/2025,Needles and Syringes,,1,20
+,,3/15/2024 15:43:31,Flip lock needles,MHC Medical Products ,2,7/21/2026,Needles and Syringes,,1,18
+,,3/15/2024 15:43:37,BioGlo ,Madhu instruments,100,4/1/2023,Other,,1,11
+,,3/15/2024 15:44:07,plastic cups ,No manufacturer listed,40,,Other,,1,7
+,,3/15/2024 15:44:12,4 way - Stopcock,Medex,15,11/30/2025,Other,,1,20
+,,3/15/2024 15:44:30,Safety glide injection needle,BD,2,2/29/2028,Needles and Syringes,,1,18
+,,3/15/2024 15:44:52,3 mL Applicator,BD,5,,Tubing/Catheters,,1,20
+,,3/15/2024 15:44:53,95 kPa Specimen Transport Bag,Dist. Tennant Packaging Corporation ,4,,Other,,P1,B7
+,,3/15/2024 15:45:13,Suture,Ethicon,25,11/30/2023,"Wound Care (dressings, sponges, gauze)",,1,11
+,,3/15/2024 15:45:30,Pillow,,1,,Other,,1,11
+,,3/15/2024 15:45:32,4mL Blood Vial,BD,7,1/31/2024,Tubing/Catheters,,1,12
+,,3/15/2024 15:45:32,Buff Na Citrate ,BD,6,12/31/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:45:33,vacutainer,BD,17,7/31/2023,Other,,1,7
+,,3/15/2024 15:45:40,Plastipal 3ml syringe ,BD,2,11/30/2027,Needles and Syringes,,1,18
+,,3/15/2024 15:46:05,Bedpans,None,3,,"Personal Hygiene and Care (including women’s health, and bedpans)",No expiration date/manufacturer ,1,11
+,,3/15/2024 15:46:09,Bandage,Smith and Nephew,200,3/1/2026,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:46:29,Blood Vial,BD,3,12/31/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:46:36,feeding syringes with purple caps,ENFit,6 bags of 24 syringes with purple caps,,Needles and Syringes,,1,20
+,,3/15/2024 15:46:40,syringe ,BD,58,11/30/2025,Needles and Syringes,,1,18
+,,3/15/2024 15:46:49,Blood collection set,BD,1,9/30/2025,Needles and Syringes,,1,18
+,,3/15/2024 15:46:51,Blood tubes,BD,4,10/31/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:47:13,Foam pad,Covidien,5,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:47:26,6 mL Blood Vial,BD,1,11/30/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:47:34,canister for infovac ,kci ,1,3/31/2024,"Respiratory care (masks, nebulizer, cannula)",,1,7
+,,3/15/2024 15:48:02,tubes/ sodium fluoride ,BD,2,12/31/2023,Tubing/Catheters,,12,1
+,,3/15/2024 15:48:03,4mL Blood Vial,BD,1,5/31/2023,Tubing/Catheters,,1,12
+,,3/15/2024 15:48:19,7 1/2 surgical gloves,molnycke,2,4/28/2026,PPE (Gloves/Masks),,1,20
+,,3/15/2024 15:48:28,Protective disk with CHG,Ethicon,1,2/28/2025,Surgical Tools,,1,18
+,,3/15/2024 15:48:56,milk collection system (breast pump),ameda,1,3/1/2028,Other,,1,18
+,,3/15/2024 15:49:34,6 1/2 surgical gloves,molnlycke,2,7/28/2026,PPE (Gloves/Masks),,1,20
+,,3/15/2024 15:49:47,Secure all limb holder,DJO,1,10/28/2022,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:49:54,500 ML Canister for Therapy Systems,Acelity,1,2/28/2025,Other,,1,20
+,,3/15/2024 15:50:01,wall holder assembly ,hillrom,1,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,18
+,,3/15/2024 15:50:09,Injection Needle,BD,2,3/31/2023,Needles and Syringes,,1,12
+,,3/15/2024 15:50:13,needles,bygone ,2,,Needles and Syringes,,1,12
+,,3/15/2024 15:50:27,test tube ,No manufacturer listed,10,,Other,,1,7
+,,3/15/2024 15:50:35,Padding,Medline,5,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:50:39,Exam gloves,Medline,1,2/1/2023,PPE (Gloves/Masks),,1,18
+,,3/15/2024 15:50:51,comfort touch frame head rest,Medline,1,,Other,,1,18
+,,3/15/2024 15:50:53,transparent film dressing ,Medline,32,,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:51:15,Gauze,No manufacturer listed,2,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:51:16,filter straw,No manufacturer listed,,9/30/2024,Needles and Syringes,,1,12
+,,3/15/2024 15:51:25,Test Tubes,Falcon,11,,Other,,P1,B7
+,,3/15/2024 15:51:41,Needle,BD,80,,Needles and Syringes,,1,22
+,,3/15/2024 15:52:12,Urine collection pouch,Conveen,1,6/26/2026,Other,,1,20
+,,3/15/2024 15:52:15,needle,BD,1,4/30/2022,Needles and Syringes,,1,12
+,,3/15/2024 15:52:19,Soap Dishes,,25,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,21
+,,3/15/2024 15:52:22,exploratory plasma 1 test tube ,No manufacturer listed,7,,Other,,1,7
+,,3/15/2024 15:52:28,10ml syringe,BD,2,8/31/2028,Needles and Syringes,,1,20
+,,3/15/2024 15:52:36,Safety Multifly Needle,Sarstedt ,1,7/1/2025,Needles and Syringes,,1,12
+,,3/15/2024 15:52:42,Vaseline,Covidien,10,6/30/2025,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:52:49,Chux ,,10,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 15:52:56,test tube medium,No manufacturer listed,9,,Other,,1,7
+,,3/15/2024 15:52:59,Suction Tubing,Coviden,1,7/31/2027,Tubing/Catheters,,1,20
+,,3/15/2024 15:53:02,Iris Scissors 4.5’’,Sklar ,1,,Surgical Tools,,1,20
+,,3/15/2024 15:53:11,50 ml syringe,BD,1,8/31/2028,Needles and Syringes,,1,20
+,,3/15/2024 15:53:13,hydrocolloid dressing ,restore ,1 box of 5,5/1/2025,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:53:35,N95,3M,12,7/1/2025,PPE (Gloves/Masks),,1,21
+,,3/15/2024 15:53:42,various test tubes ,,24,,Other,,1,7
+,,3/15/2024 15:54:01,Cup lids,,100,,Other,,1,21
+,,3/15/2024 15:54:13,Bandage,Hartmann,1,,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:54:14,Alcohol prep wipes,Covidien,2,,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:54:15,wayne pneumothorax tray,Cook Med,1,6/15/2023,Surgical Tools,,1,18
+,,3/15/2024 15:54:21,gauze pads ,Medline,1 x 200,,"Wound Care (dressings, sponges, gauze)",,1,7
+,,3/15/2024 15:54:47,Tube,No manufacturer listed,1,,Tubing/Catheters,,1,18
+,,3/15/2024 15:54:54,clear test tubes ,,10,,Other,,1,7
+,,3/15/2024 15:55:03,Adult Non-Rebreathing Mask with Safety Vent and Tubing,Teleflex,1,10/13/2026,"Respiratory care (masks, nebulizer, cannula)",,P1,B7
+,,3/15/2024 15:55:04,Abdominal Pad,Medline,20,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 15:55:18,radial artery catheterization set,arrow,15,10/31/2027,Tubing/Catheters,,1,18
+,,3/15/2024 15:55:27,test tubes ,,10,,Other,,1,7
+,,3/15/2024 15:55:52,Thoracic Catheter,Atrium,1,11/30/2025,Tubing/Catheters,,1,21
+,,3/15/2024 15:55:57,Umbilical catheter,Vygon,1,1/28/2027,Tubing/Catheters,,1,20
+,,3/15/2024 15:56:05,Suction instrument yankauer,Conmed ,1,2/5/2028,Tubing/Catheters,,1,18
+,,3/15/2024 15:56:05,Protective Disk with CHG,Ethicon,10,,Other,,1,20
+,,3/15/2024 15:56:08,no sting barrier film,3M,12,8/30/2026,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,20
+,,3/15/2024 15:56:25,DNA collection kit ,Oragene Dx,7,1/20/2025,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,10
+,,3/15/2024 15:56:42,Ultrasound Transmission Gel,Aquasonic,288,6/20/2027,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,22
+,,3/15/2024 15:56:45,Catheters,Medline,2,5/28/2027,Tubing/Catheters,,1,21
+,,3/15/2024 15:57:14,suture string ,ethicon,12,7/31/2028,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:57:15,fluid solidified kit ,No manufacturer listed,5,,Other,,1,7
+,,3/15/2024 15:57:16,Invisishield,Medline,3,12/28/2027,PPE (Gloves/Masks),,1,8
+,,3/15/2024 15:57:25,Pediatric Arm Splint,,2,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 15:57:36,Bedpan ,No manufacturer listed,1,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,18
+,,3/15/2024 15:57:41,Surgical Tape,3M,1,4/15/2026,"Wound Care (dressings, sponges, gauze)",,1,20
+,,3/15/2024 15:57:54,gold M logo arm sling XL ,kenad sg,1,,Mobility aids,,1,18
+,,3/15/2024 15:58:05,abdominal binder,Dale,1 box,8/18/2028,Other,,1,20
+,,3/15/2024 15:58:09,Disposable Transducer,icumedical,1,2/1/2026,Tubing/Catheters,,1,20
+,,3/15/2024 15:58:10,Slide Box,Fisher Brand,10,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,10
+,,3/15/2024 15:58:15,50 ml Syringe for Enteral feedings,NeoMed,30,,Needles and Syringes,,1,21
+,,3/15/2024 15:58:40,Petrolatum dressing ,Curad,1,3/20/2025,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:59:02,extension set (microbore),BD,10,8/16/2028,Tubing/Catheters,,1,18
+,,3/15/2024 15:59:19,Tape,Curad ,1,,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 15:59:21,Sunction Canister Lid,Cardinal Health,3,,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 15:59:22,blood collection needle ,BD,5,,Needles and Syringes,,1,7
+,,3/15/2024 15:59:24,Bacterial Filter,Airlife,2,,Other,,1,20
+,,3/15/2024 15:59:32,Graduated Suction Catheter w/ Chimney Value,Cardinal Health,1,,Tubing/Catheters,,1,20
+,,3/15/2024 15:59:36,Orange Sample Canister,Simport Science,1,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,10
+,,3/15/2024 15:59:43,Tape,Cardinal Health,1,,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:00:03,disposable pipettes ,No manufacturer listed,20,,Other,,1,7
+,,3/15/2024 16:00:08,Wound Drainage Catheter with Barrier,Hollister,8,3/1/2028,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:00:09,lumbar catheter closed tip,integra,1,5/2/2027,Tubing/Catheters,,1,20
+,,3/15/2024 16:00:19,cvc dressing kit ,Medline,1,10/31/2024,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:00:27,Specimen collection bags,Covance,100,,Other,,1,10
+,,3/15/2024 16:00:30,Specimen Collection Bag,Labcorp,1,,Other,,P1,B7
+,,3/15/2024 16:00:53,Newborn Pacifier,Phillips,1,,Infant Care,,1,20
+,,3/15/2024 16:00:55,Micropuncture Inteoducer Set,Cook Med,3,8/11/2026,Surgical Tools,,1,21
+,,3/15/2024 16:01:09,Low pressure stopcock with rotating male collar ,Medline,1,,Surgical Tools,,1,18
+,,3/15/2024 16:01:20,Sutures,,40,,Surgical Tools,,1,21
+,,3/15/2024 16:01:39,plastic pipettes,No manufacturer listed,350,,Other,,1,10
+,,3/15/2024 16:01:49,premium underpads,Cardinal Health,1,,Other,,1,20
+,,3/15/2024 16:01:57,Tegaderm,3M,1,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:02:07,Cleaning wands,No manufacturer listed,5,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,18
+,,3/15/2024 16:02:26,clear sample collector (15ml),BD,200,,Other,,1,10
+,,3/15/2024 16:02:34,Catheter,Self Cath,10,5/31/2022,Tubing/Catheters,,1,20
+,,3/15/2024 16:02:34,Urine sample cups,No manufacturer listed,10,,Other,,1,10
+,,3/15/2024 16:02:39,oral gel,Medline,19,10/1/2024,Other,,1,18
+,,3/15/2024 16:03:03,tuohy needle,natus,1,6/30/2027,Needles and Syringes,,1,20
+,,3/15/2024 16:03:03,Cook Chest Drainage Valve,Cook Med,2,12/17/2024,Tubing/Catheters,,1,21
+,,3/15/2024 16:03:04,ostomy barrier ring pack of 10 ,hollister ,2,12/1/2027,Other,,1,18
+,,3/15/2024 16:03:13,Bandages,Smith and Nephew,5,,,,1,20
+,,3/15/2024 16:03:23,Misc. (test tubes - multiple sizes),Multiple brands,~150,,Other,,P1,B7
+,,3/15/2024 16:03:27,Pulse oximeter adhesive sensor,Masimo set,1,2/1/2026,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,18
+,,3/15/2024 16:03:34,transfusion catheter kit ,vygon ,1,9/30/2023,Tubing/Catheters,,1,24
+,,3/15/2024 16:03:38,Suction instrument ,ConMed,1,,Tubing/Catheters,,1,20
+,,3/15/2024 16:03:46,Sewn Band Bag,Vital Care Industries,1,9/24/2024,Other,,1,21
+,,3/15/2024 16:04:09,Cysto pack ,Cardinal Health,1,5/1/2027,Surgical Tools,,1,22
+,,3/15/2024 16:04:21,nasal feeding tube with stylet,AMT,1,4/1/2026,Tubing/Catheters,,1,20
+,,3/15/2024 16:04:31,dove bar soap ,dove ,4,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,18
+,,3/15/2024 16:04:44,Infant Tether,TenderCare,100,,Infant Care,,1,20
+,,3/15/2024 16:04:51,Electrolyte Powder,Abbott,1,10/1/2024,Other,,1,23
+,,3/15/2024 16:04:53,Syringes,BD,2,3/31/2028,Needles and Syringes,,1,21
+,,3/15/2024 16:05:23,I’ve Sevondary Set,BD,1,,Tubing/Catheters,,1,21
+,,3/15/2024 16:05:30,Safety Needle,Covidien,2,6/30/2028,Needles and Syringes,,1,20
+,,3/15/2024 16:05:42,fliplock needles,flip lock,50,10/12/2026,Needles and Syringes,,1,20
+,,3/15/2024 16:05:47,Needle,BD,8,,Needles and Syringes,,1,20
+,,3/15/2024 16:05:57,vac granufoam dressing ,kci,5,8/31/2024,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:06:04,Blood draw kits,,50,,,,1,10
+,,3/15/2024 16:06:05,spinal needle,,1,2/6/2023,Surgical Tools,,1,23
+,,3/15/2024 16:06:06,Red Bag,Tidi Shield,1,,PPE (Gloves/Masks),,1,21
+,,3/15/2024 16:06:08,Nasal Feeding Tube,AMTO,4,4/1/2026,Tubing/Catheters,,1,23
+,,3/15/2024 16:06:10,Serum collector (black circle cap),No manufacturer listed,450,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,10
+,,3/15/2024 16:06:14,Inner Cannula Disposable,Covidien,1,5/25/2028,Tubing/Catheters,,1,20
+,,3/15/2024 16:06:40,M/F luer lock plug,medex,10,4/17/2026,Tubing/Catheters,,1,18
+,,3/15/2024 16:06:51,Disposable inner cannula,Covidien,4,4/17/2028,Tubing/Catheters,,1,18
+,,3/15/2024 16:06:52,needle,BD,2,7/31/2028,Needles and Syringes,,1,20
+,,3/15/2024 16:06:58,Elastic Bandage,Novaplus,1,7/13/2028,Mobility aids,,1,21
+,,3/15/2024 16:07:08,Blunt Cannula ,Medex,2,4/11/2026,Other,,1,20
+,,3/15/2024 16:07:10,opaque yellow/clear 1.8ml tubes,No manufacturer listed,150,,Other,,1,10
+,,3/15/2024 16:07:26,Gauze Badage,Medline,1,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:07:29,DuoDerm Extra Thin spots,ConvaTec,1,5/1/2028,Other,,1,23
+,,3/15/2024 16:07:41,Safety glide injection needles,BD,3,6/30/2028,Needles and Syringes,,1,18
+,,3/15/2024 16:07:50,Pressure Rated Extension Set,BD,1,4/3/2026,Tubing/Catheters,,1,20
+,,3/15/2024 16:07:52,urethral catheter ,Medline,2,3/28/2028,Tubing/Catheters,,1,18
+,,3/15/2024 16:08:00,small and large red capped collection tubes,No manufacturer listed,20,,Other,,1,10
+,,3/15/2024 16:08:01,infant underbody,gentherm,1,,Infant Care,,1,18
+,,3/15/2024 16:08:05,Purple Caps,,100,,Other,,1,21
+,,3/15/2024 16:08:19,compression glove,norco,i ,,PPE (Gloves/Masks),,1,20
+,,3/15/2024 16:08:20,Suction Pad,Hollister,1,,Other,,1,20
+,,3/15/2024 16:08:29,Blood Collection kit,BD,1,9/30/2025,Tubing/Catheters,,1,23
+,,3/15/2024 16:08:31,Spinal Needle,Braun ,1,6/30/2028,Needles and Syringes,,1,20
+,,3/15/2024 16:08:44,Blood draw needles,,75,10/31/2025,Needles and Syringes,,1,10
+,,3/15/2024 16:08:45,Transition Connector,Covidien,1,5/31/2025,Other,,1,21
+,,3/15/2024 16:08:52,Plastipak 3ml syringe,BD,4,11/30/2027,Needles and Syringes,,1,18
+,,3/15/2024 16:08:53,catheter ,self cath,2,11/24/2026,Tubing/Catheters,,1,18
+,,3/15/2024 16:09:09,larger PK sample collection tubes,No manufacturer listed,50,,Other,,1,10
+,,3/15/2024 16:09:12,orange capped vials ,No manufacturer listed,50,,Other,,p1 ,10
+,,3/15/2024 16:09:15,Surgical Scrub Brush,BD,1,,PPE (Gloves/Masks),,1,21
+,,3/15/2024 16:09:17,iv catheter ,BD,3,4/30/2026,Needles and Syringes,,1,18
+,,3/15/2024 16:09:40,pressure rates extension set ,BD,1,,Tubing/Catheters,,1,23
+,,3/15/2024 16:09:41,Spinal needle,Hakko,1,2/6/2023,Needles and Syringes,,1,20
+,,3/15/2024 16:09:45,Transparent Film Dressing,Medline,10,,"Wound Care (dressings, sponges, gauze)",,1,23
+,,3/15/2024 16:09:49,IV Catheter,Braun ,4,5/1/2028,Tubing/Catheters,,1,18
+,,3/15/2024 16:09:53,Clear collection vials,,50,,Other,,1,10
+,,3/15/2024 16:10:05,Contact Layer,Urgotul,5,11/1/2025,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:10:05,graduated suction catheter with chimney valve,Cardinal Health,1,,Tubing/Catheters,,1,18
+,,3/15/2024 16:10:09,red capped vial,No manufacturer listed,7,,Other,,1,10
+,,3/15/2024 16:10:11,Green ADA sampling tubes + 7plex second tubes,No manufacturer listed,20,,Other,,1,10
+,,3/15/2024 16:10:26,kangaroo enfit transition connector ,coviden,2,5/31/2025,Needles and Syringes,,1,18
+,,3/15/2024 16:10:27,3 mL Syringe,BD,1,3/31/2027,Needles and Syringes,,1,23
+,,3/15/2024 16:10:33,V.A.C Granuform Dressing,KCI,1,7/31/2026,Tubing/Catheters,,1,20
+,,3/15/2024 16:10:34,Y tubing connector,Busse,1,4/20/2027,Tubing/Catheters,,1,20
+,,3/15/2024 16:10:34,Safety infusion set,Bard,1,12/19/2025,Needles and Syringes,,1,18
+,,3/15/2024 16:10:49,Homeostatic Dressing,ControlPlus,1,8/23/2026,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:11:14,extension tubing ,avanos ,1,5/30/2026,Tubing/Catheters,,1,18
+,,3/15/2024 16:11:16,Extension Set Minibore,BD,1,4/26/2027,Tubing/Catheters,,1,23
+,,3/15/2024 16:11:17,Pulse oximeter adhesive sensor ,Masimo set,1,2/1/2026,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,18
+,,3/15/2024 16:11:18,tracheostomy tube ,portex,1,8/29/2027,"Respiratory care (masks, nebulizer, cannula)",,1,18
+,,3/15/2024 16:11:21,Swab set,BD,1,7/31/2022,Other,,1,23
+,,3/15/2024 16:11:27,Disposable Inner Canula,Shiley,1,8/23/2028,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 16:12:07,Absorbable Hemostat,Ethicon,1,1/31/2025,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:12:13,Petroleum dressing ,Curad,3,4/24/2025,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:12:14,15 inch Extension Set,icumedical,1,9/1/2025,Tubing/Catheters,,1,23
+,,3/15/2024 16:12:21,Drill kit,Phasor,1,4/30/2025,Other,,1,25
+,,3/15/2024 16:12:29,tracheostomy tube ,covidien ,1,3/1/2027,Tubing/Catheters,,1,18
+,,3/15/2024 16:12:32,battery,procell,1,,Other,,1,18
+,,3/15/2024 16:12:39,IV catheter,BD,1,3/31/2026,Tubing/Catheters,,1,20
+,,3/15/2024 16:12:43,Infant Defibrillator Electrodes,PadPro,1,3/6/2026,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 16:12:52,suture kits,Ethicon,1,10/31/2026,Surgical Tools,,1,23
+,,3/15/2024 16:13:17,Swab specimen collection kit,Aptima ,1,12/31/2023,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,18
+,,3/15/2024 16:13:18,Exchange Transfusion set,Vygon ,1,11/1/2023,Other,,P7,B24
+,,3/15/2024 16:13:30,Border Heel,Molnlycke,3,3/28/2026,"Wound Care (dressings, sponges, gauze)",,1,23
+,,3/15/2024 16:13:33,needle connected to tubing,,1,10/31/2024,Needles and Syringes,,1,20
+,,3/15/2024 16:13:38,spray bottle top,,2,,Other,,1,18
+,,3/15/2024 16:13:39,Luer Lock,BD,2,4/30/2026,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 16:13:50,Tracheostomy Tube,Covidien,1,4/1/2028,Tubing/Catheters,,1,20
+,,3/15/2024 16:14:01,Woven gauze sponges,Medline,1,,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:14:02,impervious stockinette ,medichoice,1,12/6/2027,"Wound Care (dressings, sponges, gauze)",,1,18
+,,3/15/2024 16:14:21,socks,ultracare,4,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,23
+,,3/15/2024 16:14:28,Syringes,No manufacturer listed,3,,Needles and Syringes,,1,20
+,,3/15/2024 16:14:48,medium titanium ligating clips,teleflex,1,9/4/2027,Other,,1,20
+,,3/15/2024 16:15:21,Vanishpoint syringe,vanishpoint,100,12/28/2025,Needles and Syringes,,1,26
+,,3/15/2024 16:15:22,Guedel airway,MediChoice,1,,Tubing/Catheters,,1,20
+,,3/15/2024 16:15:29,Face Mask,Ambu ,1,5/7/2026,PPE (Gloves/Masks),,1,20
+,,3/15/2024 16:15:37,orange tube,No manufacturer listed,1,,Tubing/Catheters,,1,20
+,,3/15/2024 16:16:11,Norm-Ject Luer Lock Solo,NormJect,75,7/1/2025,Needles and Syringes,,1,26
+,,3/15/2024 16:16:29,suction catheter with chimney valve ,Cardinal Health,6,,Tubing/Catheters,,1,23
+,,3/15/2024 16:16:58,Clinitubes,Radiometer,1,2/28/2025,Tubing/Catheters,,1,20
+,,3/15/2024 16:17:07,Arterial Pressure Tubing ,ICU medical,10,7/1/2022,Tubing/Catheters,,1,26
+,,3/15/2024 16:17:54,Suction Catheter Tubing Valve,Cardinal Health,9,,Tubing/Catheters,,1,26
+,,3/15/2024 16:18:04,tegaderm film,No manufacturer listed,2,,Surgical Tools,,1,23
+,,3/15/2024 16:18:21,Forceps,Sklar,25,6/14/2024,,,1,26
+,,3/15/2024 16:18:34,CathLab Kit,ICU medical,5,7/1/2026,Tubing/Catheters,,1,26
+,,3/15/2024 16:19:03,Drill With Kit,Phasor,1,4/30/2025,Other,,1,28
+,,3/15/2024 16:19:04,drill with kit,phasor,1,4/30/2025,Other,,1,29
+,,3/15/2024 16:19:12,IV monitoring kit,ICu medical,1,9/1/2024,Tubing/Catheters,,1,26
+,,3/15/2024 16:19:42,Impervious Surgical Gown ,Cardinal Health,1,8/1/2023,Surgical Tools,,1,23
+,,3/15/2024 16:19:59,Roch pean forceps,Sklar,25,6/23/2024,Surgical Tools,,1,26
+,,3/15/2024 16:20:24,securement device,centurion ,1,,Surgical Tools,,1,23
+,,3/15/2024 16:20:45,milk straw with ENfit connection (5”),covidien,1,10/31/2023,Infant Care,,1,26
+,,3/15/2024 16:21:01,electrical wire ,curbell,183,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,27
+,,3/15/2024 16:21:42,bio patch ,ethicon ,1,,"Wound Care (dressings, sponges, gauze)",,1,23
+,,3/15/2024 16:21:54,IV cathater,BD,5,3/31/2026,Needles and Syringes,,1,26
+,,3/15/2024 16:22:21,Gravity Feeding Tube,Covidien,1,6/30/2027,Tubing/Catheters,,1,23
+,,3/15/2024 16:23:45,Urostomy pouch,Hollister,7,,Other,,1,22
+,,3/15/2024 16:24:15,nasal feeding tube,AMT,1,6/1/2026,Tubing/Catheters,,1,23
+,,3/15/2024 16:24:20,N95 masks,3M,20,9/13/2022,PPE (Gloves/Masks),,1,22
+,,3/15/2024 16:24:21,Oral/Nasal Trachael Tube Cuffless,Covidien ,14,8/14/2028,Tubing/Catheters,,1,22
+,,3/15/2024 16:25:30,Stool Specimen Cup ,Para-Pak,1,12/15/2024,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,23
+,,3/15/2024 16:25:37,Humidifier Adapter,teleflex,1,,Other,,1,23
+,,3/15/2024 16:25:44,Conditioning Garment,MXP fitnessgear,2,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,22
+,,3/15/2024 16:26:02,Disposable Care Biopsy Instrument ,Bard,1,4/30/2023,Tubing/Catheters,,1,32
+,,3/15/2024 16:26:03,Injection Needles,BD,100,5/31/2027,Needles and Syringes,,1,22
+,,3/15/2024 16:26:19,Urological Catheter,Bard,2,12/31/2027,Tubing/Catheters,,1,23
+,,3/15/2024 16:26:30,gauze sponges,Medline,12,,"Wound Care (dressings, sponges, gauze)",,1,23
+,,3/15/2024 16:26:43,Disposable Syringe,Tkmd ,280,10/1/2025,Needles and Syringes,,1,30
+,,3/15/2024 16:26:47,Injection Needle with Luer Lok Syringe,BD,40,1/31/2027,Needles and Syringes,,1,22
+,,3/15/2024 16:27:28,Pipettes ,No manufacturer listed,300,,Needles and Syringes,,1,33
+,,3/15/2024 16:27:35,Needle (subQ precision glide),BD,50,,Needles and Syringes,,1,22
+,,3/15/2024 16:27:54,mucus specimen trap,medchoice,2,1/10/2027,Tubing/Catheters,,1,22
+,,3/15/2024 16:28:00,Foley Tray System,Bard,1,9/30/2025,Other,,1,32
+,,3/15/2024 16:28:13,Assorted Viles,No manufacturer listed,400,,Needles and Syringes,,1,33
+,,3/15/2024 16:28:28,scissors,Skylar,4,8/13/2026,Surgical Tools,,1,22
+,,3/15/2024 16:28:33,Safety Needle,Tkmd,200,12/1/2025,Needles and Syringes,,1,30
+,,3/15/2024 16:28:38,Oral/enteral feed/med,NeoConnect/NeoMed,8,,Needles and Syringes,,1,22
+,,3/15/2024 16:29:07,Blood Collection Needle,BD,30,1/1/2026,Needles and Syringes,,1,33
+,,3/15/2024 16:29:14,Bougie Endotracheal Tube Introducer,SunMed,20,10/23/2023,Tubing/Catheters,,1,22
+,,3/15/2024 16:29:15,disposable syringe,shifeng,,6/30/2026,Needles and Syringes,,1,30
+,,3/15/2024 16:29:22,cloth? ,,12,,Other,,1,22
+,,3/15/2024 16:29:35,large clinical pak ,fedex,5,,Other,,1,24
+,,3/15/2024 16:29:47,Glidescope ,Verathon,10,7/19/2026,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,22
+,,3/15/2024 16:29:51,Materials for IG collection ,,20,,Needles and Syringes,,1,33
+,,3/15/2024 16:30:24,dna diagnostic ,dna genotex ,4,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:30:32,Microscope slides,,2,,Other,,1,33
+,,3/15/2024 16:30:41,Integra Syringe,BD,150,,Needles and Syringes,,1,22
+,,3/15/2024 16:30:42,Syringe without needle,Terumo,50,1/11/2026,Needles and Syringes,,1,22
+,,3/15/2024 16:30:46,Allevyn tracheostomy ,Smith & nephew,1,2/11/2023,Other,,1,22
+,,3/15/2024 16:31:00,green braided non absorbable surure,ethicon,20,6/30/2025,Surgical Tools,,1,22
+,,3/15/2024 16:31:11,"polar pack (4 small, 2 big) ",thermosafe ,6,,Other,,1,24
+,,3/15/2024 16:31:32,pipettes ,No manufacturer listed,4,,Other,,1,24
+,,3/15/2024 16:31:55,Safetyglide Insulin,BD,45,11/30/2023,Needles and Syringes,,1,22
+,,3/15/2024 16:32:34,Vent Tubing,No manufacturer listed,15,,,,1,21
+,,3/15/2024 16:32:56,Hypodermic Needle,SoL M,100,2/3/2024,Needles and Syringes,,1,22
+,,3/15/2024 16:32:57,Adult Cordless Patient Return Electrode ,Covidien,1,9/15/2023,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,32
+,,3/15/2024 16:33:01,serological pipette,fisher brand,15,,Other,,1,24
+,,3/15/2024 16:33:17,Magil cath fcp ,Sklar ,1,,Other,,1,22
+,,3/15/2024 16:33:31,Quick clean micro-steam bag,Medela,10,,Other,,1,22
+,,3/15/2024 16:33:46,transparent film  w pad ,Medline,6,,Other,,1,22
+,,3/15/2024 16:33:47,Kit A: Archived Tumor Collection,Tempest Therapeutics,6,,Other,,P1,B24
+,,3/15/2024 16:33:58,Blunt Fill Needle with filter,BD,100,3/31/2024,Needles and Syringes,,1,22
+,,3/15/2024 16:34:00,Bone Marrow Mononuclear Cell Kit,Cyteir Therapeutics ,3,9/29/2023,Needles and Syringes,,1,33
+,,3/15/2024 16:34:34,Inflatable Ambu Bags,No manufacturer listed,12,,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 16:34:50,Border sacrum ,Molnlycke,1,4/28/2026,"Wound Care (dressings, sponges, gauze)",,1,22
+,,3/15/2024 16:35:05,PD Biomarker Plasma Kit,Cyteir ,1,9/29/2023,Needles and Syringes,,1,33
+,,3/15/2024 16:35:06,woven gauze sponges,Medline,200,,"Wound Care (dressings, sponges, gauze)",,1,22
+,,3/15/2024 16:35:10,Blood pressure cuff,Cratikon,1,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:35:54,Maxzero,BD,30,3/31/2025,Other,,1,21
+,,3/15/2024 16:36:15,Specimen Transport Bag,No manufacturer listed,100,,Other,,1,32
+,,3/15/2024 16:36:18,Latex Free Syringe,BD,225,,Needles and Syringes,,1,23
+,,3/15/2024 16:36:44,mayo hegar,sklar,2,11/10/2024,Surgical Tools,,1,22
+,,3/15/2024 16:36:50,Pressure infuser,Medline,1,,Other,,1,21
+,,3/15/2024 16:36:58,Pipette ,No manufacturer listed,150,,Needles and Syringes,,1,32
+,,3/15/2024 16:37:01,kit d l: tpst pk collection,labconnect ,6,3/31/2024,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:37:04,Plastic cups ,No manufacturer listed,15,,Other,,1,22
+,,3/15/2024 16:37:27,Vial,No manufacturer listed,50,,Needles and Syringes,,1,32
+,,3/15/2024 16:37:41,Suction Instrument,ConMed,4,8/5/2028,Tubing/Catheters,,1,22
+,,3/15/2024 16:37:50,kit c: tpst pk collection ,labconnect,5,3/31/2024,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:38:04,Face mask ,Ambu,4,,"Respiratory care (masks, nebulizer, cannula)",,1,21
+,,3/15/2024 16:38:09,Kit B: Paired Biopsy Collection,Tempest Therapeutics,11,11/1/2023,Other,,P1,B24
+,,3/15/2024 16:38:23,Blood Vial,BD,200,1/31/2024,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,32
+,,3/15/2024 16:38:49,EKG Electrode sticker,No manufacturer listed,50,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:38:51,suction catheter,covidien ,1,,Tubing/Catheters,,1,21
+,,3/15/2024 16:38:59,Iv start kit,Medichoice,1,,Needles and Syringes,,1,22
+,,3/15/2024 16:39:09,kit H: gene expression collection ,tempest therapeutics,7,4/30/2024,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:39:09,Vial,No manufacturer listed,200,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,32
+,,3/15/2024 16:39:12,Finger sock,,5,,Other,,1,22
+,,3/15/2024 16:39:16,purple syringes,No manufacturer listed,75,,Needles and Syringes,,1,22
+,,3/15/2024 16:39:20,Nasal cannula ,No manufacturer listed,1,,"Respiratory care (masks, nebulizer, cannula)",,1,21
+,,3/15/2024 16:39:26,Syringes ,No manufacturer listed,70,,Needles and Syringes,,1,32
+,,3/15/2024 16:39:54,rotating luer,icumedical,11,4/1/2028,,,1,31
+,,3/15/2024 16:40:03,Alcohol swaps,Webcol,2,,PPE (Gloves/Masks),,1,21
+,,3/15/2024 16:40:10,Urine Cup,No manufacturer listed,5,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,32
+,,3/15/2024 16:40:11,mosquito for pets 5’’,fine surgical instrument,1,,Surgical Tools,,1,21
+,,3/15/2024 16:40:17,Kit E: Urine for PGE-M and Thromboxane,Tempest Therapeutics,6,11/30/2026,Other,,P1,B24
+,,3/15/2024 16:40:21,CVC dressing kit,Medline,3,11/30/2024,"Wound Care (dressings, sponges, gauze)",,1,22
+,,3/15/2024 16:40:25,eclipse blood collection needle,BD,200,11/30/2025,Needles and Syringes,,1,31
+,,3/15/2024 16:40:29,specimen bags assorted sizes ,No manufacturer listed,21,,Other,,1,24
+,,3/15/2024 16:40:35,"Tray, skin prep, dry, forecep ",Presource standard,1,9/1/2024,Surgical Tools,,1,22
+,,3/15/2024 16:40:43,Pediatric pulseox,Masimo,1,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:41:18,Assorted collection vials,BD,600,,Needles and Syringes,,1,31
+,,3/15/2024 16:41:19,Tape,3M,3,,Other,,1,21
+,,3/15/2024 16:41:22,Sample Collection,No manufacturer listed,4,,Other,,1,32
+,,3/15/2024 16:41:25,kit n: ctdna collection ,tempest therapeutics,3,9/14/2023,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:41:29,Safety Tube Holder,greiner bio one,1,,Tubing/Catheters,,1,32
+,,3/15/2024 16:41:43,blood collection set,BD,14,2/28/2025,Needles and Syringes,,1,31
+,,3/15/2024 16:41:58,single-lumen infusion catheter ,teleflex,1,3/31/2028,Tubing/Catheters,,1,21
+,,3/15/2024 16:42:08,Isothermal adult omniflex connector,AirLife,2,,"Emergency Response and Resuscitation (CPR, Defibrillators)",,1,21
+,,3/15/2024 16:42:09,kit s: urine serum plasma and gene expression ,tempest therapeutics,1,8/31/2023,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:42:14,Kit G: TPST PD Collection (2TP),Tempest Therapeutics,2,11/1/2023,Other,,P1,B24
+,,3/15/2024 16:42:40,Pipettes ,No manufacturer listed,350,,Surgical Tools,Some packaged some unpackaged ,1,31
+,,3/15/2024 16:43:00,kit o: biopsy collection ,tempest therapeutics,3,11/1/2023,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:43:10,Intubation equipment,No manufacturer listed,1,,"Respiratory care (masks, nebulizer, cannula)",,1,21
+,,3/15/2024 16:43:15,blood draw kits,No manufacturer listed,20,,Other,,1,31
+,,3/15/2024 16:43:33,peak flow meter,monaghan,1,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:43:43,Intravia container,Baxter,2,,Tubing/Catheters,,1,21
+,,3/15/2024 16:43:48,Sample collection bags,Covance,10,,Other,,1,31
+,,3/15/2024 16:43:55,Kit I: Gene Expression Collection (2TP),Tempest Therapeutics,7,4/30/2024,Other,,P1,B24
+,,3/15/2024 16:43:55,kit k : whole blood collection ,tempest therapeutics,3,10/31/2023,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,24
+,,3/15/2024 16:44:01,blood collection needles ,micsafe,75,5/1/2027,Needles and Syringes,,1,31
+,,3/15/2024 16:44:09,Gvl 1 stat glide scope ,Verathon,5,7/19/2026,Tubing/Catheters,,1,31
+,,3/15/2024 16:44:13,Specimen collection bag ,Convance,8,,Other,,1,31
+,,3/15/2024 16:44:28,IV tape,No manufacturer listed,2,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:44:48,urethral cathater,Bard,4,6/30/2028,Tubing/Catheters,,1,31
+,,3/15/2024 16:44:58,Syringes ,No manufacturer listed,30,,Other,,1,32
+,,3/15/2024 16:45:03,adult regional saturation sensor,covidien,1,9/17/2021,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:45:10,Exchange transfusion set,Vygon ,1,9/30/2023,Other,,1,31
+,,3/15/2024 16:45:13,0.2 micron low protein binding filter ,BD,1,8/6/2025,Tubing/Catheters,,1,21
+,,3/15/2024 16:45:41,paper ,standard register ,1,,Other,,1,31
+,,3/15/2024 16:45:42,urine collection tubes ,No manufacturer listed,6,,Other,,1,31
+,,3/15/2024 16:45:57,Woven gauze sponge,Medline,10,,"Wound Care (dressings, sponges, gauze)",,1,21
+,,3/15/2024 16:45:58,nasopharyngeal temperature probe,deroyal ,1,1/10/2025,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:46:26,blood draw kits + tubes ,pace ,20,9/5/2023,Needles and Syringes,,1,31
+,,3/15/2024 16:46:33,Arterial pressure tubing,ICUMedical,2,,Tubing/Catheters,,1,21
+,,3/15/2024 16:46:45,Plastic thing with hole in it,Genmab ,35,,Other,,1,31
+,,3/15/2024 16:46:48,Biohazard Bag,No manufacturer listed,100,,Other,,1,32
+,,3/15/2024 16:47:16,glass slides ,No manufacturer listed,7,,Other,,1,31
+,,3/15/2024 16:47:21,5mL syringe,BD,4,5/31/2028,Needles and Syringes,,1,21
+,,3/15/2024 16:47:30,Nasopharyngeal temp probe,DeRoyal,1,1/10/2025,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:47:39,stool collection kit ,,3,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,31
+,,3/15/2024 16:47:52,oxygen tubing,No manufacturer listed,1,,Tubing/Catheters,,1,21
+,,3/15/2024 16:47:54,Face goggles,DeRoyal,1,,PPE (Gloves/Masks),,1,21
+,,3/15/2024 16:48:24,pupil gauge ,medichoice,1,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,21
+,,3/15/2024 16:51:02,face masks,dymex ,2,,PPE (Gloves/Masks),,1,32
+,,3/15/2024 16:51:09,Patient Slippers,Medline,15,,"Personal Hygiene and Care (including women’s health, and bedpans)",,1,32
+,,3/15/2024 16:51:14,3 ml pipet,No manufacturer listed,33,,Other,,1,32
+,,3/15/2024 16:51:18,Blood Collection Kit,,70,10/31/2023,Needles and Syringes,,1,32
+,,3/15/2024 16:52:27,Vial connector blood collection,BD,70,,Tubing/Catheters,,1,32
+,,3/15/2024 16:53:02,Vials,,100,,Needles and Syringes,,1,32
+,,3/15/2024 16:53:31,Plasma collection kit,BD,5,8/25/2023,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,23
+,,3/15/2024 16:53:46,Vial,No manufacturer listed,100,10/1/2023,Needles and Syringes,,1,32
+,,3/15/2024 16:54:08,95 kPa specimen transport bag,vonseql,15,,Other,,1,32
+,,3/15/2024 16:54:21,Blood collection needle,BD,5,,Needles and Syringes,,1,32
+,,3/15/2024 16:55:28,DNA Kits,DNA Genotek,5,,"Diagnostic and Monitoring Equipment (BP cuffs, oximeters)",,1,32
+,,3/15/2024 16:55:43,blood collection needles,BD,1,,Needles and Syringes,,1,32
+,,3/15/2024 16:56:00,Blood Collection Needle,BD,3,1/31/2026,Needles and Syringes,,1,32
+,,3/15/2024 16:57:57,safety blood collection needle,micsafe,2,5/1/2025,Needles and Syringes,,1,32
