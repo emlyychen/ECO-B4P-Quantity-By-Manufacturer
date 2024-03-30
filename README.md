@@ -8,7 +8,7 @@ Create a virtual environment(venv) and install the necessary Python packages usi
   ```sh
   $ source venv/bin/activate
   ```
-* Install the requirements listed in `requirements.txt`! Every python project typically has a `requirements.txt` file that lists all the dependencies for that project. The following command will install every package listed in the `requirements.txt` file using `pip`, a common python :
+* Install the requirements listed in `requirements.txt`! Every python project typically has a `requirements.txt` file that lists all the dependencies for that project. The following command will install every package listed in the `requirements.txt` file using `pip`, a common python package installer/manager:
   ```sh
   $ pip install -r requirements.txt
   ```
