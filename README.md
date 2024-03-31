@@ -18,4 +18,4 @@ Create a virtual environment(venv) and install the necessary Python packages usi
   ```
 * Side note 2: To leave the venv, just type `deactivate` in the terminal. You should no longer see (venv) next to your terminal prompt.
 
-Now you should be good to run the Jupyter Notebook! If you need to start from the beginning of all this, just delete your whole `venv/` directory and run `pip uninstall -r requirements.txt`.
+Now you should be good to run the Jupyter Notebook! If you need to start from the beginning of all this, just `deactivate` the venv and and delete the `venv/` directory.
