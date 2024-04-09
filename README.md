@@ -1,5 +1,5 @@
 ## Getting Started
-Create a virtual environment(venv) and install the necessary Python packages using the commands below! A virtual environment is essentially an isolated workspace that allows programmers to download python packages/dependencies that only apply to the directory the venv is created in. This is nice because different projects require different packages with different versions. Virtual environments let you download packages for one project without affecting your other projects.
+Create a virtual environment(venv) and install the necessary Python packages using the commands below! A virtual environment is essentially an isolated workspace that allows programmers to download python packages/dependencies that only apply to the directory the venv is created in. This is nice because different projects require different packages with different versions. Virtual environments let you download packages for one project without affecting the necessary dependencies for other projects.
 * Pull up a terminal and create a venv using this command:
   ```sh
   $ python -m venv venv
